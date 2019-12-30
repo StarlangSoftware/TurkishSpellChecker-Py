@@ -79,7 +79,7 @@ class SimpleSpellChecker(SpellChecker):
         candidates = self.generateCandidateList(word.getName())
         i = 0
         while i < len(candidates):
-            fsmParseList = self.fsm.morphologicalAnalysisSurfaceForm(candidates[i])
+            fsmParseList = self.fsm.morphologicalAnalysis(candidates[i])
             if fsmParseList.size() == 0:
                 candidates.pop(i)
             else:
@@ -108,7 +108,7 @@ class SimpleSpellChecker(SpellChecker):
         result = Sentence()
         for i in range(sentence.wordCount()):
             word = sentence.getWord(i)
-            fsmParseList = self.fsm.morphologicalAnalysisSurfaceForm(word.getName())
+            fsmParseList = self.fsm.morphologicalAnalysis(word.getName())
             if fsmParseList.size() == 0:
                 candidates = self.candidateList(word)
                 if len(candidates) > 0:
