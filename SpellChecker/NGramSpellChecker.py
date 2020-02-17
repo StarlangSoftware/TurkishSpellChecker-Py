@@ -10,48 +10,48 @@ class NGramSpellChecker(SimpleSpellChecker):
 
     __nGram: NGram
 
-    """
-    A constructor of NGramSpellChecker class which takes a FsmMorphologicalAnalyzer and an NGram as inputs. Then, calls 
-    its super class SimpleSpellChecker with given FsmMorphologicalAnalyzer and assigns given NGram to the nGram 
-    variable.
-
-    PARAMETERS
-    ----------
-    fsm : FsmMorphologicalAnalyzer
-        FsmMorphologicalAnalyzer type input.
-    nGram : NGram
-        NGram type input.
-    """
     def __init__(self, fsm: FsmMorphologicalAnalyzer, nGram: NGram):
+        """
+        A constructor of NGramSpellChecker class which takes a FsmMorphologicalAnalyzer and an NGram as inputs. Then,
+        calls its super class SimpleSpellChecker with given FsmMorphologicalAnalyzer and assigns given NGram to the
+        nGram variable.
+
+        PARAMETERS
+        ----------
+        fsm : FsmMorphologicalAnalyzer
+            FsmMorphologicalAnalyzer type input.
+        nGram : NGram
+            NGram type input.
+        """
         super().__init__(fsm)
         self.__nGram = nGram
 
-    """
-    The spellCheck method takes a Sentence as an input and loops i times where i ranges from 0 to size of words in given
-    sentence. Then, it calls morphologicalAnalysis method with each word and assigns it to the FsmParseList, if 
-    the size of FsmParseList is equal to the 0, it adds current word to the candidateList and assigns it to the 
-    candidates list.
-
-    Later on, it loops through candidates list and calls morphologicalAnalysis method with each word and assigns it to 
-    the FsmParseList. Then, it gets the root from FsmParseList. For the first time, it defines a previousRoot by calling 
-    getProbability method with root, and for the following times it calls getProbability method with previousRoot and 
-    root. Then, it finds out the best probability and the corresponding candidate as best candidate and adds it to the 
-    result Sentence.
-
-    If the size of FsmParseList is not equal to 0, it directly adds the current word to the result Sentence and finds 
-    the previousRoot directly from the FsmParseList.
-
-    PARAMETERS
-    ----------
-    sentence : Sentence
-        Sentence type input.
-        
-    RETURNS
-    -------
-    Sentence
-        Sentence result.
-    """
     def spellCheck(self, sentence: Sentence) -> Sentence:
+        """
+        The spellCheck method takes a Sentence as an input and loops i times where i ranges from 0 to size of words in
+        given sentence. Then, it calls morphologicalAnalysis method with each word and assigns it to the FsmParseList,
+        if the size of FsmParseList is equal to the 0, it adds current word to the candidateList and assigns it to the
+        candidates list.
+
+        Later on, it loops through candidates list and calls morphologicalAnalysis method with each word and assigns it
+        to the FsmParseList. Then, it gets the root from FsmParseList. For the first time, it defines a previousRoot by
+        calling getProbability method with root, and for the following times it calls getProbability method with
+        previousRoot and root. Then, it finds out the best probability and the corresponding candidate as best candidate
+        and adds it to the result Sentence.
+
+        If the size of FsmParseList is not equal to 0, it directly adds the current word to the result Sentence and
+        finds the previousRoot directly from the FsmParseList.
+
+        PARAMETERS
+        ----------
+        sentence : Sentence
+            Sentence type input.
+
+        RETURNS
+        -------
+        Sentence
+            Sentence result.
+        """
         previousRoot = None
         result = Sentence()
         for i in range(sentence.wordCount()):

@@ -1,0 +1,5 @@
+/bin/
+/lib/python3.7/site-packages/
+/NlpToolkit_SpellChecker.egg-info/
+/.idea/
+/dist/
