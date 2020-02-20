@@ -49,13 +49,16 @@ class SimpleSpellChecker(SpellChecker):
         s = TurkishLanguage.LOWERCASE_LETTERS
         candidates = []
         for i in range(len(word)):
+            if i < len(word) - 1:
+                swapped = word[:i] + word[i + 1] + word[i] + word[i + 2:]
+                candidates.append(swapped)
             deleted = word[:i] + word[i + 1:]
             candidates.append(deleted)
             for j in range(len(s)):
                 replaced = word[:i] + s[j] + word[i + 1:]
                 candidates.append(replaced)
             for j in range(len(s)):
-                added = word[:i] + s[j] + word[i]
+                added = word[:i] + s[j] + word[i:]
                 candidates.append(added)
         return candidates
 
