@@ -52,14 +52,15 @@ class SimpleSpellChecker(SpellChecker):
             if i < len(word) - 1:
                 swapped = word[:i] + word[i + 1] + word[i] + word[i + 2:]
                 candidates.append(swapped)
-            deleted = word[:i] + word[i + 1:]
-            candidates.append(deleted)
-            for j in range(len(s)):
-                replaced = word[:i] + s[j] + word[i + 1:]
-                candidates.append(replaced)
-            for j in range(len(s)):
-                added = word[:i] + s[j] + word[i:]
-                candidates.append(added)
+            if word[i] in TurkishLanguage.LETTERS:
+                deleted = word[:i] + word[i + 1:]
+                candidates.append(deleted)
+                for j in range(len(s)):
+                    replaced = word[:i] + s[j] + word[i + 1:]
+                    candidates.append(replaced)
+                for j in range(len(s)):
+                    added = word[:i] + s[j] + word[i:]
+                    candidates.append(added)
         return candidates
 
     def candidateList(self, word: Word) -> list:
