@@ -85,7 +85,11 @@ class SimpleSpellChecker(SpellChecker):
         while i < len(candidates):
             fsmParseList = self.fsm.morphologicalAnalysis(candidates[i])
             if fsmParseList.size() == 0:
-                candidates.pop(i)
+                newCandidate = self.fsm.getDictionary().getCorrectForm(candidates[i])
+                if newCandidate != "":
+                    candidates[i] = newCandidate
+                else:
+                    candidates.pop(i)
             else:
                 i = i + 1
         return candidates
