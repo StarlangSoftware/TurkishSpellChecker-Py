@@ -77,5 +77,5 @@ class NGramSpellChecker(SimpleSpellChecker):
                 result.addWord(Word(bestCandidate))
             else:
                 result.addWord(word)
-                previousRoot = fsmParses.getFsmParse(0).getWord()
+                previousRoot = fsmParses.getParseWithLongestRootWord().getWord()
         return result
