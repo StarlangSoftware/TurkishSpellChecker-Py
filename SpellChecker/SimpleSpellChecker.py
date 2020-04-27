@@ -52,7 +52,7 @@ class SimpleSpellChecker(SpellChecker):
             if i < len(word) - 1:
                 swapped = word[:i] + word[i + 1] + word[i] + word[i + 2:]
                 candidates.append(swapped)
-            if word[i] in TurkishLanguage.LETTERS:
+            if word[i] in TurkishLanguage.LETTERS or word[i] in "wqx":
                 deleted = word[:i] + word[i + 1:]
                 candidates.append(deleted)
                 for j in range(len(s)):
