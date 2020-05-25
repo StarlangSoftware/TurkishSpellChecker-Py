@@ -27129,7 +27129,7 @@ kafeşantan CL_ISIM
 kafeterya CL_ISIM
 kaffe IS_ADJ
 kâffe IS_ADJ
-kâffesi PROCL_ISIM
+kâffesi CL_ISIM
 kafi IS_ADJ IS_OA
 kâfi IS_ADJ
 kafile CL_ISIM
@@ -29699,7 +29699,7 @@ keşikleş CL_FIIL
 keşiş CL_ISIM
 keşişhane CL_ISIM
 keşişleme CL_ISIM
-keşke IS_ADVERB IS_ADVERB
+keşke IS_ADVERB
 keşkek IS_SD CL_ISIM
 keşkekçi CL_ISIM
 keşki IS_INTERJ
@@ -38233,7 +38233,7 @@ nasfet CL_ISIM IS_OA
 nash IS_OA
 nasıf IS_OA
 nasıh IS_OA
-nasıl IS_ADVERB IS_ADVERB IS_ADJ
+nasıl IS_ADVERB IS_ADJ
 nasılsa IS_ADVERB
 nasıp CL_ISIM
 nasır CL_ISIM IS_OA
@@ -39789,7 +39789,7 @@ onbir IS_ADJ CL_ISIM
 onbiraylık CL_ISIM IS_SD
 onbulak IS_OA
 onca IS_ADJ IS_ADVERB
-oncası PROCL_ISIM
+oncası CL_ISIM
 onculayın IS_ADVERB
 onda IS_ADVERB
 ondalık IS_SD IS_ADJ CL_ISIM
@@ -44645,7 +44645,7 @@ saç CL_FIIL CL_ISIM F5PR
 saçak IS_SD CL_ISIM
 saçakbulut CL_ISIM
 saçakkök CL_ISIM
-saçaklan F5PR CL_FIIL F5PR-NO-REF
+saçaklan CL_FIIL F5PR-NO-REF
 saçaklı IS_ADJ
 saçala F_GUD CL_FIIL F4PW
 saçalan CL_FIIL F5PR

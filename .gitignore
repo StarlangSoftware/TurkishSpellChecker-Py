@@ -3,3 +3,6 @@
 /NlpToolkit_SpellChecker.egg-info/
 /.idea/
 /dist/
+SpellChecker/__pycache__/__init__.cpython-37.pyc
+SpellChecker/__pycache__/SimpleSpellChecker.cpython-37.pyc
+SpellChecker/__pycache__/SpellChecker.cpython-37.pyc

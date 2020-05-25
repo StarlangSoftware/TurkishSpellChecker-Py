@@ -1,23 +1,70 @@
-0800den 0800'den
 0telin otelin
-10000den 10000'den
-1000den 1000'den
-100den 100'den
-104ü 104'ü
+1deki 1'deki
+1nci 1.
+2deki 2'deki
+3lemesi üçlemesi
+3lü 3'lü
+3tem 3'ten
+4e 4'e
+4lemesinden dörtlemesinden
+5inci 5.
+5te 5'te
+6'li 6'lı
+7lerle 7'lerle
+7th 7.
+8de 8'de
 10lar 10'lar
-1281den 1281'den
 12ye 12'ye
 13ler 13'ler
-1492den 1492'den
+17th 17.
+17yim 17'yim
+18li 18'li
+18th 18.
+19u 19'u
+20ye 20'ye
+24te 24'te
+25/uk 25'lik
+27ler 27'ler
+30da 30'da
+30li 30'lu
+33'luk 33'lük
+34te 34'te
+38i 38'i
+40ı 40'ı
+45lik 45'lik
+46lık 46'lık
+50den 50'den
+55in 55'in
+60dan 60'tan
+61i 61'i
+68de 68'de
+70den 70'ten
+75e 75'e
+78e 78'e
+80e 80'e
+90lar 90'lar
+100den 100'den
+104ü 104'ü
 150den 150'den
+160tan 160'tan
+200den 200'den
+300den 300'den
+350nin 350'nin
+400den 400'den
+404e 404'e
+450den 450'den
+500ün 500'ün
+600lü 600'lü
+0800den 0800'den
+800u 800'ü
+1000den 1000'den
+1281den 1281'den
+1492den 1492'den
 1514ten 1514'ten
 1517ye 1517'ye
 1555den 1555'ten
 1571e 1571'e
-160tan 160'tan
 1796dan 1796'dan
-17th 17.
-17yim 17'yim
 1800den 1800'den
 1801den 1801'den
 1814te 1814'te
@@ -30,8 +77,6 @@
 1880den 1880'den
 1881den 1881'den
 1890larda 1890'larda
-18li 18'li
-18th 18.
 1900den 1900'den
 1905ten 1905'ten
 1907den 1907'den
@@ -67,15 +112,11 @@
 1984den 1984'ten
 1990dan 1990'dan
 1995e 1995'e
-19u 19'u
-1deki 1'deki
-1nci 1.
 2000den 2000'den
 2004e 2004'e
 2005e 2005'e
 2007de 2007'de
 2008de 2008'de
-200den 200'den
 2010da 2010'da
 2011e 2011'e
 2012de 2012'de
@@ -88,52 +129,20 @@
 2052de 2052'de
 2071e 2071'e
 2073e 2073'e
-20ye 20'ye
 2125liler 2125'liler
 2171e 2171'e
 2200u 2200'ü
-24te 24'te
-25/uk 25'lik
 2500u 2500'ü
 2512e 2512'ye
 2600e 2600'e
 2700u 2700'ü
-27ler 27'ler
-2deki 2'deki
-300den 300'den
-30da 30'da
-30li 30'lu
 3200u 3200'ü
-33'luk 33'lük
-34te 34'te
-350nin 350'nin
 3797ye 3797'ye
-38i 38'i
-3lemesi üçlemesi
-3lü 3'lü
-3tem 3'ten
-400den 400'den
-404e 404'e
-40ı 40'ı
-450den 450'den
 4513ye 4513'e
-45lik 45'lik
-46lık 46'lık
-4e 4'e
-4lemesinden dörtlemesinden
-500ün 500'ün
 5023ten 5023'ten
-50den 50'den
 5237e 5237'ye
 5264e 5264'e
 5384e 5384'e
-55in 55'in
-5inci 5.
-5te 5'te
-6'li 6'lı
-600lü 600'lü
-60dan 60'tan
-61i 61'i
 6501i 6501'i
 6601e 6601'e
 6604e 6604'e
@@ -143,21 +152,11 @@
 6634e 6634'e
 6670e 6670'e
 6675e 6675'e
-68de 68'de
-70den 70'ten
-75e 75'e
-78e 78'e
-7lerle 7'lerle
-7th 7.
 8000den 8000'den
-800u 800'ü
-80e 80'e
 8631i 8631'i
-8de 8'de
-90lar 90'lar
+10000den 10000'den
 a-zye A-z'ye
 aaakalem kalem
-aaat at
 aaat saat
 aaati atı
 aabası arabası
@@ -213,7 +212,6 @@ aarzum arzum
 aaşğıda aşağıda
 aaslında aslında
 aat at
-aat saat
 aatdir saattir
 aati saati
 aatinde saatinde
@@ -267,13 +265,10 @@ abdestlerını abdestlerini
 abdestlı abdestli
 abdı abdi
 abdnin Abd'nin
-abdul Abdül
 abdul-hakim Abdülhakim
 abdül-kerim Abdülkerim
 abdulah Abdullah
 abdulazim Abdülazim
-abdulaziz Abdülaziz
-abdulbaki Abdülbaki
 abdûlbâki Abdülbaki
 abdulcanbaz Abdülcanbaz
 abdulcebbar Abdülcebbar
@@ -286,27 +281,19 @@ abdulganiy Abdülgani
 abdulhadi Abdülhadi
 abdulhak Abdülhak
 abdulhalik Abdülhalik
-abdulhalim Abdülhalim
-abdulhamid Abdülhamid
 abdülhamîd Abdülhamid
-abdulhamit Abdülhamid
-abdülhamit Abdülhamid
-abdulhamit Abdülhamit
 abdülhamitin Abdülhamit'in
 abdülhamitten Abdülhamit'ten
 abdulhamıd Abdülhamid
 abdulhamıt Abdülhamit
 abdülhamıt Abdülhamit
 abdülkad Abdülkadir
-abdulkadir Abdülkadir
 abdulkadır Abdulkadir
 abdülkadır Abdülkadir
 abdulkayyüm Abdülkayyum
-abdulkerim Abdülkerim
 abdull Abdul
 abdüllah Abdullah
 abdullah-ı Abdullah'ı
-abdullatif Abdüllatif
 abdulmecid Abdülmecid
 abdulmecit Abdülmecit
 abdulmelik Abdülmelik
@@ -316,13 +303,11 @@ abdulnasır Abdülnasır
 abdulvahab Abdülvahap
 abdulvahap Abdülvahap
 abdulvahid Abdülvahid
-abdurrahim Abdürrahim
 abdurrahman-ı Abdurrahman'ı
 abdurrahmanın Abdurrahman'ın
 abdurreşid Abdürreşid
 abdussamed Abdüssamed
 abdussamet Abdüssamed
-abdüssamet Abdüssamed
 abdusselam Abdüsselam
 abdüsselamın Abdüsselam'ın
 abesıme abesime
@@ -331,8 +316,6 @@ abestı abesti
 abez abes
 abhr haber
 abie abiye
-abil anıl
-abir bir
 abire abiye
 abirinin Abiri'nin
 abiş abis
@@ -373,7 +356,6 @@ abınız abiniz
 abınızde abinizde
 abınızı abinizi
 abıp abi
-abır bir
 abısı abisi
 abısıne abisine
 abısının abisinin
@@ -430,7 +412,6 @@ abüyük büyük
 abuzerden Abuzer'den
 abüzere Abuzer'e
 abye Ab'ye
-abye abiye
 abyiye abiye
 ac aç
 acab acaba
@@ -541,7 +522,6 @@ acba acaba
 accentesidir acentesidir
 accerdeon akordiyon
 açcı aşçı
-açe Ace
 aceba acaba
 aceente acente
 acelecı aceleci
@@ -606,7 +586,6 @@ acemıymış acemiymiş
 acemıyse acemiyse
 acemoglu Acemoğlu
 acen acente
-acene acele
 acene acente
 acenete acente
 aceneteden acenteden
@@ -825,7 +804,6 @@ aceteyle acenteyle
 acf acı
 acher Archer
 aci acı
-aci açı
 açi açı
 acibadem acıbadem
 acici açıcı
@@ -1034,7 +1012,6 @@ açılcak açılacak
 acılde acilde
 acılden acilden
 acıldeydım acildeydim
-acıldı acildi
 acıldı açıldı
 acıldıgı açıldığı
 acıldığı açıldığı
@@ -1110,7 +1087,6 @@ acılmayacgına açılmayacağına
 acılmayan açılmayan
 açılmiştir açılmıştır
 acılmıoyor açılmıyor
-acılmış acilmiş
 acılmıs açılmış
 acılmış açılmış
 açılmıs açılmış
@@ -1168,7 +1144,6 @@ acızlıktı acizlikti
 ack açık
 acken açken
 acl acil
-acl açı
 aclar açlar
 aclet atlet
 aclik açlık
@@ -1248,7 +1223,6 @@ acnteliğiniz acenteliğiniz
 aco açı
 açöa açma
 açoık açık
-açok açık
 açok çok
 açosından açısından
 acr açar
@@ -1315,7 +1289,6 @@ adad ada
 adadakı adadaki
 adaha daha
 adaklik adaklık
-adal adalı
 adalardakı adalardaki
 adalardakını adalardakini
 adaletlı adaletli
@@ -1370,8 +1343,6 @@ adaptrö adaptör
 adaptröü adaptörü
 adaptür adaptör
 adaptürü adaptörü
-adar kadar
-adasi adası
 adasi adaşı
 adasina adasına
 adasini adasını
@@ -1398,10 +1369,8 @@ adelaida Adelaide
 adeletli adaletli
 adem-i Adem'i
 ademiin Adem'in
-aden eden
 adepte adapte
 adeptir adaptör
-ader adet
 ader eder
 aderim ederim
 adesteğinizi desteğinizi
@@ -1447,7 +1416,6 @@ adindan adından
 adiniza adınıza
 adiri çadır
 adison Addison
-adison adisyon
 adivar Adıvar
 adiyaman Adıyaman
 adiyla adıyla
@@ -1460,7 +1428,6 @@ adımdna adımdan
 adımıdan adımdan
 adımıdnan adımdan
 adımınan adımına
-adımındna adımında
 adımındna adımından
 adınan Adnan
 adındakı adındaki
@@ -1468,7 +1435,6 @@ adınında adımından
 adınmından adımından
 adıömından adımından
 adısı adisi
-adısı adımı
 adısınden adisinden
 adısını adisini
 adısıydı adisiydi
@@ -1489,7 +1455,6 @@ adıyamana Adıyaman
 adıyamanda Adıyaman'a
 adıyamandaki Adıyaman'daki
 adıyamandakı Adıyaman'daki
-adj ad
 adj adi
 adkisi askısı
 adkı askı
@@ -1507,7 +1472,6 @@ adlıyenın adliyenin
 adlıyesı adliyesi
 adlıyeye adliyeye
 admından adımından
-adna adına
 adnanın Adnan'ın
 adndaki adındaki
 ado oda
@@ -1687,8 +1651,6 @@ afsar Afşar
 afset ofset
 afşın Afşin
 afyondakı Afyon'daki
-ag ağ
-aga ağa
 ağabeydı ağabeydi
 ağabeyı ağabeyi
 ağabeyıler ağabeyiler
@@ -2003,7 +1965,6 @@ agzi ağız
 agzinda ağzında
 agzinizdan ağzınızdan
 agziyla ağzıyla
-agzı ağız
 agzı ağzı
 agzım ağzım
 agzıma ağzıma
@@ -2026,7 +1987,6 @@ ahahtarlığı anahtarlığı
 ahakkabı ayakkabı
 ahangi hangi
 ahap ahşap
-ahat rahat
 ahbab ahbap
 ahber haber
 ahçap ahşap
@@ -2060,7 +2020,6 @@ ahkuru kuru
 ahlaksiz ahlaksız
 ahlap ahşap
 ahlen ahlan
-ahmer Ahmet
 ahmete Ahmet'e
 ahmetlo Ahmetli
 ahmettı Ahmet'ti
@@ -2112,13 +2071,10 @@ aicardinin Aicardi'nin
 aicl acil
 aiçten içten
 aide iade
-aidesi iadesi
 aidesi iadesini
 aidesini iadesini
 aidesinin iadesinin
-aie aile
 aie Air
-aiel aile
 aiel Ariel
 aiele aile
 aieleler aileler
@@ -2140,7 +2096,6 @@ aike aile
 aikeler aileler
 aikesi ailesi
 aikım aşkım
-ail acil
 ail aile
 ailah silah
 ailahı silahı
@@ -2149,7 +2104,6 @@ ailcek ailecek
 aile'ler aileler
 aileiler aileler
 aileker aileler
-ailele aile
 ailele aileler
 aileleein ailelerin
 aileleer aileler
@@ -2467,7 +2421,6 @@ akerdoyon akordiyon
 akeri askeri
 akesuarları aksesuarları
 akete ankete
-aketi aleti
 aketi anketi
 akğlü akülü
 akğsğ aküsü
@@ -2503,7 +2456,6 @@ akilsiz akılsız
 akin akın
 akinal Akınal
 akinası makinası
-akinci akıncı
 akinesi makinesi
 akinina akınına
 akir fakir
@@ -2610,7 +2562,6 @@ akmıstı akmıştı
 akmıyo akmıyor
 aknbank Akbank
 akodion akordiyon
-akol alkol
 akollü alkollü
 akord akort
 akordion akordiyon
@@ -2656,7 +2607,6 @@ akrt kart
 akrtı kartı
 akrtını kartını
 akrtürk Akartürk
-akşa aksa
 akşa akşam
 aksadi aksadı
 aksaklik aksaklık
@@ -2775,7 +2725,6 @@ aksesuharı aksesuarı
 aksesuharlari aksesuarları
 aksesuqr aksesuar
 aksesur aksesuar
-aksesura aksesuar
 aksesura aksesuara
 aksesurar aksesuar
 aksesurardan aksesuardan
@@ -2879,7 +2828,6 @@ aktabilirim aktarabilirim
 aktaılmasında aktarılmasında
 aktaılmasını aktarılmasını
 aktaırm aktarım
-aktaırmı aktarım
 aktaırmı aktarımı
 aktarabilr aktarabilir
 aktarabıldıklerınde aktarabildiklerinde
@@ -2914,7 +2862,6 @@ aktarimi aktarımı
 aktarıcaksınız aktaracaksınız
 aktarıcam aktaracağım
 aktarıcaz aktaracağız
-aktarıı aktarı
 aktarıı aktarım
 aktarılabılır aktarılabilir
 aktarılabılırdı aktarılabilirdi
@@ -2957,7 +2904,6 @@ akterıldı aktarıldı
 akterılmasını aktarılmasını
 aktf aktif
 aktfi aktif
-akti aktivite
 akti aktı
 aktifiteler aktiviteler
 aktifles aktifleş
@@ -3206,11 +3152,9 @@ al! al
 alaabiliriz alabiliriz
 alaaddinin Alaaddin'in
 alaaddın Alaaddin
-alaadin Alaaddin
 alaadinin Alaaddin'in
 alaamazsınız alamazsınız
 alaan alan
-alaattin Alaaddin
 alaattinin Alaattin'in
 alaattın Alaattin
 alab alan
@@ -3412,7 +3356,6 @@ alacatidan Alaçatı'dan
 alacatinin Alaçatı'nın
 alacatiya Alaçatı'ya
 alacatı Alaçatı
-alaçatı Alaçatı'da
 alaçatıda Alaçatı'da
 alaçatıdaki Alaçatı'daki
 alaçatıdan Alaçatı'dan
@@ -3425,7 +3368,6 @@ alacrte alakart
 aladdin Alaaddin
 aladık aldık
 aladım aldım
-alaeddin Alaaddin
 alaeddinin Alaeddin'in
 alaeti aleti
 alaettinin Alaettin'in
@@ -3441,7 +3383,6 @@ alakaa alaka
 alakaası alakası
 alakadı alakası
 alakaı alakası
-alakaklı alacaklı
 alakaklı alakalı
 alakalaı alakalı
 alakalari alakaları
@@ -3558,8 +3499,6 @@ alanalrına alanlarına
 alandakı alandaki
 alandakıler alandakiler
 alandi alandı
-alani alanı
-alani alanını
 alanimiz alanımız
 alanin alanın
 alanina alanına
@@ -3606,14 +3545,12 @@ alarimk alarm
 alarımlı alarmlı
 alarji alerji
 alarjisi alerjisi
-alarmi alarm
 alarmi alarmı
 alarmlari alarmları
 alarmli alarmlı
 alasehir Alaşehir
 alasim alaşım
 alasimli alaşımlı
-alat alet
 alata galata
 alatas Alataş
 alati aleti
@@ -3621,7 +3558,6 @@ alatın altın
 alatlari aletleri
 alatlı aletli
 alatm aletim
-alattin Alaattin
 alavanın Alavan'ın
 alayci alaycı
 alayim alayım
@@ -3652,7 +3588,6 @@ alcagımız alacağımız
 alcağımız alacağımız
 alcağımıza alacağımıza
 alcagımızda alacağımızda
-alcak alacak
 alcak alçak
 alcaklar alacaklar
 alcaklardı alacaklardı
@@ -3765,7 +3700,6 @@ aldıuğı aldığı
 aldm aldım
 aldu aldı
 aldy Aldi
-ale aile
 ale alet
 aleksandranın Aleksandra'nın
 alekseyin Aleksey'in
@@ -3880,7 +3814,6 @@ algılayabılıyorsunuz algılayabiliyorsunuz
 algılaycı algılayıcı
 alğımız aldığımız
 algr algı
-algun Algün
 alh Allah
 alhime halime
 alhirt tişört
@@ -3946,19 +3879,15 @@ alínmíştír alınmıştır
 alinmiyor alınmıyor
 alinmiyordu alınmıyordu
 alip alıp
-alis Aliş
 alis alış
-alisa Alisha
 alisan Alişan
 alisede Alise'de
 alisia Aliş'imi
 alisik alışık
-alisim alışım
 alisim alıştım
 alişin Aliş'in
 alisiyorsunuz alışıyorsunuz
 aliskanlik alışkanlık
-alissa Alisha
 alist alıştırma
 alistik alıştık
 alistirici alıştırıcı
@@ -3988,10 +3917,7 @@ aliyorsunuz alıyorsunuz
 aliyorum alıyorum
 aliyoruz alıyoruz
 aliyosun alıyorsun
-aliz valiz
-aliza alize
 alizer alize
-alıan alınan
 alıan Allianz
 alıanan alınan
 alıancak alınacak
@@ -4082,7 +4008,6 @@ alınacagız alınacağız
 alınadak alınacak
 alınamadıgı alınamadığı
 alınamadıgından alınamadığından
-alınamaktadır alınamamaktadır
 alınamaktadır alınmaktadır
 alınamamıs alınamamış
 alınamamktadır alınamamaktadır
@@ -4095,7 +4020,6 @@ alınazığın alinaziğin
 alınazık alinazik
 alıncağı alınacağı
 alıncağını alınacağını
-alıncak alınacak
 alındi alındı
 alındıgı alındığı
 alındığığı alındığı
@@ -4129,7 +4053,6 @@ alınmamakatdır alınmamaktadır
 alınmamıs alınmamış
 alınmamıstı alınmamıştı
 alınmamıstır alınmamıştır
-alınmas alınması
 alınmas alınmaz
 alınmasıni alınmasını
 alınmasnı alınmasını
@@ -4451,7 +4374,6 @@ almiyorum almıyorum
 almiyoruz almıyoruz
 almıcaktım almayacaktım
 almıış almış
-almıla Almila
 almıs almış
 almışdım almıştım
 almısım almışım
@@ -4490,7 +4412,6 @@ alnalarında alanlarında
 alnamamakatdır alınamamaktadır
 alni alın
 alnımış alınmış
-alnıyor alınıyor
 alnıyor anlıyor
 alnları alanları
 alnlık anlık
@@ -4500,7 +4421,6 @@ alopenin Alope'nin
 alpacardan Alpacar'dan
 alpagan Alpağan
 alpas Alparslan
-alpaslan Alparslan
 alperdı Alper'di
 alpere Alper'e
 alperi Alper'i
@@ -4615,7 +4535,6 @@ altima altıma
 altimizdan altımızdan
 altin altın
 altina altına
-altinay Altınay
 altinbas altınbaş
 altinbasak Altınbaşak
 altinci altıncı
@@ -4682,7 +4601,6 @@ alttakıne alttakine
 alttığı altlığı
 alttlik altlığı
 altug Altuğ
-altun altın
 altunızade Altunizade
 altuntas Altuntaş
 altuntaştı Altuntaş'tı
@@ -4763,7 +4681,6 @@ amaranın Amara'nın
 amaraya Amara'ya
 amarayı Amara'yı
 amarayla Amara'yla
-amare Amara
 amarica America
 amarican American
 amarikan amerikan
@@ -5030,7 +4947,6 @@ amortsitör amortisör
 amortusor amortisör
 amörtüsör amortisör
 amörtüsörlü amortisörlü
-amos amortisör
 amositör amortisör
 amosor amortisör
 amosör amortisör
@@ -5075,7 +4991,6 @@ ampülü ampulü
 ampulumuz ampulümüz
 ampulun ampulün
 ampur ampul
-amre emre
 amreikan amerikan
 amrica America
 amrika amerikan
@@ -5170,7 +5085,6 @@ anarfişt anarşist
 anarsi anarşi
 anarsizm anarşizm
 anaryalı kanaryalı
-anas anası
 anasaya anayasa
 anasjlon anason
 anastasıa Anastasia
@@ -5190,7 +5104,6 @@ anbar ambar
 anbarcı ambarcı
 anbarlı ambarlı
 anbbas Abbas
-anber amber
 anbiyansı ambiyansı
 anbıyans ambiyans
 anbıyansı ambiyans
@@ -5223,10 +5136,7 @@ andlaşmalarının antlaşmalarının
 andlaşması antlaşması
 andolu anadolu
 andoraya Andora'ya
-andres Andreas
 andrras Andreas
-ane anne
-ane tane
 anekte ankete
 anene anneanne
 anestesi anestezi
@@ -5257,7 +5167,6 @@ angoro angora
 anhastra ankastre
 anhın Anh'ın
 anhtar anahtar
-anhtarı anahtar
 anhtarı anahtarı
 anhtarının anahtarının
 anhtarlık anahtarlık
@@ -5525,7 +5434,6 @@ anıturla Anıtur'la
 anıturu Anıtur'u
 anıturun Anıtur'un
 anjıyo anjiyo
-ankaa Anka
 ankaa Ankara
 ankansre ankastre
 ankar Ankara
@@ -6219,7 +6127,6 @@ aonra sonra
 aotor motor
 aoy soy
 aoyun oyun
-ap aperitif
 apaarati aparatı
 apaatı aparat
 apac ağaç
@@ -6336,8 +6243,6 @@ ara-lık aralık
 araaba araba
 araac araç
 araasi arabası
-arab araba
-arab arap
 arabaa araba
 arabaai arabası
 arabaak araba
@@ -6530,7 +6435,6 @@ arada<ki aradaki
 aradadki aradaki
 aradaı aradı
 aradaım aradım
-aradakı arada
 aradakı aradaki
 aradakıler aradakiler
 aradan aradan
@@ -6722,7 +6626,6 @@ ararba araba
 arardılar aradılar
 arasi arası
 arasina arasına
-arasinda arasında
 arasinda arasından
 arasindaki arasındaki
 arasindan arasından
@@ -6730,7 +6633,6 @@ arasindaydi arasındaydı
 arasıanda arasında
 arasıbda arasında
 arasıdaki arasındaki
-arasıdna arasında
 arasıdna arasından
 arasıdnaki arasındaki
 arasınd arasında
@@ -6800,7 +6702,6 @@ aratığınızda arattığınızda
 aratmadi aratmadı
 aratmiyor aratmıyor
 aratmıycak aratmayacak
-arav ara
 arav araç
 aray araya
 arayabileceginiz arayabileceğiniz
@@ -6890,8 +6791,6 @@ arbasi arabası
 arbası arabası
 arbelet arbalet
 arç araç
-arça araç
-arça parça
 arçalar araçlar
 arçata araçta
 arceliki Arçelik'i
@@ -6924,7 +6823,6 @@ argonit aragonit
 argosdaki Argos'taki
 argosta Argos'ta
 argostaki Argos'taki
-argun Argün
 arha arka
 arial Ariel
 arianimin Arianim'in
@@ -6932,7 +6830,6 @@ arica arıca
 arie Ariel
 arifın Arif'in
 arihlerin tarihlerin
-arik arık
 arikan Arıkan
 arilar arılar
 arilardan arılardan
@@ -6975,7 +6872,6 @@ arıba araba
 arıcaktım arayacaktım
 arıcam arayacağım
 arıcaz arayacağız
-arıel Ariel
 arıf arif
 arıfe arife
 arıfesınde arifesinde
@@ -7206,7 +7102,6 @@ arkamızdakı arkamızdaki
 arkamızdakıler arkamızdakiler
 arkandiasın Arkaindas'ın
 arkanizdan arkanızdan
-arkaş arkadaş
 arkaş Arkas
 arkaşa arkadaşa
 arkasaında arkasında
@@ -7271,11 +7166,9 @@ arkladaşlar arkadaşlar
 arkladaşlarım arkadaşlarım
 arkol alkol
 arks arka
-arkun Orkun
 arladaş arkadaş
 arladaşlarım arkadaşlarım
 arlasan ağırlaşan
-arlet atlet
 arli arlı
 arlığını ağırlığını
 arltlet atlet
@@ -7340,7 +7233,6 @@ arşimedin Arşimet'in
 arsiv arşiv
 arsiz arsız
 arsılan asılan
-arsında arasında
 arsında ardında
 arslanli arslanlı
 arson garson
@@ -7379,7 +7271,6 @@ artirim artırım
 artirma artırma
 artis artış
 artisi artısı
-artislik artistik
 artislik artistlik
 artitma arıtma
 artiydi artıydı
@@ -7434,7 +7325,6 @@ arttiriyor artırıyor
 arttirma arttırma
 arttirmalari artırmaları
 arttirmali artırmalı
-arttirmasi artırması
 arttirmasi arttırması
 arttirsa artırsa
 arttıgı arttığı
@@ -7508,7 +7398,6 @@ aşabılırmış aşabilirmiş
 aşabılselerdı aşabilselerdi
 asacagi asacağı
 asacaği asacağı
-asacagı asacağı
 asacagı aşacağı
 aşadğıdaki aşağıdaki
 asafça Asaf'ça
@@ -7711,7 +7600,6 @@ aşiğıdır aşığıdır
 aşiğım aşığım
 aşiğıydı aşığıydı
 aşiğıyım aşığıyım
-asik asık
 asik aşık
 asikar aşikar
 asiklar aşıklar
@@ -7814,9 +7702,6 @@ asıtsız asitsiz
 asıtsızdı asitsizdi
 asıtsızlerdı asitsizlerdi
 asıtten asitten
-asıye asiye
-ask aşk
-aska aşka
 aşkam akşam
 askan aslan
 aske asker
@@ -7893,7 +7778,6 @@ asklık askılık
 asklılık askılık
 asklılıkları askılıkları
 asklısı aşklısı
-asko askı
 asko kasko
 askoda kaskoda
 askosu kaskosu
@@ -8056,10 +7940,8 @@ ataköydekı Ataköy'deki
 ataköyden Ataköy'den
 ataköye Ataköy'e
 atakürk Atatürk
-atalmış atılmış
 atamakdadır atamaktadır
 atamatik matematik
-atara atarak
 atara atari
 atarlarmıs atarlarmış
 atarmıs atarmış
@@ -8157,7 +8039,6 @@ atif atıf
 atikanın Atika'nın
 atikası Atika'sı
 atil atıl
-atila Atilla
 atilabilir atılabilir
 atilay Atılay
 atilgan atılgan
@@ -8278,7 +8159,6 @@ atletlı atletli
 atleyi atleti
 atli atlı
 atligi altlık
-atlığ altlık
 atlıgı altlık
 atllas atlas
 atmadıgınız atmadığınız
@@ -8488,7 +8368,6 @@ avuk tavuk
 avukatlat avukatlar
 avustralyanın Avustralya'nın
 avustralyaya Avustralya'ya
-avusturalya Avustralya
 avusturalyaya Avustralya'ya
 avusturyada Avusturya'da
 avusturyadakı Avusturya'daki
@@ -8601,7 +8480,6 @@ ayakkabici ayakkabıcı
 ayakkabii ayakkabı
 ayakkabikari ayakkabıları
 ayakkabilai ayakkabısı
-ayakkabilar ayakkabılar
 ayakkabilar ayakkabısı
 ayakkabilari ayakkabıları
 ayakkabilariyla ayakkabılarıyla
@@ -8822,7 +8700,6 @@ ayarlıcam ayarlayacağım
 ayarlıyamadı ayarlayamadı
 ayarlıyormus ayarlıyormuş
 ayarsiz ayarsız
-ayas Ayaş
 ayaşadık yaşadık
 ayatlamanızı ayarlamanızı
 ayatlı ayarlı
@@ -8839,10 +8716,8 @@ aybnı aynı
 aybuke Aybüke
 aycalar ayçalar
 aycicegi ayçiçeği
-aycicek ayçiçeği
 ayçicek ayçiçeği
 aycicek Ayçiçek
-ayçiçek çiçek
 ayçiçekten ayçiçeğinden
 ayçiöek ayçiçeği
 aycivek Ayçiçek
@@ -8856,7 +8731,6 @@ aydemır aydemir
 ayderde Ayder'de
 ayderdekı Ayder'deki
 aydere Ayder'e
-aydin aydın
 aydin'a Aydın'a
 aydinalp Aydınalp
 aydinger aydınger
@@ -9076,7 +8950,6 @@ aynasina aynasına
 aynasinda aynasında
 aynasıo aynası
 aynbı aynı
-ayne ayna
 ayne aynı
 aynilari aynıları
 aynilarini aynılarını
@@ -9256,7 +9129,6 @@ ayşegul Ayşegül
 ayşegüle Ayşegül'e
 ayşegülün Ayşegül'ün
 aysem Ayşem
-aysen Ayşen
 ayşenazın Ayşenaz'ın
 ayşenul Ayşenur
 aysenur Ayşenur
@@ -9264,7 +9136,6 @@ aysevre Aysever
 ayşgül Ayşegül
 ayshe Ayşe
 aysıl Ayşıl
-ayşın Ayşin
 ayskkabi ayakkabı
 ayskkabı ayakkabı
 ayskksbı ayakkabı
@@ -9279,7 +9150,6 @@ aytmatova Aytmatov'a
 aytmatovun Aytmatov'un
 aytug Aytuğ
 aytul Aytül
-aytun Aytün
 aytunc Aytunç
 aytye Ayt'ye
 ayu ayı
@@ -9366,8 +9236,6 @@ azdıo azdı
 azdlrlcl azdırıcı
 azei azeri
 azelaa Azalea
-azer azeri
-azerbeycan Azerbaycan
 azerbeycanda Azerbaycan'da
 azerı azeri
 azerıler azeriler
@@ -9434,7 +9302,6 @@ baalar bazalar
 baalon balon
 baalyı balayı
 baan bana
-baas bas
 baası babası
 baasımı basımı
 baasına babasına
@@ -9769,7 +9636,6 @@ bah bahçe
 bahaaddin Bahattin
 bahadir bahadır
 bahajıo bagajı
-bahalı bahadır
 bahalı pahalı
 bahan bayan
 bahanelerı bahaneleri
@@ -10288,7 +10154,6 @@ bala'yı balayı
 balab balaban
 balack Black
 balalata balata
-balantı bağlantı
 balantı balansı
 balaon balon
 balarılı başarılı
@@ -10297,7 +10162,6 @@ balatadı balatası
 balatasi balatası
 balatasl balatası
 balatli balatlı
-balay balayı
 balayaı balayı
 balayi balayı
 balayimi balayımı
@@ -10373,8 +10237,6 @@ balımlı bakımlı
 balınalarla balinalarla
 balınu balonu
 balıyı balayı
-balk balık
-balka balkan
 balka başka
 balkabagi balkabağı
 balkabak balkabağı
@@ -10471,7 +10333,6 @@ bankacilik bankacılık
 bankacular bankacılar
 bankadakı bankadaki
 bankaddan bankadan
-bankaı banka
 bankaı bankası
 bankalari bankaları
 bankamatığe bankamatiğe
@@ -10715,7 +10576,6 @@ barlarin barların
 barlarinda barlarında
 barlarindan barlarından
 barlarındakı barlarındaki
-barlas barlaş
 barlastı barlaştı
 barlik barlık
 barmak parmak
@@ -10839,7 +10699,6 @@ başarızdı başarısız
 başarlı başarılı
 başarlıydı başarılı
 basarmislar başarmışlar
-basat Başat
 basat vasat
 basatulu başörtüsü
 başayı balayı
@@ -10876,7 +10735,6 @@ başhekşimi başhekimi
 başhesi bahçesi
 bashettiği bahsettiği
 basi bası
-başi bası
 başi başı
 basigi başlık
 basik beşik
@@ -10978,7 +10836,6 @@ başja başka
 basjetbol basketbol
 basjıli baskılı
 başk başka
-bask basketbol
 baska başka
 baskada başkada
 baskadir başkadır
@@ -10999,7 +10856,6 @@ başkalarınınkını başkalarınınkini
 baskalarıyla başkalarıyla
 baskale Başkale
 başkalrına başkalarına
-baskan başkan
 baskanı başkanı
 baskanıydım başkanıydım
 baskanlarını başkanlarını
@@ -11054,7 +10910,6 @@ baskısi baskısı
 başkla başka
 başkları başkaları
 başklarına başkalarına
-basko başka
 basko baskı
 başkomser başkomiser
 baskomutanlik başkomutanlık
@@ -11064,7 +10919,6 @@ baskü baskül
 baskul baskül
 baskuĺ baskül
 baskulu baskülü
-başl baş
 başl başla
 başlabgıcından başlangıcından
 başladğında başladığında
@@ -11297,7 +11151,6 @@ bastnlu bastonlu
 basto baston
 bastonve baston
 basturk Baştürk
-basucu başucu
 basucu başuçu
 başucumuza başuçumuza
 basucumuzda başuçumuzda
@@ -11906,7 +11759,6 @@ bedminton badminton
 bedmıton badminton
 bedne bende
 bedonun Bedo'nun
-bedrettin Bedreddin
 bedrı bedri
 bedrıye Bedriye
 bedva bedava
@@ -12357,9 +12209,7 @@ beğri beri
 begum begüm
 begün begüm
 behce bahçe
-behcet Behçet
 behek bebek
-behic Behiç
 behıç Behiç
 behıye Behiye
 behlul Behlül
@@ -13169,7 +13019,6 @@ beledıyeye belediyeye
 beledıyeyı belediyeyi
 beledıyeyle belediyeyle
 beledli belediyeli
-belege Belek'e
 belege belge
 belegeli belgeli
 belegesi belgesi
@@ -13252,10 +13101,8 @@ belgenın belgenin
 belgenız belgeniz
 belgenızı belgenizi
 belgeno belgeni
-belgere belgeler
 belgere belgeye
 belges belgesi
-belgeseri belgeleri
 belgeseri belgeseli
 belgesiı belgesi
 belgesindekş belgesindeki
@@ -13279,7 +13126,6 @@ belgleri belgeleri
 belgraddakı Belgrad'daki
 belgsinde belgesinde
 belgsinden belgesinden
-belhi Belh'i
 belhin Belh'in
 believixin Believix'in
 beliki belki
@@ -13774,7 +13620,6 @@ belırtttım belirtttim
 belıttığım belirttiğim
 belıttım belirttim
 belkek bellek
-belkis Belkıs
 belkı belki
 bellak bellek
 belledığım bellediğim
@@ -13823,7 +13668,6 @@ bendekı bendeki
 bendekını bendekini
 bendendı bendendi
 bendenız bendeniz
-bender blender
 bendeydı bendeydi
 bendeymış bendeymiş
 bendık bendik
@@ -13974,7 +13818,6 @@ beo Beko
 beon beton
 bepe bebe
 bependim beğendim
-ber Bera
 ber ver
 berabaer beraber
 berabat berbat
@@ -14031,7 +13874,6 @@ bereketı bereketi
 berel bereli
 beret baret
 bergamut bergamot
-berger Berger'den
 berger berjer
 bergomatlı bergamotlu
 berı beri
@@ -14247,8 +14089,6 @@ bey' bey
 bey'di beydi
 bey'e beye
 bey'lere beylere
-beya bayağı
-beya beyaz
 beya veya
 beyal beyaz
 beyama boyama
@@ -14484,7 +14324,6 @@ biaiklet bisiklet
 biaikleti bisikleti
 bialetti bisiklet
 biancai Bianca
-bianka Bianca
 biar bir
 biaraz biraz
 biarz biraz
@@ -14557,7 +14396,6 @@ bieaz biraz
 biei biri
 biek bilek
 biekliği bileklik
-biel bile
 bielklik bileklik
 bier bir
 bieraz biraz
@@ -14603,7 +14441,6 @@ bik Bike
 bikac birkaç
 bikaç birkaç
 bikah nikah
-bike bile
 bikek bilek
 bikeklik bileklik
 bikezik bilezik
@@ -14616,7 +14453,6 @@ bikkni bikini
 biklet bisiklet
 bikletler bisiklet
 biktaş Beşiktaş
-bila bile
 bilader birader
 bilandir blender
 bilandır blender
@@ -14678,7 +14514,6 @@ bilellik bileklik
 bilemden bilmeden
 bilemdiğim bilmediğim
 bilemk bilmek
-bilender blender
 bilendır blender
 bilenzik bilezik
 bilere bilerek
@@ -14695,7 +14530,6 @@ bilezil bilezik
 bilfdirdim bildirdim
 bilfiğim bildiğim
 bilfiğimiz bildiğimiz
-bilg bilgi
 bilg bilgisayar
 bilgasayar bilgisayar
 bilgdiğim bildiğim
@@ -14728,7 +14562,6 @@ bilgiledirme bilgilendirme
 bilgileiniiz bilgileriniz
 bilgileinize bilgilerinize
 bilgileinizi bilgilerinizi
-bilgileir bilgiler
 bilgileir bilgileri
 bilgileiri bilgileri
 bilgileirinize bilgilerinize
@@ -14764,7 +14597,6 @@ bilgilrndirme bilgilendirme
 bilginizee bilgilerinize
 bilginze bilginize
 bilgiş bilgi
-bilgis bilgisayar
 bilgis bilgisi
 bilgisa bilgisayar
 bilgisaayarı bilgisayarı
@@ -14844,7 +14676,6 @@ biligisini bilgisini
 biligler bilgiler
 bilignize bilginize
 biligsayar bilgisayar
-bilik bilek
 bilikte birlikte
 bilimum bilumum
 bilinc bilinç
@@ -15182,7 +15013,6 @@ bişlgi bilgi
 bişlgiyi bilgiyi
 bisliklet bisiklet
 bisoklet bisiklet
-bişr bir
 bisti pisti
 bistüri bisturi
 bistüyer büstiyer
@@ -15250,7 +15080,6 @@ biyololoji biyoloji
 biyotenoloji biyoteknoloji
 biyük büyük
 biyunca boyunca
-biza biz
 biza bize
 bizd bizde
 bizede bizde
@@ -15849,7 +15678,6 @@ bıleğıne bileğine
 bıleğını bileğini
 bıleğının bileğinin
 bıleğınızde bileğinizde
-bılek bilek
 bılek bileklik
 bılekler bilekler
 bıleklere bileklere
@@ -15862,7 +15690,6 @@ bıleklerını bileklerini
 bıleklerınız bilekleriniz
 bıleklerınıze bileklerinize
 bıleklik bileklik
-bıleklı bilekli
 bıleklı bileklik
 bıleklığe bilekliğe
 bıleklıgı bilekliği
@@ -15884,7 +15711,6 @@ bıleklığınıze bilekliğinize
 bıleklığınızı bilekliğinizi
 bıleklık bileklik
 bıleklıkle bileklikle
-bıleklıkler bileklikler
 bıleklıkler bileklikleri
 bıleklıklerde bilekliklerde
 bıleklıklerden bilekliklerden
@@ -15962,7 +15788,6 @@ bılemıyorum bilemiyorum
 bılemıyoruz bilemiyoruz
 bılen bilen
 bılendı bilendi
-bılendır bilendir
 bılendır blender
 bılene bilene
 bılenen bilenen
@@ -16367,7 +16192,6 @@ bılgılenmesı bilgilenmesi
 bılgılenmeye bilgilenmeye
 bılgılenmış bilgilenmiş
 bılgılenseydık bilgilenseydik
-bılgıler bilgiler
 bılgıler bilgileri
 bılgılerde bilgilerde
 bılgılerden bilgilerden
@@ -17265,7 +17089,6 @@ bınsınler binsinler
 bınun bunun
 bıöak bıçak
 bır bir
-bıra bira
 bıra biraz
 bıracık biracık
 bırada birada
@@ -17966,7 +17789,6 @@ bırsel birsel
 bırsen birsen
 bırsı birsi
 bırsınde birsinde
-bırsını birisini
 bırsını birsini
 bırsıydı birsiydi
 bırsıyım birsiyim
@@ -18414,7 +18236,6 @@ bkini bikini
 bkıyordu bakıyordu
 bkk bebek
 bkledim bekledim
-bkm bakım
 bkmak bakmak
 bkrtu Bartu
 bksiklet bisiklet
@@ -18472,7 +18293,6 @@ blendrı blender
 blenf blender
 bleyzir blazer
 blezer blazer
-blg bilgi
 blg blog
 blgi bilgi
 blgilerinize bilgilerinize
@@ -18488,7 +18308,6 @@ blkon balkon
 bllek bellek
 blmiyorum bilmiyorum
 blo blog
-block blok
 blof blog
 bloff blog
 blog; blog
@@ -18663,7 +18482,6 @@ bogle böyle
 böglesi bölgesi
 bogma boğma
 bogmayan boğmayan
-böğrek börek
 bogucu boğucu
 bogucuydu boğucuydu
 bogulabilir boğulabilir
@@ -18812,12 +18630,10 @@ bölğmünde bölümünde
 bölğmündeki bölümündeki
 boli bolu
 bolice poliçe
-bolkan volkan
 bolkon balkon
 bolkona balkona
 bollugu bolluğu
 bölmde bölümde
-bolme bölme
 bolme bölmeli
 bolmedı bölmedi
 bölmedıler bölmediler
@@ -19079,7 +18895,6 @@ böreklık böreklik
 borekte börekte
 börektı börekti
 borfrosundada bordrosunda
-bork börk
 bormoz bornoz
 borno bornoz
 bornovada Bornova
@@ -19088,7 +18903,6 @@ borosu borusu
 bors borsa
 bort bot
 borta bota
-börü boru
 borulari boruları
 borularındakı borularındaki
 borulce börülce
@@ -19277,9 +19091,7 @@ böye böyle
 böyel böyle
 böykle böyle
 böyl böyle
-boyle böyle
 boylece böylece
-böyledi böyledir
 böyledi böyleydi
 böyledı böyle
 boyledır böyledir
@@ -19410,7 +19222,6 @@ brbek bebek
 brbrk bebek
 brden birden
 breketi braketi
-brenda branda
 brendası brandası
 brender blender
 brendır blender
@@ -19663,7 +19474,6 @@ bugday buğday
 bugdayi buğdayı
 buğdayi buğdayı
 bugdayı buğdayı
-büge büfe
 bugidi bigudi
 buğlama buğulama
 bugn bugün
@@ -19699,7 +19509,6 @@ bugünun bugünün
 büğyük büyük
 buhalı buharlı
 buhan buhran
-buhari buharlı
 buharl buharlı
 buharlasma buharlaşma
 buharlastirici buharlaştırıcı
@@ -19714,7 +19523,6 @@ bujisis bujisi
 bujı buji
 bujş buji
 bujuteri bijuteri
-buk bük
 buk büyük
 bukale bukalemun
 bukalemum bukalemun
@@ -19973,7 +19781,6 @@ buldugunuz bulduğunuz
 buldugunuza bulduğunuza
 buldukca buldukça
 buldurabılır buldurabilir
-bule bile
 bule bul
 buleklik bileklik
 bülen Bülent
@@ -20298,7 +20105,6 @@ burasu burası
 burayi burayı
 buraz biraz
 burbunu burcunu
-burc burç
 burcak burçak
 burcin Burçin
 burcın Burçin
@@ -20907,7 +20713,6 @@ caddesının caddesinin
 caddeydı caddeydi
 caddeyı caddeyi
 caddir çadır
-cade cadde
 cadeden caddeden
 cadense Cadence
 cadent Cadence
@@ -20915,7 +20720,6 @@ cadenve Cadence
 çader çadır
 cadey Caddy
 cadeye caddeye
-cadi Caddy
 cadi cadı
 cadilik cadılık
 cadin kadın
@@ -21145,7 +20949,6 @@ caidiri çadırı
 çaışmaar çalışmalar
 çaışmala çalışmalar
 çaışmalar çalışmalar
-çaışmalra çalışmalar
 çaışmalra çalışmalara
 çaışmanız çalışmanız
 caısmıtık çalışmıştık
@@ -21492,7 +21295,6 @@ calışamıyoruz çalışamıyoruz
 çalısamıyoruz çalışamıyoruz
 çalışamıyoruzç çalışamıyoruz
 çalışamıyorz çalışamıyoruz
-çalışamlar çalışanlar
 çalışamlar çalışmalar
 çalışamların çalışanların
 çalışamnları çalışanları
@@ -21769,7 +21571,6 @@ calısmadım çalışmadım
 calısmak çalışmak
 calışmak çalışmak
 çalısmak çalışmak
-çalışmaka çalışmak
 çalışmaka çalışmakta
 çalışmakar çalışmalar
 çalışmakatdır çalışmaktadır
@@ -21780,7 +21581,6 @@ calısmaktan çalışmaktan
 çalısmaktan çalışmaktan
 çalışmaktardır çalışmaktadır
 çalışmaktarır çalışmaktadır
-çalışmal çalışma
 çalışmal çalışmalar
 çalışmala çalışmalar
 çalışmalaar çalışmalar
@@ -21814,7 +21614,6 @@ calısmalısınız çalışmalısınız
 çalışmalöar çalışmalar
 calısmalr çalışmalar
 çalışmalr çalışmalar
-çalışmalra çalışmalar
 çalışmalra çalışmalara
 çalışmalrar çalışmalar
 calısmam çalışmam
@@ -21840,7 +21639,6 @@ calısmanıza çalışmanıza
 calısmanızdan çalışmanızdan
 calısmanızı çalışmanızı
 calısmar çalışma
-çalışmara çalışmalar
 çalışmara çalışmalara
 calışmasa çalışmasa
 çalışmasada çalışmasa
@@ -21920,9 +21718,7 @@ calısmıyormus çalışmıyormuş
 calısmıyorum çalışmıyorum
 çalışmıyrdu çalışmıyordu
 çalışmıyrodu çalışmıyordu
-çalışmka çalışma
 çalışmka çalışmak
-çalışmla çalışma
 çalışmla çalışmalar
 çalısmlaar çalışmalar
 çalışmlaar çalışmalar
@@ -22185,7 +21981,6 @@ camaken camekan
 camalrı camları
 camara kamera
 çamarşırlık çamaşırlık
-çamaş çamaşır
 çamaşar çamaşır
 camasir çamaşır
 camaşir çamaşır
@@ -22311,7 +22106,6 @@ canağı çanağı
 canak çanak
 çanakk çanak
 canakkale Çanakkale
-çanakkale Çanakkale'yi
 çanakkalede Çanakkale'de
 çanakkaledekı Çanakkale'deki
 çanakkaleden Çanakkale'den
@@ -22323,7 +22117,6 @@ canaklar çanaklar
 canaklarda çanaklarda
 canakli çanaklı
 canaksiz çanaksız
-canal çanak
 canani cananı
 çanaşır çamaşır
 çanaşırı çamaşırı
@@ -22334,19 +22127,16 @@ canaval karnaval
 çanavar canavar
 canavari canavarı
 canbegi Canbek'i
-candar Çandar
 candarli Çandarlı
 candas Candaş
 canera kamera
 çani cani
-canib canip
 canima canıma
 canindan canından
 canılı canili
 canılısı canilisi
 çanıtı çanta
 canjn Canon
-cankaya Çankaya
 çankayada Çankaya'da
 canki canlı
 cankiri Çankırı
@@ -22419,7 +22209,6 @@ cantamıza çantamıza
 cantanın çantanın
 cantanızı çantanızı
 cantao çanta
-cantas Cantaş
 çantas Cantaş
 cantas çantası
 çantasaı çantası
@@ -22434,7 +22223,6 @@ cantaso çantası
 çantassı çantası
 çantasu çantası
 çantaü çanta
-çantay çantaya
 çantay çantayı
 cantaya çantaya
 cantayı çantayı
@@ -22570,7 +22358,6 @@ carkli çarklı
 çarkli çarklı
 carklı çarklı
 carko kargo
-carlie Charlie
 carlik çarlık
 çarmamsı çarpması
 carmih çarmıh
@@ -22801,7 +22588,6 @@ casu casus
 casusl casuslar
 cat çat
 catagi çatalı
-catak çatak
 catak çatal
 catal çatal
 çataları çatalları
@@ -23840,7 +23626,6 @@ cekmıyorsa çekmiyorsa
 çekmıyoruz çekmiyoruz
 cekoslavakya Çekoslavakya
 cekoslovak çekoslovak
-çekoslovakya Çekoslavakya
 cekoslovakyali Çekoslovakyalı
 cekre çehre
 çekrt çeker
@@ -23991,9 +23776,7 @@ cekyatta çekyatta
 çekyattakı çekyattaki
 cekyattan çekyattan
 cekyt çekyat
-cel çel
 cel çelik
-celalettin Celaleddin
 celalettın Celalettin
 celalüddin Celaleddin
 çeldı çeldi
@@ -25223,7 +25006,6 @@ cidney Sydney
 çieçk çiçek
 çieklik çiçeklik
 ciesem gsm
-çif cif
 çif çift
 cifci çiftçi
 çifçi çiftçi
@@ -25488,7 +25270,6 @@ cinsı cinsi
 çiöeği çiçeği
 çiöek çiçek
 ciosmi cismi
-cipa çağa
 çipa çağa
 cipa çıpa
 ciplak çıplak
@@ -25533,14 +25314,11 @@ cisil Çisil
 cismesi çizmesi
 cisp cips
 ciss çiş
-cit cilt
-cit çit
 cit çıt
 cita çıta
 citalar çıtalar
 citalari çıtaları
 citali çıtalı
-citasi çıta
 citasi çıtası
 çitasi çıtası
 citası çıtası
@@ -25597,7 +25375,6 @@ ciwan civan
 ciyan çıyan
 ciyazi cihazı
 ciyt City
-ciz çiz
 ciz cız
 cizdan cüzdan
 cizdirmez çizdirmez
@@ -25882,7 +25659,6 @@ cıfttık çifttik
 çıfttır çifttir
 çıfttıydık çiftiydik
 cıg çığ
-cığ çığ
 çıg çığ
 cığazı cihazı
 çığde çiğde
@@ -26210,7 +25986,6 @@ cıkarlarını çıkarlarını
 cıkarlarsa çıkarlarsa
 çıkarlen çıkarken
 çıkarlıp çıkartıp
-cıkarma çıkarma
 cıkarma çıkartma
 cıkarmadan çıkarmadan
 cıkarmadı çıkarmadı
@@ -26757,7 +26532,6 @@ cıltler ciltler
 cıltte ciltte
 cım çim
 çım çim
-cım cımbız
 cımamıştır çıkmamıştır
 cımbıl cımbız
 çımde çimde
@@ -26828,7 +26602,6 @@ cımrılığın cimriliğin
 cımrılık cimrilik
 cımrılıkler cimrilikler
 cımrılıklerınden cimriliklerinden
-cın cin
 cın cins
 cınar çınar
 cınayet cinayet
@@ -27169,7 +26942,6 @@ claşre Claire
 claudıa Claudia
 clauvı Claudia
 clçamaşır çamaşır
-clemente Clementine
 clerie Claire
 clevaland Cleveland
 clevland Cleveland
@@ -27639,7 +27411,6 @@ cokca çokça
 cokecek çökecek
 cokelek çökelek
 çoken çöken
-coker Çoker
 coker joker
 çokerle Çoker'le
 cokert çökert
@@ -27662,8 +27433,6 @@ cokli çoklu
 çokloyıcı çoklayıcı
 çoklqyıcı çoklayıcı
 coklu çoklu
-çöklü çoklu
-çöklü çöktü
 çöklü köklü
 coklugu çokluğu
 coklugundan çokluğundan
@@ -27706,7 +27475,6 @@ cokus çöküş
 col çöl
 cöl çöl
 çol çöl
-cola kola
 colak çolak
 colalar kolalar
 colaların kolaların
@@ -27714,7 +27482,6 @@ colambia columbia
 colanın Cola
 colayı Cola
 çöldeydık çöldeydik
-cole çöle
 colejen kolajen
 colemam Coleman
 colimbia columbia
@@ -27784,7 +27551,6 @@ control kontrol
 conveti konfeti
 coocuk çocuk
 çoocuk çocuk
-cook çok
 çook çok
 çöok çok
 coook çok
@@ -27909,7 +27675,6 @@ cosa coşa
 coşabılıyoruz coşabiliyoruz
 cosar coşar
 coskulu çoşkulu
-coskun coşkun
 coskun çoşkun
 çoskun çoşkun
 coskuner Coşkuner
@@ -28315,10 +28080,8 @@ cremay krema
 cremi kremi
 crep krep
 çrezlik çerezlik
-cristal Crystal
 cristal kristal
 cristial Crystal
-cristian Christian
 crisytal Crystal
 criystal Crystal
 crıstına Cristina
@@ -28368,7 +28131,6 @@ cucuk çocuk
 cuçuk çocuk
 çucuk çocuk
 çuçuk çocuk
-cucuk cücük
 çucukçu çocukçu
 çucuklu çocuklu
 cucut vücut
@@ -28606,7 +28368,6 @@ daclumbaz davlumbaz
 dada daha
 dadas dadaş
 dadece sadece
-dadi daddy
 dadi dadı
 dafa defa
 dafe defa
@@ -28630,7 +28391,6 @@ dagdakı dağdaki
 dağdakı dağdaki
 dagdan dağdan
 dagha daha
-dagil dağıl
 dagil dahil
 dağil dahil
 dagit dağıt
@@ -28844,7 +28604,6 @@ daımınde daiminde
 daımlerı daimleri
 daın daim
 daını daimi
-daır dair
 daır daire
 daırdı dairdi
 daıre daire
@@ -28996,7 +28755,6 @@ dalgıclık dalgıçlık
 dalgınlıgıma dalgınlığıma
 dalglı dalgalı
 dali dalı
-dalia Dahlia
 dalika dakika
 dalil delil
 dalis dalış
@@ -29022,7 +28780,6 @@ damagımızda damağımızda
 damagına damağına
 damakli damaklı
 damaks damak
-damal damak
 damali damalı
 damalsi damalı
 damarkı damarlı
@@ -29181,7 +28938,6 @@ darc darcan
 dardi dardı
 dargin dargın
 darğın dargın
-dari Daria
 dari darı
 dariıs Darius
 darisi darısı
@@ -29323,7 +29079,6 @@ davranmıslardı davranmışlardı
 davranşları davranışları
 davrulmaz davlumbaz
 davrulmazı davlumbazı
-davud David
 davuk davul
 davuki davulu
 davulbaz davlumbaz
@@ -29331,7 +29086,6 @@ davulmaz davlumbaz
 davulumbaz davlumbaz
 davutoglu Davutoğlu
 dawed David
-dawid David
 daxter Dexter
 daxtors Dexter
 dayali dayalı
@@ -29357,7 +29111,6 @@ dayankli dayanıklı
 dayanmıs dayanmış
 dayhatsu Daihatsu
 dayi dayı
-dayim daim
 dayim dayım
 daymin Damon
 daymut Diamond
@@ -29391,7 +29144,6 @@ debize denize
 debısı debisi
 debısının debisinin
 debniz deniz
-debora Deborah
 deboraj Deborah
 debosu deposu
 debraıj debriyaj
@@ -29412,7 +29164,6 @@ decer Decker
 decher Decker
 deckır Decker
 deckr Decker
-ded dede
 ded dedi
 deda defa
 dedaman Dedeman
@@ -29636,7 +29387,6 @@ defterını defterini
 defterlerı defterleri
 defterlerımı defterlerimi
 deftrr defter
-deg değ
 deg degaje
 dega defa
 degdi değdi
@@ -30231,7 +29981,6 @@ değişiklikği değişikliği
 değişiklikleirnin değişikliklerinin
 degisiklikler değişiklikler
 değişiklil değişiklik
-değişikliliği değişikliği
 değişikliliği değişiklik
 değişikliliğin değişikliğin
 değişikliliğinden değişikliğinden
@@ -31679,7 +31428,6 @@ deıler değiller
 deja dejavu
 dejavantajı dezavantajı
 dekarasyon dekorasyon
-dekarasyonu dekorasyon
 dekarasyonu dekorasyonu
 dekarasyonunu dekorasyonunu
 dekarazon dekorasyon
@@ -32513,7 +32261,6 @@ deniiz denizi
 deniizi denizi
 denilcek denilecek
 denilicek denilecek
-denise denize
 denişzi denizi
 denitim denetim
 denix deniz
@@ -32617,7 +32364,6 @@ denır denir
 denırdı denirdi
 denırken denirken
 denırse denirse
-denıs deniş
 denış deniş
 denıs deniz
 denıse denişe
@@ -32786,7 +32532,6 @@ denuze denize
 denyebilirsiniz deneyebilirsiniz
 denz deniz
 denze denize
-denzi deniz
 denzi denizi
 denzie denize
 denzii denizi
@@ -33250,7 +32995,6 @@ desteklerım desteklerim
 desteklerımle desteklerimle
 desteklerını desteklerini
 desteklerınız destekleriniz
-desteklerınızı destekleriniz
 desteklerınızı desteklerinizi
 desteklerınz destekleriniz
 desteklerıyse destekleriyse
@@ -33570,7 +33314,6 @@ dğeiştirilemiyor değiştirilemiyor
 dğeıl değil
 dğeıldı değil
 dger değer
-dğer değer
 dğer diğer
 dğerlendirebilirsiniz değerlendirebilirsiniz
 dğerlendirme değerlendirme
@@ -33614,7 +33357,6 @@ dicital dijital
 didanı fidanı
 dideksiyonu direksiyonu
 didk disk
-die diye
 diebiliriz diyebiliriz
 dieğr diğer
 dieğri diğeri
@@ -33654,7 +33396,6 @@ diğişikliği değişikliği
 digita Digital
 digitai Digital
 diğital Digital
-digital dijital
 digo Diego
 digotal Digital
 diğper diğer
@@ -33859,7 +33600,6 @@ dirreksiyon direksiyon
 dirrkleri direkleri
 dirsegi dirseği
 dirseyi dirseği
-dis diş
 dis dış
 disarda dışarıda
 dişarda dışarıda
@@ -33884,7 +33624,6 @@ disburator distribütör
 disci dişçi
 dişci dişçi
 disck disk
-disco disko
 discoda diskoda
 discodaki diskodaki
 discodan diskodan
@@ -34020,7 +33759,6 @@ diyiyorlar diyorlar
 diyiyorsun diyorsun
 diyiyorum diyorum
 diynet diyanet
-diyo diyor
 diyo diyot
 diyoduk diyorduk
 diyodum diyordum
@@ -35395,7 +35133,6 @@ dısardakı dışarıdaki
 dışardakı dışarıdaki
 dışardakıler dışarıdakiler
 dışardakılere dışarıdakilere
-dısardan dışardan
 dısardan dışarıdan
 dısarı dışarı
 dısarıda dışarıda
@@ -35451,7 +35188,6 @@ dısın dışın
 dısına dışına
 dısınca dışınca
 dışınd dışında
-dısında dışında
 dısında dışından
 dısındadır dışındadır
 dısındaki dışındaki
@@ -36008,12 +35744,10 @@ doalayı dolayı
 doalbı dolabı
 doalbın dolabın
 doalp dolap
-doalyı doğal
 doalyı dolayı
 doamız odamız
 doapli dolaplı
 doası odası
-doaya doğaya
 doaya odaya
 doaydı odaydı
 doayı doğa
@@ -36385,7 +36119,6 @@ dolaboı dolabı
 dolabta dolapta
 dolabu dolabı
 dolağ dolap
-dolaı dolap
 dolaı dolayı
 dolaıy dolayı
 dolakcı dolakçı
@@ -36516,7 +36249,6 @@ dolayısıla dolayısıyla
 dolayısıya dolayısıyla
 dolayısıyle dolayısıyla
 dolayısıylsa dolayısıyla
-dolayısla dolayısıyla
 dolayısla dolayışla
 dolayısyla dolayısıyla
 dolayıu dolayı
@@ -36529,7 +36261,6 @@ dolayo dolayı
 dolaysıyla dolayısıyla
 dolayu dolayı
 dolayuı dolayı
-dolbı dolabı
 dolbı dolap
 dolduç doldu
 doldugu dolduğu
@@ -36684,7 +36415,6 @@ dondorma dondurma
 dondruma dondurma
 dondrurulmuş dondurulmuş
 döndu döndü
-dondugu donduğu
 dondugu döndüğü
 dondugum döndüğüm
 dondugumde döndüğümde
@@ -36730,7 +36460,6 @@ donduruc dondurucu
 donduruccu dondurucu
 dondurucı dondurucu
 dondurucy dondurucu
-dondurulmus dondurulmuş
 dondurulmus döndürülmüş
 dondurulmustu dondurulmuştu
 donduruncu dondurucu
@@ -37054,7 +36783,6 @@ dönmeyınce dönmeyince
 donmez dönmez
 dönmezdık dönmezdik
 dönmezdım dönmezdim
-donmus donmuş
 donmus dönmüş
 donmusler dönmüşler
 dönmüşlerdı dönmüşlerdi
@@ -37075,11 +36803,9 @@ dönşte dönüşte
 dönştürücü dönüştürücü
 donsunler dönsünler
 donsurma dondurma
-dönü dönüş
 dönüceğimiz döneceğimiz
 dönücek dönecek
 dönücekti dönecekti
-dönücem dön
 dönücem döneceğim
 dönücez dön
 dönuk dönük
@@ -37269,7 +36995,6 @@ doolayı dolayı
 doondurma dondurma
 dopa doğa
 dopabi dolabı
-dopal doğal
 dopal dolap
 dopğa doğa
 dopğru doğru
@@ -37320,7 +37045,6 @@ dorukkayaya Dorukkaya'ya
 dorukkayayı Dorukkaya'yı
 doruncu dondurucu
 dörüntüsü görüntüsü
-dos döş
 dos dosya
 doşanı dolabı
 dose döşe
@@ -37681,7 +37405,6 @@ dugun düğün
 duğun düğün
 dügün düğün
 düğun düğün
-dügün düzgün
 dugunde düğünde
 dügüne düğüne
 dugunler düğünler
@@ -37715,7 +37438,6 @@ dülbent tülbent
 duldul düldül
 dulş duş
 dülştü düştü
-duma duman
 dumani dumanı
 dumanindan dumanından
 dumaninin dumanının
@@ -37827,7 +37549,6 @@ duramadik duramadık
 duramayacagımız duramayacağımız
 durami durumu
 durb dürbün
-durbin dürbün
 dürbin dürbün
 durbun dürbün
 dürbun dürbün
@@ -37865,7 +37586,6 @@ dürmedık dürmedik
 durmu durumu
 durmumunda durumunda
 durmunda durumunda
-durmus durmuş
 durmus dürmüş
 durmustu dürmüştü
 durmuyo durmuyor
@@ -37895,7 +37615,6 @@ durumlardad durumlarda
 durumlardakı durumlardaki
 durumlari durumları
 durumnda durumunda
-durumuda durumda
 durumuda durumunda
 durumudna durumunda
 durumund durumunda
@@ -37903,7 +37622,6 @@ durumundakı durumundaki
 durumundasiniz durumundasınız
 durumunuda durumunda
 duruoyr duruyor
-durus duruş
 durus dürüş
 dürüs dürüş
 duruslar duruşlar
@@ -37921,7 +37639,6 @@ duruyolar duruyorlar
 duruyorlarmıs duruyorlarmış
 duruyurusuna duyurusunda
 dury duru
-dus duş
 dus düş
 düş-tü düştü
 düş-tün düştün
@@ -38178,7 +37895,6 @@ düştüklerını düştüklerini
 dustuler düştüler
 dustum düştüm
 düstünüz düştünüz
-dusu duşu
 dusu düşü
 düşüce düşünce
 düşücek düşün
@@ -39134,7 +38850,6 @@ duzeltir düzeltir
 düzeltirir düzelttirir
 düzeltiriyoruz düzelttiriyoruz
 duzeltirlerse düzeltirlerse
-düzeltirmiyor düzeltilmiyor
 düzeltirmiyor düzelttirmiyor
 duzeltirse düzeltirse
 duzeltı düzelti
@@ -39240,7 +38955,6 @@ düzeltılseydı düzeltilseydi
 düzeltılsın düzeltilsin
 duzeltım düzelttim
 düzeltıme düzelttim
-düzeltımı düzeltimi
 düzeltımı düzelttim
 duzeltımını düzeltimini
 duzeltın düzeltin
@@ -39951,7 +39665,6 @@ eaks faks
 earmut armut
 eb-rar Ebrar
 ebadları ebatları
-eban ebat
 ebatlari ebatları
 ebatli ebatlı
 ebats ebat
@@ -39978,14 +39691,12 @@ ebiseleri elbiseleri
 ebn ben
 ebni beni
 ebrakları evrakları
-ebu ebru
 ecalibur Excalibur
 ecebiyatı edebiyatı
 ecenta acente
 ecente acente
 ecenteden acenteden
 ecenter acente
-ecer Acer
 eceydı eceydi
 ecmir emir
 ecnebı ecnebi
@@ -40017,7 +39728,6 @@ edden eden
 eddilmesi edilmesi
 eddison Addison
 edeard Edward
-edeb edebi
 edeb edep
 edebiat edebiyat
 edebiilr edebilir
@@ -40238,7 +39948,6 @@ edeiblir edebilir
 edeibliriz edebiliriz
 edeiblirsiniz edebilirsiniz
 edeilbirsiniz edebilirsiniz
-edeilebilir edebilir
 edeilebilir edilebilir
 edeim ederim
 edeirim ederim
@@ -40376,7 +40085,6 @@ ederizç ederiz
 ederizsyg ederiz
 ederizx ederiz
 ederizz ederiz
-ederı ederi
 ederı ederiz
 ederıler ederler
 ederım ederim
@@ -40425,7 +40133,6 @@ edicegim edeceğim
 ediceğim edeceğim
 ediceğimi edeceğimi
 ediceğimiz edeceğimiz
-edicek edeceğim
 edicek edecek
 edicekken edecekken
 edicekler edecekler
@@ -40485,7 +40192,6 @@ edillmesini edilmesini
 edillmiştir edilmiştir
 edilmden edilmeden
 edilmeememktedr edilememektedir
-edilmeis edilmemiş
 edilmeiş edilmemiş
 edilmeis edilmesi
 edilmeisni edilmesini
@@ -40537,7 +40243,6 @@ ediyorlardi ediyorlardı
 ediyorm ediyorum
 ediyorsaniz ediyorsanız
 ediyortum ediyordum
-ediyoru ediyordu
 ediyoru ediyorum
 ediyoruım ediyorum
 ediyorumm ediyorum
@@ -41411,7 +41116,6 @@ eğlecenli eğlenceli
 eğlecesi eğlencesi
 eğlecesı eğlencesi
 eğlecne eğlence
-eglen eğlen
 eglen eğlence
 eglence eğlence
 eglencede eğlencede
@@ -42044,7 +41748,6 @@ eiçlektrıklı elektrikli
 eidilmiştir edilmiştir
 eidlmesi edilmesi
 eidlmiş edilmiş
-eidlmiştir edilmiştir
 eidlmiştir edişmiştir
 eidp edip
 eiği eşik
@@ -42071,7 +41774,6 @@ ejeterli etajerli
 ejkranlı ekranlı
 ejlerha ejderha
 ejmanın Ejma'nın
-ek'de Ek'te
 ek'de ekte
 ek'e eke
 ek'li ekli
@@ -42228,7 +41930,6 @@ ekıpmanlar ekipmanlar
 ekıpmanlara ekipmanlara
 ekıpmanlarda ekipmanlarda
 ekıpmanlardan ekipmanlardan
-ekıpmanları ekipman
 ekıpmanları ekipmanları
 ekıpmanlarım ekipmanlarım
 ekıpmanlarımı ekipmanlarımı
@@ -42324,7 +42025,6 @@ eklenecektı eklenecekti
 eklenecetır eklenecektir
 ekleneck eklenecek
 eklenemez’ eklenemez
-eklenicek eklenecek
 eklenicek eklenecektir
 eklenicektir eklenecektir
 eklenıcek eklenecek
@@ -42475,7 +42175,6 @@ ekmeklerını ekmeklerini
 ekmeklerıyle ekmekleriyle
 ekmekmek ekmek
 ekmektı ekmekti
-ekmel ekmek
 ekmelerımız ekmeklerimiz
 ekmemışler ekmemişler
 ekmışler ekmişler
@@ -42538,7 +42237,6 @@ ekrani ekranı
 ekraninda ekran
 ekraninin ekran
 ekranıda ekranda
-ekranıdan ekrandan
 ekranıdan ekranından
 ekranıı ekranı
 ekranıımız ekranımız
@@ -42563,10 +42261,8 @@ ekranmız ekranımız
 ekrann ekran
 ekranna ekranda
 ekranndan ekrandan
-ekrannı ekranı
 ekrannı ekranını
 ekranrandan ekranından
-ekrar ekran
 ekrar tekrar
 ekrardan tekrardan
 ekrarından tekrarından
@@ -42901,7 +42597,6 @@ ekstremız ekstremiz
 ekstremızde ekstremizde
 ekta ekte
 ektaki ekteki
-ektan ekran
 ektan ekten
 ektanıda ekranda
 ektanlarından ekranlarından
@@ -42922,14 +42617,12 @@ ektediri ektedir
 ektedit ektedir
 ektedı ektedir
 ektedır ektedir
-ektedki ektedir
 ektedki ekteki
 ektedlki ekteki
 ektedor ektedir
 ektedr ektedir
 ektedri ektedir
 ekteedir ektedir
-ektei ektedir
 ektei ekteki
 ektei’dir ektedir
 ekteid ektedir
@@ -42965,7 +42658,6 @@ ektro elektro
 ektsra ekstra
 ektte ekte
 ekulu akülü
-ekvador ekvator
 ekxtra ekstra
 ekzama egzama
 ekzersiz egzersiz
@@ -43014,10 +42706,8 @@ elbisrsi elbisesi
 elbiye elbise
 elbıler elbiseler
 elbıse elbise
-elbıseler elbiseler
 elbıseler elbiseleri
 elbıselerde elbiselerde
-elbıselerı elbise
 elbıselerı elbiseleri
 elbıselerım elbiselerim
 elbıselerımı elbiselerimi
@@ -43141,7 +42831,6 @@ elektirijli elektrikli
 elektirik elektrik
 elektirikki elektrikli
 elektirikle elektrikler
-elektirikler elektrik
 elektirikler elektrikler
 elektirikli elektrikli
 elektiriklu elektrikli
@@ -43450,9 +43139,7 @@ elimizede elimizde
 elimzde elimizde
 elindem elinden
 elindn elinden
-elisabeth Elizabeth
 elisavet Elisabeth
-elise elbise
 elishanın Elisha'nın
 elistan Elbistan
 eliven eldiven
@@ -43518,7 +43205,6 @@ elısa Elisa
 elıyle eliyle
 elıyorum eliyorum
 elıyoruz eliyoruz
-elızabeth Elisabeth
 elızabeth Elizabeth
 elketrik elektrik
 elktirik elektrik
@@ -43687,7 +43373,6 @@ elyes Elysee
 elyese Elysee
 elyesee Elysee
 elyess Elysee
-elyse Elysee
 elyss Elysee
 elysse Elysee
 elyssee Elysee
@@ -43796,7 +43481,6 @@ eminiseniz eminseniz
 eminiyetin emniyetin
 eminocak emin
 eminonu Eminönü
-emis demiş
 emis emiş
 emitasyon imitasyon
 emizik emzik
@@ -44012,7 +43696,6 @@ endüstrıyeldı endüstriyeldi
 eneejili enerjili
 enejili enerjili
 enel genel
-ener enerji
 eneral general
 enerbahce Fenerbahçe
 enerhjisi enerjisi
@@ -44346,14 +44029,12 @@ erdınc Erdinç
 erdınç Erdinç
 erdıremedım erdiremedim
 erdırmış erdirmiş
-erdogan Erdoğan
 erdogdu Erdoğdu
 erebıleceklerı erebilecekleri
 erece derece
 eregli Ereğli
 ereğlı Ereğli
 erekek erkek
-ereken gerek
 erekk erkek
 erekn erken
 ereksyon ereksiyon
@@ -44380,19 +44061,15 @@ ergonomısı ergonomisi
 ergonomısınden ergonomisinden
 erguder Ergüder
 ergul Ergül
-ergun Ergün
-erguner Ergüner
 erhaba merhaba
 erhabalar merhabalar
 erhandı Erhan
-erica rica
 ericek erecek
 erigi eriği
 eriktirli elektrikli
 erimis erimiş
 erinc erinç
 eririği eriği
-eris eriş
 erisebiliyorsunuz erişebiliyorsunuz
 erisemiyorsunuz erişemiyorsunuz
 erişik erişim
@@ -44485,7 +44162,6 @@ erışım erişim
 erışımde erişimde
 erısımı erişimi
 erışımı erişimi
-erısımı erişimli
 erışımımız erişimimiz
 erışımın erişimin
 erışımınde erişiminde
@@ -44559,15 +44235,12 @@ erkeksınız erkeksiniz
 erkekspor erkek
 erkektı erkekti
 erkektık erkektik
-erkel erkek
 erkendı erkendi
 erkenı erkeni
 erkenınden erkeninden
-erker erkek
 erkerk erkek
 erket erkek
 erkez erken
-erkın erkin
 erkıp ekip
 erkız erkiz
 erkk erkek
@@ -44582,7 +44255,6 @@ erlerı erleri
 ermedı ermedi
 ermenı ermeni
 ermesı ermesi
-ermi ermine
 ermi ermiş
 ermis ermiş
 ermişl ermiş
@@ -44595,7 +44267,6 @@ ern eren
 ero euro
 eroglu Eroğlu
 erogluotoo Eroğlu
-eroğul Eroğlu
 eroitik erotik
 erok erotik
 erope Europe
@@ -44609,7 +44280,6 @@ errkek erkek
 errkut Erkut
 ersa? Ersa
 ersahin Erşahin
-ersan Erşan
 ersim ersin
 ersinti esinti
 ersın ersin
@@ -44619,7 +44289,6 @@ ersonel personel
 ersoneli personeli
 ersonelleri personelleri
 ersoz Ersöz
-ersu Ersü
 ertas Ertaş
 ertei ertesi
 ertekın Ertekin
@@ -44733,7 +44402,6 @@ erzıncan Erzincan
 erzıngan Erzincan
 erzum Erzurum
 erzurumdaki Erzurum'daki
-erzurumspor Erzurum
 eş’ler eşler
 eşafman eşofman
 eşaka şaka
@@ -44987,7 +44655,6 @@ eskiklik eksiklik
 eskiklikler eksiklikler
 eskikliklerden eksikliklerden
 eskikti eksikti
-eskil şekil
 eşkilde şekilde
 eskiligi eskiliği
 eskimiiş eskimiş
@@ -45331,15 +44998,12 @@ esyada eşyada
 eşyala eşyalar
 esyalar eşyalar
 esyalarda eşyalarda
-esyalari eşya
-eşyalari eşya
 esyalari eşyaları
 eşyalari eşyaları
 esyalarimiz eşyalarımız
 eşyalarimizi eşyalarımızı
 esyalarin eşyaların
 esyalarini eşyalarını
-esyaları eşya
 esyaları eşyaları
 esyalarım eşyalarım
 eşyalarımiz eşyalarımız
@@ -45415,7 +45079,6 @@ eteklerıne eteklerine
 eteklı etekli
 eteklıler etekliler
 etel etek
-etem Ethem
 etemek etmek
 etemekte etmekte
 etemektedir etmektedir
@@ -45492,7 +45155,6 @@ etıyle etiyle
 etıyse etiyse
 etk etiket
 etke etken
-etkedir ektedir
 etkedir etkendir
 etkek erkek
 etkendı etkendi
@@ -46716,7 +46378,6 @@ evlıysenız evliyseniz
 evll evli
 evllik evlilik
 evmış evmiş
-evra evrak
 evrağa evraka
 evragı evrakı
 evrağı evrakı
@@ -46847,7 +46508,6 @@ eyr eğer
 eyrde yerde
 eyrden yerden
 eyrdi yerdi
-eyre eyer
 eyre yere
 eyrek çeyrek
 eysenboğa Esenboğa
@@ -47136,7 +46796,6 @@ faliyetler faaliyetler
 faliyetleri faaliyetleri
 faliyetlerini faaliyetlerini
 faliyetli faaliyetli
-faliyette faaliyete
 faliyette faaliyette
 falıyet faaliyet
 falıyetler faaliyetler
@@ -47159,7 +46818,6 @@ famılydekı Family'deki
 famılydı Family'di
 famtazi fantezi
 fanatık fanatik
-fane fan
 fane tane
 fanikülere füniküler
 fanile fanila
@@ -47648,7 +47306,6 @@ festıvaller festivaller
 festıvallere festivallere
 festıvallerı festivalleri
 festıvallerle festivallerle
-fesuphanallah fesüphanallah
 fetah ferah
 feteri defter
 fethedenlerın fethedenlerin
@@ -47720,14 +47377,11 @@ fgelin gelin
 fhakir fakir
 fhirist fihrist
 fhiser Fisher
-fi aaa
 fia Fiat
-fiaat Fiat
 fiaat fiyat
 fiaatı fiyatı
 fiakiyesi fıskiyesi
 fiasko fiyasko
-fiat fiyat
 fiata fiyata
 fiatfiat Fiat
 fiatı fiyatı
@@ -47836,7 +47490,6 @@ filitersi filtresi
 filitlee filtreler
 filitre filtre
 filitreleme filtreleme
-filitreler filtre
 filitreler filtreler
 filitreli filtreli
 filitrelik filtrelik
@@ -47896,7 +47549,6 @@ finca fincan
 fincab fincan
 fincamı fincanı
 fincani fincanı
-fincanlari fincan
 fincanlari fincanları
 fincanli fincanlı
 fincanlik fincanlık
@@ -47970,7 +47622,6 @@ firlatıcı fırlatıcı
 firlatma fırlatma
 firm firma
 firmala firmalar
-firmalari firma
 firmalari firmaları
 firmalarınna firmalarına
 firmamzın firmamızın
@@ -47998,7 +47649,6 @@ firsatim fırsatım
 firsatimiz fırsatımız
 firsatı fırsatı
 firsatlar fırsatlar
-firsatlari fırsat
 firsatlari fırsatları
 firsatları fırsat
 firsatta fırsatta
@@ -48109,7 +47759,6 @@ fiyalıydı fiyatlıydı
 fiyar fiyat
 fiyara fiyata
 fiyari fiyatı
-fiyarlar fiyatlar
 fiyarlar fiyatları
 fiyarlari fiyatları
 fiyart fiyat
@@ -48143,7 +47792,6 @@ fiyatlaı fiyatları
 fiyatlaırmız fiyatlarımız
 fiyatlandirma fiyatlandırma
 fiyatlandirmaniz fiyatlandırmanız
-fiyatlari fiyat
 fiyatlari fiyatları
 fiyatlarin fiyatların
 fiyatlarina fiyatlarına
@@ -48200,11 +47848,9 @@ fizksel fiziksel
 fizligi fiziği
 fizyoteraspistler fizyoterapistler
 fıar Fiat
-fıat Fiat
 fıat fiyat
 fıatı fiyat
 fıatlar Fiatlar
-fıatları Fiat
 fıatları fiyatları
 fıayat fiyat
 fıayata fiyata
@@ -48222,7 +47868,6 @@ fıcıydı fıçıydı
 fıdan fidan
 fıdanı fidanı
 fıdanlar fidanlar
-fıfa Fifa
 fıfafifa Fifa
 fıgen Figen
 fıgu figür
@@ -48434,7 +48079,6 @@ fırcaladık fırçaladık
 fırcaladıktan fırçaladıktan
 fırcalanmıyor fırçalanmıyor
 fırcalar fırçalar
-fırcaları fırça
 fırcaları fırçaları
 fırcalarken fırçalarken
 fırcalı fırçalı
@@ -48453,7 +48097,6 @@ fırcayı fırçayı
 fırd Ford
 fırdatları fırsat
 fırdevs Firdevs
-fıre fire
 fıre fren
 fıren fren
 fıreni freni
@@ -48561,7 +48204,6 @@ fırtınadakı fırtınadaki
 fıruze firuze
 fıs fiş
 fış fiş
-fıs fısfıs
 fışe fişe
 fışeğın fişeğin
 fışek fişek
@@ -48758,7 +48400,6 @@ fıyatlardaydı fiyatlardaydı
 fıyatlardı fiyatlardı
 fıyatlardın fiyatlardır
 fıyatlardır fiyatlardır
-fıyatları fiyat
 fıyatları fiyatları
 fıyatlarıdır fiyatlarıdır
 fıyatlarıma fiyatlarıma
@@ -49041,7 +48682,6 @@ foroğraflarda fotoğraflarda
 foroğraflarla fotoğraflarla
 forsforlu fosforlu
 försht First
-fort Ford
 fortatif portatif
 fortd Ford
 fortmanto portmanto
@@ -49082,7 +48722,6 @@ fotlarını fotoğraflarını
 fotma forma
 fotmasi forması
 fotmat format
-fotoalrını fotoğraflarını
 fotoalrını fotolarını
 fotodakının fotodakinin
 fotofraf fotoğraf
@@ -49127,7 +48766,6 @@ fotografında fotoğrafında
 fotoğrafındakı fotoğrafındaki
 fotografını fotoğrafını
 fotografla fotoğrafla
-fotograflar fotoğraflar
 fotograflar fotoğrafları
 fotograflara fotoğraflara
 fotograflarda fotoğraflarda
@@ -49141,7 +48779,6 @@ fotoğraflardakıye fotoğraflardakiye
 fotograflardakıyle fotoğraflardakiyle
 fotoğraflardakıyle fotoğraflardakiyle
 fotograflardan fotoğraflardan
-fotograflari fotoğraf
 fotograflari fotoğrafları
 fotoğraflari fotoğrafları
 fotograflarin fotoğrafların
@@ -49149,7 +48786,6 @@ fotoğraflarin fotoğrafların
 fotograflarinda fotoğraflarında
 fotograflarini fotoğraflarını
 fotograflariyla fotoğraflarıyla
-fotografları fotoğraf
 fotografları fotoğrafları
 fotograflarım fotoğraflarım
 fotograflarımı fotoğraflarımı
@@ -49315,7 +48951,6 @@ fsubay subay
 fşyat fiyat
 ftbol futbol
 ftnees fitness
-fuad fuar
 fual faal
 fuarli fuarlı
 fuayesı fuayesi
@@ -49901,7 +49536,6 @@ geceleğine geceliğine
 gecelemedık gecelemedik
 gecelememız gecelememiz
 gecelerdı gecelerdi
-gecelerı gece
 gecelerı geceleri
 gecelerım gecelerim
 gecelerımız gecelerimiz
@@ -50017,7 +49651,6 @@ gecenız geçeniz
 gecenıze gecenize
 gecenızı gecenizi
 gecenlerde geçenlerde
-gecenlere geçen
 gecenlere geçenlere
 gecenleri geçenleri
 geçenlerı geçenleri
@@ -50041,7 +49674,6 @@ gecerken geçerken
 geçerkldiir geçerlidir
 geçerldir geçerlidir
 gecerli geçerli
-geçerlidi geçerlidir
 geçerlidi geçerliydi
 geçerliğili geçerliliği
 geçerlikik geçerlilik
@@ -50110,7 +49742,6 @@ geçiemwz geçirmez
 geçikçirici geciktirici
 gecikdirici geciktirici
 geçikenliği geçişkenliği
-geçikenlik gecikenler
 geçikenlik geçişkenlik
 geçikiyordu gecikiyordu
 geciklmeli gecikmeli
@@ -50204,7 +49835,6 @@ geciriyorduk geçiriyorduk
 geciriyorlar geçiriyorlar
 geciriyoruz geçiriyoruz
 geçirmaz geçirmez
-gecirme geçirme
 gecirme geçirmez
 gecirmeden geçirmeden
 gecirmedigimiz geçirmediğimiz
@@ -51399,7 +51029,6 @@ geçmıyoruz geçmiyoruz
 gecmıyourm geçmiyorum
 geçmştir geçmiştir
 gecn geçen
-geçn geçen
 geçn geçin
 geco gece
 gecr gece
@@ -51518,7 +51147,6 @@ geektiğini gerektiğini
 geel genel
 geelcekti gelecekti
 geeln gelen
-geen geçen
 geen gelen
 geenel genel
 geenl genel
@@ -51534,7 +51162,6 @@ geici gerici
 geide gemide
 geiliyor geliyor
 geip gelip
-geir geğir
 geir geri
 geirmeyen geğir
 geirmez geçirmez
@@ -51875,7 +51502,6 @@ gelesım gelesim
 geleyım geleyim
 gelgelelım gelgelelim
 gelgi geldi
-geli gelin
 geli gelip
 geliceği geleceği
 gelicegim geleceğim
@@ -52572,7 +52198,6 @@ gelmıyorum gelmiyorum
 gelmıyoruz gelmiyoruz
 gelmktedir gelmektedir
 gelmyor gelmiyor
-geln gelen
 geln gelin
 gelöedi gel
 gelöıyor gelmiyor
@@ -52700,8 +52325,6 @@ genaral general
 genarel general
 genatal general
 genava Geneva
-genc genç
-gencay Gençay
 gençdufa genç
 gencecix gencecik
 gencecık gencecik
@@ -53253,7 +52876,6 @@ gereçlerın gereçlerin
 gereçlerınde gereçlerinde
 gereçlerını gereçlerini
 gereclwri gereç
-gerede geride
 gereekn gereken
 gereğei gereği
 geregi gereği
@@ -54181,7 +53803,6 @@ geyıklı geyikli
 geyım geyik
 geysa geyşa
 geyt gayet
-geyve meyve
 gezdirılecek gezdirilecek
 gezdı gezdi
 gezdığı gezdiği
@@ -54952,7 +54573,6 @@ gimerniz girmeniz
 gimiştik gitmiştik
 gina gına
 ginde günde
-gine yine
 gineş güneş
 gingseng ginseng
 gingsengli ginsengli
@@ -55014,7 +54634,6 @@ giresn Giresun
 giresunda Giresun'da
 giresunspor Giresun
 girgir gırgır
-giri giriş
 giri gri
 giricek girecek
 giricektik girecektik
@@ -55119,9 +54738,7 @@ girneye Girne'ye
 giröiş girmiş
 girş giriş
 girsati fırsatı
-girşi giriş
 girşi girişi
-girşii giriş
 girşii girişi
 girşimi girişimi
 girşimizde girişimizde
@@ -55223,7 +54840,6 @@ gitöiştim gitmiştim
 gitr git
 gitrim gittim
 gitrtik gittik
-gitt git
 gitt gitti
 gittğim gittiğim
 gittğimde gittiğimde
@@ -56139,7 +55755,6 @@ gıdışten gidişten
 gıdışteydı gidişteydi
 gıdıştı gidişti
 gıdıyo gidiyor
-gıdıyor gidiyor
 gıdıyor git
 gıdıyordu gidiyordu
 gıdıyorduk gidiyorduk
@@ -57053,7 +56668,6 @@ gıtcem gideceğim
 gıtcez gideceğiz
 gıtemeden gitmeden
 gıtgıde gitgide
-gıtı git
 gıtı gitti
 gıtığım gittiğim
 gıtığımde gittiğimde
@@ -57381,7 +56995,6 @@ gıtseymısız gitseymişiz
 gıtseymışız gitseymişiz
 gıtsın gitsin
 gıtsınler gitsinler
-gıtt git
 gıtt gitti
 gıttğım gittiğim
 gıttgımız gittiğimiz
@@ -57793,7 +57406,6 @@ gjyim giyim
 gladyaör gladyatör
 gladyator gladyatör
 ğlak plak
-ğlaka alaka
 ğlaka plaka
 glaksi galaksi
 glam gram
@@ -57835,7 +57447,6 @@ glutenlı glütenli
 glutensız glütensiz
 glütensız glütensiz
 gmözlüğü gözlüğü
-gmre emre
 gmre göre
 gmrüntüsünün görüntüsünün
 gn gün
@@ -57932,7 +57543,6 @@ gogle Google
 göğs göğüs
 gögsu göğsü
 gogsu göğüs
-gögsu göğüs
 gögsümü göğsümü
 gogsunden göğsünden
 göğüa göğüs
@@ -57971,7 +57581,6 @@ gökce gökçe
 gokceada Gökçeada
 gokcebel Gökçebel
 gokcen gökçen
-gökcen gökçen
 gökcenden Gökçen'den
 gokdelen gökdelen
 gokdemır Gökdemir
@@ -57989,7 +57598,6 @@ gökkusağı gökkuşağı
 gökkuşagı gökkuşağı
 goksel göksel
 goksen göksel
-göksu göksü
 goktasi göktaşı
 goktepe Göktepe
 gökteydı gökteydi
@@ -58138,7 +57746,6 @@ gomlej gömlek
 gomlek gömlek
 gomlekler gömlekler
 gomlekleri gömlek
-gömleklerı gömlek
 gömleklerı gömlekleri
 gomleklerımı gömleklerimi
 gömleklerın gömleklerin
@@ -58630,7 +58237,6 @@ gördğm gördüm
 gördğüm gördüğüm
 gordiondaki Gordion'daki
 gördm gördüm
-gordon kordon
 gordu gördü
 gördu gördü
 gördüğm gördüğüm
@@ -58710,7 +58316,6 @@ gördüpüm gördüğüm
 gördüüğüm gördüğüm
 gorduysem gördüysem
 gördüysenız gördüyseniz
-gore göre
 görebilceğim görebileceğim
 gorebildigim görebildiğim
 gorebildik görebildik
@@ -59474,7 +59079,6 @@ gorsem görsem
 gorseniz görseniz
 gorsenız görseniz
 görsenız görseniz
-görsev görsel
 gorsev Görsev
 gorseydı görseydi
 görseydı görseydi
@@ -59494,7 +59098,6 @@ görte göre
 görtemedim göremedim
 görücek görecek
 goruceksiniz göreceksiniz
-görücem gör
 görücem göreceğim
 görücez gör
 görüdğüm gördüğüm
@@ -59508,7 +59111,6 @@ görüğüm gör
 görük gördük
 görülcek gör
 goruldu görüldü
-goruldugu görüldüğü
 goruldugu görüldüğünü
 görüldüğügi görüldüğünü
 görüldüğündei görüldüğünde
@@ -59577,7 +59179,6 @@ görültülü gürültülü
 görülücek görülecek
 görülülerdı görülürlerdi
 gorulup görülüp
-gorulur gör
 gorulur görülür
 görülürlerdı görülürlerdi
 goruluyor görülüyor
@@ -61303,7 +60904,6 @@ gozlukle gözlükle
 gozlukler gözlükler
 gözlukler gözlükler
 gozlukleri gözlük
-gozluklerı gözlük
 gozluklerı gözlükleri
 gözlüklerı gözlükleri
 gözlüklerım gözlüklerim
@@ -61483,7 +61083,6 @@ granıttı granitti
 granpon krampon
 granponlar kramponlar
 granşt granit
-grant Grand
 granu granül
 granüi granül
 granul granül
@@ -61517,7 +61116,6 @@ greyderın greyderin
 greydr greyder
 ğrğn ürün
 grilesmis grileşmiş
-grill gril
 grimiyor girmiyor
 griş giriş
 grişi girişi
@@ -61580,7 +61178,6 @@ grupamadan Groupama'dan
 grupca grupça
 grupda grupta
 gruplardakı gruplardaki
-gruplari grup
 gruplari grupları
 gruplarin grupların
 gruplarina gruplarına
@@ -61650,7 +61247,6 @@ gübtesi gübresi
 gübü günü
 guc güç
 güc güç
-gücel güncel
 gucendıgım gücendiğim
 gücendım gücendim
 gücendırdı gücendirdi
@@ -61773,7 +61369,6 @@ gulcın Gülçin
 gulçın Gülçin
 gülçın Gülçin
 gulcu gülcü
-gülçün Gülçin
 guldal Güldal
 güldenız güldeniz
 gulduk güldük
@@ -61800,7 +61395,6 @@ güleçtı güleçti
 güleçtır güleçtir
 gülee güler
 güleer güler
-gülel güzel
 gülemedım gülemedim
 gülemıyor gülemiyor
 gulen gülen
@@ -61894,7 +61488,6 @@ gulsen Gülşen
 gülşer güler
 gulseren Gülseren
 gulseven Gülseren
-gülseven Gülseren
 gulsha Gülşah
 gülsha Gülşah
 gulsoy Gülsoy
@@ -62008,7 +61601,6 @@ gumusu gümüşü
 gun gün
 gün'ün günün
 gün” günün
-güna gün
 güna güne
 gunah günah
 gunahı günahı
@@ -62018,7 +61610,6 @@ gunahsiz günahsız
 gunahtı günahtı
 günaşlik güneşlik
 gunay Günay
-günay günaydın
 gunaydin günaydın
 günaydin günaydın
 gunaydinlar günaydınlar
@@ -62170,7 +61761,6 @@ gündemımızde gündemimizde
 gündemınıze gündeminize
 gundemlerıne gündemlerine
 gunden günden
-günder günde
 gundes gündeş
 gündeşın Gündeş'in
 gündeydı gündeydi
@@ -62198,7 +61788,6 @@ gunebakan günebakan
 günecl güncel
 günecleme güncelleme
 güned güneş
-günel güncel
 gunel Günel
 günellemeniz güncellemeniz
 günelleyip güncelleyip
@@ -62391,7 +61980,6 @@ güneyın güneyin
 güneyınde güneyinde
 güneylı güneyli
 güneylıyım güneyliyim
-günğ gün
 günğ günü
 güngeri gün
 gungor Güngör
@@ -62509,7 +62097,6 @@ gunumuzu günümüzü
 gunun günün
 günun günün
 ğünün günün
-gununde gün
 gununde gününde
 gunundeki günündeki
 günündekı günündeki
@@ -62685,10 +62272,8 @@ guveclik güveçlik
 güveçmış güveçmiş
 guveik güvenlik
 güvelenmış güvelenmiş
-guveli güveli
 guveli güvenli
 guvelik güvenlik
-güvelı güveli
 güvelı güvenli
 güvelık güvelik
 güvelıydı güveliydi
@@ -63352,7 +62937,6 @@ güzeşdi güzeldi
 güzeül güzel
 güzezldi güzeldi
 güzgün düzgün
-guzide güzide
 guzin Güzin
 güzine düzine
 guzini düzine
@@ -63427,7 +63011,6 @@ haasarsızlığı hasarsızlığı
 haasasiyeti hassasiyeti
 haasrda hasarda
 haat hasat
-haata hasta
 haata hata
 haatasının hastasının
 haatyı hatayı
@@ -63453,7 +63036,6 @@ haberının haberinin
 haberınız haberiniz
 haberlendırırsenız haberlendirirseniz
 haberlerdı haberlerdi
-haberlerı haber
 haberlerı haberleri
 haberlerınden haberlerinden
 haberlerını haberlerini
@@ -63491,7 +63073,6 @@ habıl Habil
 habıp habip
 habörlör hoparlör
 habuz havuz
-habuzu havuz
 habuzu havuzu
 haccer Hacer
 hacemat hacamat
@@ -63524,7 +63105,6 @@ hade halde
 hadika harika
 hadimkoy Hadımköy
 hadit Hadid
-hadiye hediye
 hadiyeli hediyelik
 hadiyelik hediyelik
 hadiyesi hediyesi
@@ -63550,7 +63130,6 @@ hafalı havalı
 hafat hafta
 hafata hafta
 hafatlık haftalık
-hafiz hafız
 hafiza hafıza
 hafizali hafızalı
 hafizamda hafızamda
@@ -63595,7 +63174,6 @@ haftasıymıs haftasıymış
 hafuz havuz
 hafuzlu havuzlu
 hafya hafta
-hagi hangi
 hagisi hangisi
 hagsarsızlık hasarsızlık
 haha daha
@@ -63738,7 +63316,6 @@ hakımler hakimler
 hakımlerdı hakimlerdi
 hakındakı hakındaki
 hakınnda hakkında
-hakk hak
 hakk hakkı
 hakkaten hakikaten
 hakkatten hakikaten
@@ -63818,17 +63395,13 @@ haldık haldik
 halettı halletti
 halettık hallettik
 halettım hallettim
-haley halay
 haleydı haleydi
 hâli hali
-halic haliç
-halid Halit
 halida halıda
 halikarnos Halikarnas
 halikopter helikopter
 halilar halılar
 halilarda halılarda
-halilari halı
 halilari halıları
 halilarin halıların
 haliları halı
@@ -63905,7 +63478,6 @@ halkıdıkı halkı
 halkıne haline
 halklr halklar
 halktakı halktaki
-hallac hallaç
 hallderiz hallederiz
 halledebıldı halledebildi
 halledebıldığım halledebildiğim
@@ -64144,7 +63716,6 @@ halsızleştı halsizleşti
 halsızlık halsizlik
 haltel halter
 halterseti halter
-halu Haluk
 halu havlu
 halular havlular
 halusi Hulusi
@@ -64162,7 +63733,6 @@ hamağo hamağı
 hamah hamak
 hamaı hamağı
 hamakl hamak
-hamaklari hamak
 hamaklari hamakları
 hamakli hamaklı
 hamamaı hamamı
@@ -64183,7 +63753,6 @@ hamamlardakı hamamlardaki
 hamammı hamamı
 hamamnın hamamın
 hamamu hamamı
-haman hamam
 hamann hamam
 hamayli hamaylı
 hambuger hamburger
@@ -64200,7 +63769,6 @@ hamdy Hamdi
 hamefi hanefi
 hamelik hamilelik
 hamen hemen
-hamid Hamit
 hamiile hamile
 hamilr hamile
 hamıde hamide
@@ -64226,7 +63794,6 @@ hamır hamur
 hamıru hamuru
 hamıt Hamit
 hamıyet hamiyet
-hamm ham
 hamm hamam
 hamma hamam
 hammaddesı hammaddesi
@@ -64303,7 +63870,6 @@ hanimefendinin hanımefendinin
 hanimefendiye hanımefendiye
 hanimefendiyi hanımefendiyi
 hanimeli hanımeli
-hanimin Hanım'ın
 hanimin hanımın
 hanimın Hanım'ın
 hanimla Hanım'la
@@ -64533,7 +64099,6 @@ harflei harfleri
 harflerını harflerini
 harflı harfli
 harflu harfli
-hari harf
 hari hariç
 haria harika
 haric hariç
@@ -64711,7 +64276,6 @@ hasarsılıgı hasarsızlığı
 hasarsılığı hasarsızlığı
 hasarsılığın hasarsızlığın
 hasarsılıgını hasarsızlığını
-hasarsılık hasarsızlığı
 hasarsılık hasarsızlık
 hasarsılıkların hasarsızlıkların
 hasarsılk hasarsızlık
@@ -64766,13 +64330,11 @@ hasarszılığa hasarsızlığa
 hasarszılıgı hasarsızlığı
 hasarszılığı hasarsızlığı
 hasarszılığını hasarsızlığını
-hasarszılığının hasarsızlığını
 hasarszılığının hasarsızlığının
 hasarszılık hasarsızlık
 hasarszılıktakı hasarsızlıktaki
 hasarszılk hasarsızlık
 hasarszlığı hasarsızlığı
-hasarszlıgın hasarsızlığın
 hasarszlıgın hasarsızlığını
 hasarszlığını hasarsızlığını
 hasarszlığının hasarsızlığının
@@ -64835,7 +64397,6 @@ haslanmis haşlanmış
 haslanmıs haslanmış
 haslatılmasını haşlatılmasını
 hasnesi haznesi
-hasr hasar
 hasr hasır
 haşr hasır
 hasrada hasarda
@@ -64996,7 +64557,6 @@ hatası’ hatası
 hatasıo hatası
 hataşlı hatalı
 hatasnı hatasını
-hatat Hatay
 hatat hatta
 hatatı hatası
 hatayda Hatay'da
@@ -65007,7 +64567,6 @@ hatayo hatayı
 hatda hatta
 hateket hareket
 hateketli hareketli
-hatem hakem
 hatfa hafta
 hatiç hariç
 hatika harika
@@ -65067,9 +64626,7 @@ hatli hatlı
 hatrina hatırına
 hatrlamıyorum hatırlamıyorum
 hatsaı hatası
-hatsını hatasını
 hatsını hattını
-hatt hat
 hatt hatta
 hattakı hattaki
 hatter halter
@@ -65080,14 +64637,12 @@ hattındakı hattındaki
 hattışa hat
 hattta hatta
 hatvan hayvan
-hatyı hatayı
 hatyı hattı
 hatyır hayır
 hause House
 hauvzu havuzu
 hauz havuz
 hauza havuza
-hauzu havuz
 hauzu havuzu
 havaai Hawaii
 havaalani havaalanı
@@ -65208,8 +64763,6 @@ havayi havayı
 havayollarındakı havayollarındaki
 havazu havuzu
 havele havale
-haven Heaven
-haver haber
 haviz havuz
 havize avize
 havizi avize
@@ -65227,7 +64780,6 @@ havluarı havluları
 havluau havlusu
 havlula havlular
 havlulardakı havlulardaki
-havlulari havlu
 havlulari havluları
 havlularimi havlularımı
 havlularimiz havlularımız
@@ -65249,7 +64801,6 @@ havlusus havlusu
 havluylar havlular
 havşa havsa
 havşalı havsalı
-havu havlu
 havu havuz
 havuc havuç
 havuclu havuçlu
@@ -65275,7 +64826,6 @@ havur havuz
 havus havuz
 havuş havuz
 havusu havuzu
-havuu havuz
 havuu havuzu
 havuuz havuz
 havuuzn havuzun
@@ -65302,7 +64852,6 @@ havuzi havuzu
 havuzı havuzu
 havuzlaeı havuz
 havuzlardakı havuzlardaki
-havuzlari havuz
 havuzlari havuzları
 havuzlarin havuzların
 havuzlarina havuzlarına
@@ -65360,7 +64909,6 @@ havzuun havuzun
 havzuz havuz
 havzuzu havuzu
 hawa Hawaii
-hawai Hawaii
 hawaı Hawaii
 hawaıı Hawaii
 hawawi Hawaii
@@ -65430,10 +64978,8 @@ hayirli hayırlı
 hayit hayır
 hayıor hayır
 haykiris haykırış
-hayl hayal
 hayl hayli
 haylı hayli
-hayr hayır
 hayranlıgı hayranlığı
 hayrer hayret
 hayretlerını hayretlerini
@@ -65815,7 +65361,6 @@ hengamesınden hengamesinden
 hengameydı hengameydi
 henhamgi herhangi
 henım hanım
-henri Henry
 henuz henüz
 heop hep
 heosi hepsi
@@ -65934,10 +65479,8 @@ herr her
 herry Harry
 hers her
 herş her
-hersek herkes
 herskes herkes
 hert her
-hery Harry
 hery her
 hesab hesap
 hesabi hesabı
@@ -66024,7 +65567,6 @@ hiatp hitap
 hibi gibi
 hibir hiçbir
 hic hiç
-hicab hicap
 hiçb hiç
 hiçbi hiçbir
 hicbir hiçbir
@@ -66122,7 +65664,6 @@ himzette hizmette
 himzetten hizmetten
 himzte hizmet
 hinç vinç
-hind hindi
 hinda hindi
 hindibağ hindiba
 hindistana Hindistan'a
@@ -67275,7 +66816,6 @@ hüçresi hücresi
 hücresınden hücresinden
 hucum hücum
 hucüm hücum
-hudaverdi Hüdaverdi
 hügo Hugo
 huhusi hususi
 hükimleri hükümleri
@@ -67297,11 +66837,9 @@ hükümetlerını hükümetlerini
 hulaklık kulaklık
 hüler güler
 hulusı Hulusi
-hulya hülya
 hulyah hülya
 hümanıst hümanist
 humbug Hamburg
-humeyra Hümeyra
 humuk humus
 hundaii Hyundai
 hundaiy Hyundai
@@ -67340,7 +66878,6 @@ hürmetlılerde hürmetlilerde
 hürmetlıydı hürmetliydi
 hürmüs Hürmüz
 hurmuz Hürmüz
-hurrem Hürrem
 hurriyet hürriyet
 hurrıyet hürriyet
 hürrıyet hürriyet
@@ -67350,7 +66887,6 @@ hürrıyetını hürriyetini
 hürrıyetlerı hürriyetleri
 hurrıyette hürriyette
 hürrıyette hürriyette
-hurşid Hurşit
 hursit Hurşit
 hurtumu hortumu
 hurumunda durumunda
@@ -67370,7 +66906,6 @@ hüsnıye Hüsniye
 husnu hüsnü
 husran hüsran
 husrana hüsrana
-husrev Hüsrev
 hussıye hususiye
 hussui hususi
 hussunda hususunda
@@ -67489,7 +67024,6 @@ iaşağıda aşağıda
 iastikli lastikli
 iatediğimiz istediğimiz
 iatedik istedik
-ibar ibare
 ibaralerde ibarelerde
 ibarayi ibareyi
 ibarei ibareyi
@@ -67502,7 +67036,6 @@ ibir bir
 ibiyaya Ibiza'ya
 ibize Ibiza
 ibli iblis
-ibn ibne
 ibod ipod
 ibr bir
 ic iç
@@ -67645,10 +67178,8 @@ icemezsiniz içemezsiniz
 icemiyorsunuz içemiyorsunuz
 içemiyosunuz içemiyorsunuz
 icen içen
-icer içer
 icer içeri
 içercek içecek
-içerde içeri
 icerde içeride
 içerde içeride
 içerdede içeride
@@ -67672,7 +67203,6 @@ icerikli içerikli
 icerim içerim
 içeris içerisi
 icerisi içerisi
-içeriside içerisi
 içeriside içerisinde
 içerisidne içerisinde
 içerisiinde içerisinde
@@ -67698,8 +67228,6 @@ iceyim içeyim
 içğin için
 içğn için
 ichael Michael
-ici iç
-ici içi
 icib için
 içib için
 içibn için
@@ -67788,7 +67316,6 @@ icinize içinize
 içinm için
 icinmis içinmiş
 içinn için
-içins için
 içins içinse
 icinse içinse
 icip içip
@@ -67844,10 +67371,8 @@ icmeyi içmeyi
 içmme içme
 içmne içme
 içn için
-içnde içinde
 içnde içindedir
 içndeydi içindeydi
-içni için
 içni içini
 içnide içinde
 içnideki içindeki
@@ -67914,7 +67439,6 @@ ieşlmi iletişim
 ietiniz iletiniz
 ietişim iletişim
 ieuropa Europe
-ifakat fakat
 ifis afiş
 ifon iphone
 ifone iphone
@@ -68006,7 +67530,6 @@ ihtiyaclarımı ihtiyaçlarımı
 ihtiyaclarımız ihtiyaçlarımız
 ihtiyaclarımızı ihtiyaçlarımızı
 ihtiyacnız ihtiyacınız
-ihtiyadi ihtiyari
 ihtiyadi ihtiyati
 ihtiycınız ihtiyacınız
 ihtyaç ihtiyaç
@@ -68036,7 +67559,6 @@ iindirim indirim
 iipgone iphone
 iiphone iphone
 iiptal iptal
-iiptalini iptal
 iiptalini iptalini
 iisikli ışıklı
 iişleme işleme
@@ -68092,7 +67614,6 @@ iknat ikna
 iknci ikinci
 iknik piknik
 ikra ikram
-ikrami ikramı
 ikramlari ikramları
 ikramlarin ikramların
 ikramlik ikramlık
@@ -68106,7 +67627,6 @@ ilabesi ilavesi
 ilac ilaç
 ilaç'a ilaca
 ilaçalama ilaçlama
-ilaci ilaç
 ilaçi ilaç
 ilaci ilacı
 ilacla ilaçla
@@ -68131,12 +67651,10 @@ ilçlama ilaçlama
 ileç ile
 ilede ileride
 ileitlmesi iletilmesi
-ilelenilebilir ilerlenilebilir
 ilelenilebilir yinelenebilir
 ilem ile
 ilemleri işlemleri
 iler ileri
-ilerde ileride
 ilerdeki ilerideki
 ilerie ileri
 ilerieyemiyorum ilerleyemiyorum
@@ -68208,17 +67726,14 @@ ilgeliniyor ilgileniyor
 ilgeniyor ilgileniyor
 ilği ilgi
 ilgiendi ilgilendi
-ilgii ilgi
 ilgii ilgili
 ilgiil ilgili
 ilgiili ilgili
 ilgiisi ilgisi
 ilgiiydi ilgiliydi
-ilgiki ilgi
 ilgiki ilgili
 ilgiklendi ilgilendi
 ilgikli ilgili
-ilgil ilgilen
 ilgil ilgili
 ilgilelerdi ilgililerdi
 ilgilenceğini ilgileneceğini
@@ -68323,7 +67838,6 @@ ilglendi ilgilendi
 ilglendiler ilgilendiler
 ilglenmedi ilgilenmedi
 ilglenmediler ilgilenmediler
-ilgli ilgi
 ilgli ilgili
 ilgliendi ilgilendi
 ilglii ilgili
@@ -68337,12 +67851,10 @@ ilgliydi ilgiliydi
 ilgnize ilginize
 ilgsiz ilgisiz
 ilgsizdi ilgisizdi
-ilgün Nilgün
 ilhahan ilhan
 ilhi ilgi
 ilica ılıca
 ilie ile
-ilig ilgi
 iligi ilgi
 iligilendi ilgilendi
 iligili ilgili
@@ -68526,7 +68038,6 @@ indigimizde indiğimizde
 indiirim indirim
 indiirimi indirimi
 indiirm indirim
-indiirmi indirim
 indiirmi indirimi
 indiirmin indirimin
 indiirmini indirimini
@@ -68573,7 +68084,6 @@ indrim indirim
 indrime indirime
 indrimi indirimi
 indrimin indirimin
-indrimini indirimin
 indrimini indirimini
 indriminin indiriminin
 indrimli indirimli
@@ -68608,7 +68118,6 @@ inidirimini indirimini
 inidiriminin indiriminin
 inidirimli indirimli
 inidirm indirim
-inidirmi indirim
 inidirmi indirimi
 inidrim indirimi
 inidrimini indirimini
@@ -68715,7 +68224,6 @@ ipaf ipad
 ipaky ipad
 ipal iptal
 ipalini iptalini
-ipar ipad
 ipat ipad
 ipatal iptal
 ipatali iptalini
@@ -68729,7 +68237,6 @@ ipci ipçi
 iped ipad
 ipega ipek
 ipej ipek
-ipekce ipekçe
 ipekce ipekçi
 ipekci ipekçi
 ipgone iphone
@@ -68759,7 +68266,6 @@ ipihone iphone
 ipjome iphone
 ipjone iphone
 ipkone iphone
-ipl ip
 ipl iptal
 ipligi iplik
 ipliot iplik
@@ -68863,7 +68369,6 @@ irtibara irtibata
 irtibta irtibat
 irtiorum istiyorum
 irünleri ürünleri
-isa işe
 isaat saat
 işadesi iadesi
 işallah inşallah
@@ -68873,7 +68378,6 @@ isanlar insanlar
 isare işaret
 isaret işaret
 isaretci işaretçi
-isareti işaret
 isareti işareti
 isaretle işaretle
 isaretleme işaretleme
@@ -68985,10 +68489,8 @@ isir ısır
 isiran ısıran
 isirgan ısırgan
 isirma ısırma
-isis ısısı
 isism isim
 isistemin sistemin
-isit işit
 isit ısıt
 isitanden istinaden
 isitci ısıtıcı
@@ -69058,7 +68560,6 @@ işklemin işlemin
 isklesi iskelesi
 iskli ışıklı
 iskontasın iskontosunu
-isla ısla
 islak ıslak
 islakti ıslaktı
 islamci islamcı
@@ -69096,7 +68597,6 @@ işlemizini işleminizi
 işlemı işlemi
 işlemın işlemin
 işlemktedir işlemektedir
-işlemldir işlemdir
 işlemldir işlemidir
 işlemleinde işlemlerinde
 işlemlemlerde işlemlerde
@@ -69177,7 +68677,6 @@ isnsan insan
 isos isot
 ispanak ıspanak
 ispanzolet ispanyolet
-isparta Isparta
 ispatula spatula
 ispiral spiral
 ispirya ispirto
@@ -69226,7 +68725,6 @@ istedgimde istediğimde
 istedğimde istediğimde
 istedğimi istediğimi
 istedğimiz istediğimiz
-istedğimizde istediğimizde
 istedğimizde isteğimizde
 istedğimizi istediğimizi
 istedğiniz istediğiniz
@@ -69320,10 +68818,8 @@ isteidk istedik
 isteidm istedim
 isteiği isteği
 isteiğim istediğim
-isteiğimde istediğimde
 isteiğimde isteğimde
 isteiğimiz isteğimiz
-isteiğimizde istediğimizde
 isteiğimizde isteğimizde
 isteiğimizdede isteğimizde
 isteiğimizi istediğimizi
@@ -69675,7 +69171,6 @@ iyyiydi iyiydi
 iza izah
 izahati izahatı
 izalasyon izolasyon
-izalasyonu izolasyon
 izalasyonu izolasyonu
 izalazyonu izolasyon
 izalosyon izolasyon
@@ -69733,7 +69228,6 @@ izun uzun
 ı-phone iphone
 ıade iade
 ıadeal ideal
-ıadede iade
 ıadede iadede
 ıadededen iadeden
 ıadeden iadeden
@@ -70216,7 +69710,6 @@ izun uzun
 ıçerısındeymış içerisindeymiş
 ıçerısındeyse içerisindeyse
 ıçerısındeysenız içerisindeyseniz
-ıcerısıne içerisine
 ıcerısıne içerişine
 ıçerısıne içerisine
 ıçerısıneydı içerisineydi
@@ -71062,7 +70555,6 @@ izun uzun
 ıddıası iddiası
 ıddıasından iddiasından
 ıdea idea
-ıdeal ideal
 ıdealdı ideal
 ıdealdır ideal
 ıdealı ideali
@@ -71410,7 +70902,6 @@ izun uzun
 ıkbalde ikbal
 ıkbale ikbal
 ıkbalı ikbal
-ıkea Ikea
 ıkebana ikebana
 ıken iken
 ıki iki
@@ -71627,7 +71118,6 @@ izun uzun
 ılac ilaç
 ılaç ilaç
 ılaca ilaca
-ılacı ilaç
 ılacı ilacı
 ılacım ilacım
 ılacımı ilacımı
@@ -71777,7 +71267,6 @@ izun uzun
 ılahi ilahi
 ılahı ilahı
 ılak ıslak
-ılamı ilamı
 ılamı ilanı
 ılamıda ilanında
 ılamında ilanında
@@ -72341,7 +71830,6 @@ izun uzun
 ılginize ilginize
 ılgisinden ilgisinden
 ılgisiz ilgisiz
-ılgı ilgi
 ılgıde ilgide
 ılgıden ilgiden
 ılgıdenız ilgi
@@ -73174,7 +72662,6 @@ izun uzun
 ıllerdeydık illerdeydik
 ıllere illere
 ıllerımızden illerimizden
-ılluminating Illuminating
 ıllüzyonıst illüzyonist
 ılme ilme
 ılmı ilmi
@@ -73627,7 +73114,6 @@ izun uzun
 ınatlaşma inatlaşma
 ınatlaşmadım inatlaşmadım
 ınatlaştı inatlaştı
-ınc inç
 ınce ince
 ıncecık incecik
 ıncecıktı incecikti
@@ -73967,7 +73453,6 @@ izun uzun
 ındırımımı indirimimi
 ındırımımız indirimimiz
 ındırımımle indirimimle
-ındırımın indirimin
 ındırımın indirimini
 ındırımınde indiriminde
 ındırımınden indiriminden
@@ -74063,7 +73548,6 @@ izun uzun
 ındırmemeye indirmemeye
 ındırmemışler indirmemişler
 ındırmemışlerdı indirmemişlerdi
-ındırmemız indirmemiz
 ındırmemız indirmeniz
 ındırmemıze indirmemize
 ındırmenız indirmeniz
@@ -74661,7 +74145,6 @@ izun uzun
 ınsıyatıfıne inisiyatifine
 ınsıyatıfını inisiyatifini
 ınsıyatıflerı inisiyatifleri
-ınstagram instagram
 ınsulin insülin
 ınsulın insülin
 ınsülın insülin
@@ -74670,12 +74153,10 @@ izun uzun
 ınsülınlerı insülinleri
 ınsülınlerımız insülinlerimiz
 ıntegra integral
-ıntel Intel
 ıntel® Intel
 ıntenet internet
 ıntenette internette
 ınteraktıf interaktif
-ınternational International
 ınternatıonal International
 ınterner internet
 ınternetde internette
@@ -74749,13 +74230,11 @@ izun uzun
 ıoluşturduğumuzda oluşturduğumuzda
 ıonun onun
 ıotel otel
-ıowa Iowa
 ıp ip
 ıpad ipad
 ıpadde Ipad'de
 ıpal iptal
 ıpat ipad
-ıpe ipad
 ıpe ipe
 ıped ipad
 ıpehon iphone
@@ -74831,7 +74310,6 @@ izun uzun
 ıptalı iptali
 ıptalıı iptali
 ıptalım iptalim
-ıptalımı iptalimi
 ıptalımı iptalini
 ıptalımın iptalimin
 ıptalımız iptalimiz
@@ -74898,8 +74376,6 @@ izun uzun
 ırılı irili
 ırılış diriliş
 ırın irin
-ırıs giriş
-ırıs iris
 ırıydı iriydi
 ırkcılık ırkçılık
 ırma ırmak
@@ -74940,10 +74416,8 @@ izun uzun
 ırtıbattaydım irtibattaydım
 ırtıbattayım irtibattayım
 ırtıbattayız irtibattayız
-ıs is
 ıs iş
 ış iş
-ısabel Isabel
 ısabet isabet
 ısabetlı isabetli
 ısabettı isabetti
@@ -74953,7 +74427,6 @@ izun uzun
 ısaret işaret
 ışaret işaret
 ışarete işarete
-ısaretı işaret
 ısaretı işareti
 ışaretı işareti
 ışaretım işaretim
@@ -75167,11 +74640,9 @@ izun uzun
 ısıfıcı ısıtıcı
 ışığ ışık
 ısıga ışığa
-ısıgı ışığı
 ısığı ışığı
 ışıgı ışığı
-ısıgı ışık
-ışıgı ışık
+ısıgı ışığı
 ısıgımız ışığımız
 ısıgında ışığında
 ışığu ışık
@@ -75207,7 +74678,6 @@ izun uzun
 ışılandırma ışıklandırma
 ısıler işçiler
 ışılık işçilik
-ışım işim
 ısımak ısıtmak
 ısımce işimce
 ısımde isimde
@@ -75323,7 +74793,6 @@ izun uzun
 ısıtp ısıtıp
 ısıttıler işittiler
 ısıtyor istiyor
-ısıtyorum istiyorum
 ısıtyorum ısıtıyorum
 ışıydı işiydi
 ışıyı ısıyı
@@ -76146,7 +75615,6 @@ izun uzun
 ıstedğımız istediğimiz
 ıstedgımızde istediğimizde
 ıstediğim istediğim
-ıstediğimde istediğimde
 ıstediğimde istediğinde
 ıstedigimiz istediğimiz
 ıstedigimizde istediğimizde
@@ -76595,7 +76063,6 @@ izun uzun
 ısten işten
 ışten işten
 ıstendiği istendiği
-ıstendı istendi
 ıstendı iştendi
 ıstendığı istendiği
 ıstendığımde istendiğimde
@@ -76644,7 +76111,6 @@ izun uzun
 ıstenılenlerız istenilenleriz
 ıstenılınce istenilince
 ıstenılırse istenilirse
-ıstenılıyor isteniliyor
 ıstenılıyor isteniyor
 ıstenılıyordu isteniliyordu
 ıstenılıyormuş isteniliyormuş
@@ -77070,7 +76536,6 @@ izun uzun
 ıtıbar itibar
 ıtıbara itibara
 ıtıbaren itibaren
-ıtıbarı itibari
 ıtıbarı itibarı
 ıtıbarım itibarim
 ıtıbarımız itibarımız
@@ -77084,7 +76549,6 @@ izun uzun
 ıtıbarıye itibariyle
 ıtıbarıyel itibarıyla
 ıtıbarıyla itibarıyla
-ıtıbarıyle itibariyle
 ıtıbarıyle itibarıyla
 ıtıbarıylede itibarıyla
 ıtıbarıyledır itibariyledir
@@ -77928,7 +77392,6 @@ jartyer jartiyer
 jaryiyerli jartiyerli
 jarz şarj
 jarzi şarj
-jarzı şarj
 jarzı şarjı
 jarzli şarjlı
 jarzlı şarjlı
@@ -77940,7 +77403,6 @@ jasnağı kasnak
 jassmin Jasmine
 jastin Justin
 javıer Javier
-jaxon Jackson
 jeanne Jean
 jeans Jean
 jekson Jackson
@@ -78020,7 +77482,6 @@ jetın jetin
 jetlerı jetleri
 jetlerın jetlerin
 jetmış jetmiş
-jett jet
 jettaşı Jetta'sı
 jettekı jetteki
 jettı jetti
@@ -78073,7 +77534,6 @@ jlet jilet
 joasmine Jasmine
 jock Jack
 joei Joe
-johannes Johanna
 johansen Johanna
 johhny Johnny
 johnsn Johnson
@@ -78113,8 +77573,6 @@ jordın Jordan
 jorg Jorge
 jorga Jorge
 joşe Jose
-josef Joseph
-josefin Joseph
 josephin Josephine
 josept Joseph
 jovan Jovani
@@ -78142,10 +77600,8 @@ junuor Junior
 junyor Junior
 junyour Junior
 junyur Junior
-jüpiter Jupiter
 justiice Justice
 justın Justin
-justus Justice
 juventute Juventus
 juzdan cüzdan
 jwmaster Master
@@ -78168,7 +77624,6 @@ kaaradeniz Karadeniz
 kaaraoke Karaoke
 kaargo kargo
 kaarti kartı
-kaat kat
 kaave kahve
 kaayk kayak
 kaaynak kaynak
@@ -78334,7 +77789,6 @@ kabosu kablo
 kabosuz kablosuz
 kabu kabuk
 kabugj kabuk
-kabugu kabuğu
 kabugu kabuk
 kabugunu kabuğunu
 kabuklari kabukları
@@ -78407,7 +77861,6 @@ kacirmayin kaçırmayın
 kacirsaniz kaçırsanız
 kacis kaçış
 kaciyor kaçıyor
-kacı kaç
 kacı kaçı
 kaçıcağımızı kaçacağımızı
 kaçıcak kaçacak
@@ -78539,7 +77992,6 @@ kadat kadar
 kadayif kadayıf
 kadayifi kadayıf
 kaddar kadar
-kade kademe
 kadehı kadehi
 kadehın kadehin
 kadehınde kadehinde
@@ -78565,7 +78017,6 @@ kademesındekı kademesindeki
 kademesındekıler kademesindekiler
 kademesınden kademesinden
 kademesıne kademesine
-kademesını kademesini
 kademesını kademesinin
 kademesının kademesinin
 kademeydı kademeydi
@@ -78576,7 +78027,6 @@ kademının kademenin
 kademsini kademesini
 kademsinin kademesinin
 kademyee kademeye
-kaden kader
 kadercı kaderci
 kaderdı kaderdi
 kaderı kaderi
@@ -78604,10 +78054,8 @@ kadikoy Kadıköy
 kadiköy Kadıköy
 kadin kadın
 kadina kadına
-kadinca kadın
 kadinca kadınca
 kadini kadın
-kadinin kadın
 kadinin kadının
 kadinla kadınla
 kadinlar kadınlar
@@ -78657,7 +78105,6 @@ kadmesinin kademesinin
 kadnağı kaynak
 kadnak kaynak
 kadr kadar
-kadra kadar
 kadra kadro
 kadranli kadranlı
 kadrı kadri
@@ -78684,7 +78131,6 @@ kafamızdakı kafamızdaki
 kafaniz kafanız
 kafaniza kafanıza
 kafanizi kafanızı
-kafar kadar
 kafasi kafası
 kafasina kafasına
 kafasinda kafasında
@@ -78706,7 +78152,6 @@ kafelerın kafelerin
 kafelerını kafelerini
 kafeleştırılmış kafeleştirilmiş
 kafenın kafenin
-kafesı kafes
 kafesı kafesi
 kafesınde kafesinde
 kafesındekı kafesindeki
@@ -78748,7 +78193,6 @@ kafvsei kahvesi
 kafws kafes
 kagadı kağıt
 kağaği kağıt
-kağağı kağıt
 kağağı kapağı
 kağaı kapağı
 kağalı kapalı
@@ -78777,7 +78221,6 @@ kagıda kağıda
 kâğıdi kağıdı
 kagıdi kağıt
 kağıdi kağıt
-kagıdı kağıdı
 kagıdı kağıt
 kağıdıa kağıda
 kagıdımda kağıdımda
@@ -79071,7 +78514,6 @@ kakmali kakmalı
 kako kasko
 kakoa kakao
 kakoları kaskoları
-kakosu kasko
 kakosu kaskosu
 kaks kasko
 kakso kasko
@@ -79397,7 +78839,6 @@ kaldıkca kaldıkça
 kaldıkm kaldım
 kaldıks kaldık
 kaldıl kaldık
-kaldıma kaldım
 kaldıma kaldırma
 kaldımç kaldım
 kaldımız kaldığımız
@@ -79412,7 +78853,6 @@ kaldırabıleceğını kaldırabileceğini
 kaldırabılecek kaldırabilecek
 kaldırabılen kaldırabilen
 kaldırabılenlerın kaldırabilenlerin
-kaldırabılır kaldırabilir
 kaldırabılır kaldırılabilir
 kaldırabılırdı kaldırabilirdi
 kaldırabılırler kaldırabilirler
@@ -79465,7 +78905,6 @@ kalem? kalem
 kalem'' kalem
 kalemç kalem
 kalemdeydı kalemdeydi
-kalemı kalem
 kalemı kalemi
 kalemım kalemim
 kalemımı kalemimi
@@ -79571,7 +79010,6 @@ kaliteis kalitesi
 kaliteisi kalitesi
 kaliteki kaliteli
 kalitekli kaliteli
-kalitel kalite
 kalitel kaliteli
 kalitelesi kalitesi
 kalitelidyi kaliteliydi
@@ -79648,7 +79086,6 @@ kaliyoruz kalıyoruz
 kaliyosun kalıyorsun
 kaliyosunuz kalıyorsunuz
 kaliytesi kalitesi
-kalı kal
 kalı kalıp
 kalıb kalıp
 kalıbre kalibre
@@ -80185,7 +79622,6 @@ kaltiesizdi kalitesizdi
 kaltisi kalitesi
 kaltite kalite
 kaltitesi kalitesi
-kaltı altı
 kaltı kalktı
 kaltıe kalite
 kaltıelı kaliteli
@@ -80232,7 +79668,6 @@ kambu kambur
 kamburkuk kamburluk
 kamci kamçı
 kamcili kamçılı
-kame kamera
 kamea kamera
 kamear kamera
 kamedem kademem
@@ -80372,10 +79807,7 @@ kanad kanada
 kanadi kanada
 kanadia kanada
 kanadini kanadını
-kanak kanal
-kanaklı kapaklı
 kanaklı kaynaklı
-kanali kanal
 kanali kanalı
 kanalizyon kanalizasyon
 kanalındakı kanalındaki
@@ -80413,7 +79845,6 @@ kanaviceli kanaviçeli
 kanavıce kanaviçe
 kanavoz kavanoz
 kanavozu kavanoz
-kanber kamber
 kanbur kambur
 kancaaı kancası
 kancaev kanca
@@ -80453,7 +79884,6 @@ kandırılmıs kandırılmış
 kandırmıs kandırmış
 kandren kangren
 kanduru kanguru
-kane kene
 kanel kanal
 kaneoe kanepe
 kanepedekı kanepedeki
@@ -80576,7 +80006,6 @@ kapabılıyorlar kapabiliyorlar
 kapabılıyorsunuz kapabiliyorsunuz
 kapabılmek kapabilmek
 kapabılmenız kapabilmeniz
-kapadokya Kapadokya'ya
 kapadokyada Kapadokya'da
 kapadokyadakı Kapadokya'daki
 kapadokyadan Kapadokya'dan
@@ -80588,7 +80017,6 @@ kapağ kapak
 kapagi kapak
 kapaği kapak
 kapagina kapağına
-kapagı kapağı
 kapagı kapak
 kapagımın kapağımın
 kapağındakı kapağındaki
@@ -80846,7 +80274,6 @@ kapiyorlar kapıyorlar
 kapıa kapı
 kapıalr kapılar
 kapıdakı kapıdaki
-kapıdı kapıda
 kapıdı kapısı
 kapıı kapı
 kapılabılır kapılabilir
@@ -81154,7 +80581,6 @@ karattma karartma
 karava karavan
 karavani karavan
 karavanli karavanlı
-karay kara
 karayemis karayemiş
 karayıpler karayipler
 karayollari karayolları
@@ -81172,7 +80598,6 @@ karbonhıdrata karbonhidrata
 karbonhıdratlı karbonhidratlı
 karbosan karabasan
 karbratörler karbüratörler
-karbur karbür
 karbur karbüratör
 karburator karbüratör
 karburatör karbüratör
@@ -81437,7 +80862,6 @@ karızmayı karizmayı
 karko kargo
 karlastirma karlaştırma
 karli karlı
-karlie karlı
 karligi karlık
 karlik karlık
 karlistirma karlaştırma
@@ -81883,7 +81307,6 @@ karşılıcak karşılayacak
 karşılığ karşılığı
 karsılıgı karşılığı
 karsılığı karşılığı
-karşılıgı karşılığı
 karşılıgı karşılık
 karşılığıda karşılığında
 karsılıgımı karşılığımı
@@ -81987,7 +81410,6 @@ karşlayan karşılayan
 karşlığı karşılığı
 karşlığından karşılığından
 karşlığını karşılığını
-karson garson
 karsonlar garsonlar
 karsonların garsonların
 karstakı Kars'taki
@@ -82008,9 +81430,7 @@ karte Kartepe
 kartepede Kartepe'de
 kartepeye Kartepe'ye
 kartepeyi Kartepe'yi
-karter kartel
 karteri kartel
-karti kart
 karti kartı
 kartimdan kartımdan
 kartin kartın
@@ -82097,7 +81517,6 @@ kasadakı kasadaki
 kasagi kaşağı
 kasaiarı kasaları
 kasaı kasa
-kasal kasa
 kasalardakı kasalardaki
 kasalari kasaları
 kasalarin kasaların
@@ -82170,7 +81589,6 @@ kaşiğını kaşığını
 kaşiğının kaşığının
 kaşiğınız kaşığınız
 kaşiğıyla kaşığıyla
-kasik kasık
 kasik kaşık
 kaşik kaşık
 kasikla kaşıkla
@@ -82207,8 +81625,6 @@ kasiyivi kaşıyıcı
 kasiyixi kaşıyıcı
 kasıgı kaşığı
 kaşıgı kaşığı
-kasıgı kaşık
-kaşıgı kaşık
 kasıgımı kaşığımı
 kasıgının kaşığının
 kasıgınızın kaşığınızın
@@ -82266,7 +81682,6 @@ kasksunu kaskosunu
 kasku kasko
 kaskyoya kaskoya
 kasl kas
-kasli kaslı
 kasli kaşlı
 kaslik kaşlık
 kaşlıp kaşlık
@@ -82406,7 +81821,6 @@ katetmıyorsunuz katetmiyorsunuz
 katettı katetti
 katettık katettik
 katettım katettim
-katib katip
 katilamadik katılamadık
 katilastirma katılaştırma
 katilesi kalitesi
@@ -82481,7 +81895,6 @@ katıldıgımızda katıldığımızda
 katıldıgımızdakı katıldığımızdaki
 katıldıgınızda katıldığınızda
 katıle katile
-katılı katili
 katılı katıl
 katılıcak katılacak
 katılıcam katılacağım
@@ -82541,7 +81954,6 @@ katlanablir katlanabilir
 katlanamayabılır katlanamayabilir
 katlanbilir katlanabilir
 katlandik katlandık
-katlanilabilir katlanabilir
 katlanilabilir katlanılabilir
 katlanip katlanıp
 katlanir katlanır
@@ -82655,7 +82067,6 @@ kavcuk kauçuk
 kavçuk kauçuk
 kavcuklu kauçuklu
 kave kahve
-kavesi kahve
 kavesi kahvesi
 kavgalari kavgaları
 kavgalarim kavgalarım
@@ -82666,7 +82077,6 @@ kavhaltı kahvaltı
 kavhaltısı kahvaltısı
 kavhe kahve
 kaviski kavisli
-kaviy kavis
 kavizli kavisli
 kavlatı kahvaltı
 kavlatılik kahvaltılık
@@ -82877,7 +82287,6 @@ kaybettırmesı kaybettirmesi
 kaybettırmış kaybettirmiş
 kaybettırmıyor kaybettirmiyor
 kaybettıyse kaybettiyse
-kaybi kaybı
 kaybi kayıp
 kaybina kaybına
 kaybolabılecek kaybolabilecek
@@ -82900,7 +82309,6 @@ kaybolmustu kaybolmuştu
 kaybolmustur kaybolmuştur
 kaybu kaybı
 kaybuı kaybı
-kayd kaydı
 kayd kayıt
 kayde kayda
 kaydedebıldığım kaydedebildiğim
@@ -83007,7 +82415,6 @@ kaydırabılırlerdı kaydırabilirlerdi
 kaydırabılırsek kaydırabilirsek
 kaydırabılmelıyız kaydırabilmeliyiz
 kaydıraga kaydırağa
-kaydıragı kaydırağı
 kaydıragı kaydırak
 kaydıragın kaydırağın
 kaydıragına kaydırağına
@@ -83059,7 +82466,6 @@ kayinbirader kayınbirader
 kayip kayıp
 kayis kayış
 kayiş kayış
-kayisi kayış
 kayisi kayısı
 kayisili kayısılı
 kayisli kayışlı
@@ -83119,7 +82525,6 @@ kayıot kayıt
 kayırıyordudular kayırıyorlardı
 kayıs kayış
 kayıșlı kayışlı
-kayıta kayda
 kayıta kayıt
 kayıtı kayıt
 kayıtl kayıt
@@ -83134,7 +82539,6 @@ kaykayci kaykaycı
 kaykayi kaykay
 kaykayli kaykaylı
 kaykusuz Kaygusuz
-kayla katla
 kaylab katla
 kayle kale
 kaymadıgımız kaymadığımız
@@ -83148,7 +82552,6 @@ kaymıs kaymış
 kaymıstım kaymıştım
 kayn kayın
 kaynagi kaynak
-kaynagı kaynağı
 kaynagı kaynak
 kaynagımız kaynağımız
 kaynagını kaynağını
@@ -83288,7 +82691,6 @@ kazima kazıma
 kazimlik kazımlık
 kazin kazın
 kaziyici kazıyıcı
-kazıgı kazığı
 kazıgı kazık
 kazıklamıslar kazıklamışlar
 kazıklandıgımızı kazıklandığımızı
@@ -83312,7 +82714,6 @@ kea Ikea
 keainlikle kesinlikle
 keanrında kenarında
 kebab kebap
-kebabi kebabı
 kebabi kebap
 kebabıstana Kebabistan'a
 kebabıstanda Kebabistan'da
@@ -83457,7 +82858,6 @@ kelepce kelepçe
 kelepceli kelepçeli
 kelepcesi kelepçesi
 kelepçesı kelepçesi
-keles keleş
 kelesı keleşi
 kelif telif
 kelima klima
@@ -83512,7 +82912,6 @@ kemel kemal
 kemer- kemer
 kemera kemer
 kemerdekı Kemer'deki
-kemerı kemer
 kemerı kemeri
 kemerın Kemer'in
 kemerlerı kemerleri
@@ -83550,10 +82949,8 @@ kemla kemal
 kemoterapı kemoterapi
 kemr kemir
 kemukli kemikli
-ken iken
 kenal Kenan
 kenardakı kenardaki
-kenari kenar
 kenari kenarı
 kenarina kenarına
 kenarinda kenarında
@@ -83648,7 +83045,6 @@ kendımızınkını kendimizinkini
 kendımızle kendimizle
 kendımle kendimle
 kendımzı kendimizi
-kendın kendi
 kendın kendin
 kendınce kendince
 kendınde kendinde
@@ -84150,7 +83546,6 @@ kesımlerı kesimleri
 kesımlerınde kesimlerinde
 kesımlı kesimli
 kesımlıydı kesimliydi
-kesın kesin
 kesın kesinti
 kesınce kesince
 kesındı kesindi
@@ -84461,7 +83856,6 @@ keyıfsızlık keyifsizlik
 keyıfte keyifte
 keyıften keyiften
 keyıftı keyifti
-keys Key
 kezdı kezdi
 kezdır kezdir
 kezinlikle kesinlikle
@@ -84588,7 +83982,6 @@ kilinır kılınır
 kilipsi klipsi
 kilir kilim
 kilişik kişilik
-kiliti kilidi
 kiliti kilit
 kilitini kilidini
 kilitlenmiyodu kilitlenmiyordu
@@ -84786,8 +84179,6 @@ kirtasiye kırtasiye
 kirtlama kırtlama
 kirumsal kurumsal
 kirutmalık kurutmalık
-kiş kişi
-kis kıs
 kis kış
 kiş kış
 kisa kısa
@@ -84806,14 +84197,12 @@ kisasi kısası
 kisayol kısayol
 kise kimse
 kisesel kişisel
-kisi ikisi
 kisi kişi
 kisici kısıcı
 kiside kişide
 kisiden kişiden
 kisiik kişilik
 kişiik kişilik
-kişik kişi
 kisik kısık
 kişik kısık
 kisiki kısık
@@ -84821,7 +84210,6 @@ kisikik kişilik
 kişikik kişilik
 kişiklik kişilik
 kişikti kişilikti
-kişil kişi
 kişil kişilik
 kişilede kişilerde
 kisiler kişiler
@@ -84903,7 +84291,6 @@ kişler kişiler
 kişlerden kişilerden
 kişlerdi kişilerdi
 kişlere kişilere
-kişlik kişilik
 kislik kışlık
 kişlik kışlık
 kişlilik kişilik
@@ -84914,7 +84301,6 @@ kisme kimse
 kismen kısmen
 kismet kısmet
 kismetse kısmetse
-kismi kısmi
 kismi kısmı
 kismina kısmına
 kisminda kısmında
@@ -84930,10 +84316,8 @@ kistirma kıstırma
 kistirmali kıstırmalı
 kistum kostüm
 kistumu kostüm
-kişye kişi
 kişye kişiye
 kişyi kişiyi
-kita kitap
 kita kıta
 kitab kitap
 kitabcığı kitapçık
@@ -84980,7 +84364,6 @@ kitpçıgı kitapçık
 kitpları kitapları
 kitqp kitap
 kits kit
-kitt kit
 kittens kitten
 kitwp kitap
 kivam kıvam
@@ -85006,7 +84389,6 @@ kiyaf kıyafet
 kiyafefetleri kıyafetleri
 kiyafefi kıyafet
 kiyafet kıyafet
-kiyafeti kıyafet
 kiyafeti kıyafeti
 kiyafetle kıyafetle
 kiyafetler kıyafetler
@@ -85064,7 +84446,6 @@ kizaryma kızartma
 kizatma kızartma
 kizdirma kızdırma
 kizgin kızgın
-kizi kız
 kizi kızı
 kizikli kızıklı
 kizil kızıl
@@ -85146,8 +84527,6 @@ kıbleyı kıbleyi
 kıbrasa Kıbrıs
 kıbrit kibrit
 kıbrı kibrit
-kıbrıs Kıbrıs'a
-kıbrısa Kıbrıs
 kıbrısa Kıbrıs'a
 kıbrısı Kıbrıs'ı
 kıbrısın Kıbrıs'ın
@@ -85226,7 +84605,6 @@ kılişe klişe
 kılıc kılıç
 kılıclı kılıçlı
 kılıd kilit
-kılıdı kilidi
 kılıdı kilit
 kılıdım kilidim
 kılıdımız kilidimiz
@@ -85556,7 +84934,6 @@ kırabılırsınız kırabilirsiniz
 kıracagımı kıracağımı
 kırada kirada
 kıradaymış kiradaymış
-kıral kral
 kıraladı kiraladı
 kıraladığı kiraladığı
 kıraladığım kiraladığım
@@ -85746,7 +85123,6 @@ kırazların kirazların
 kırbac kırbaç
 kırbağ kırbaç
 kırden kirden
-kıre kire
 kıre pire
 kırec kireç
 kıreç kireç
@@ -85795,7 +85171,6 @@ kıristal kristal
 kırıçı kırıcı
 kırıcı- kırıcı
 kırıclar kırıcılar
-kırıgı kırığı
 kırıgı kırık
 kırıj kırık
 kırıklıgı kırıklığı
@@ -85844,7 +85219,6 @@ kırışteymış kirişteymiş
 kırıyle kiriyle
 kırko kriko
 kırle kirle
-kırlen kirlen
 kırlen kırlent
 kırlendı kirlendi
 kırlendıgı kirlendiği
@@ -85960,7 +85334,6 @@ kısıde kişide
 kışıde kişide
 kısıden kişiden
 kışıden kişiden
-kısıdır kişidir
 kısıdır kışıdır
 kışıf kılıf
 kışıfı kılıf
@@ -86014,7 +85387,6 @@ kışılığınden kişiliğinden
 kışılığıne kişiliğine
 kışılığını kişiliğini
 kışılığıyle kişiliğiyle
-kısılık kişilik
 kısılık kışılık
 kışılıkken kişilikken
 kışılıkler kişilikler
@@ -86153,7 +85525,6 @@ kıstılıydı kısıtlıydı
 kıstlı kısıtlı
 kıstlıydı kısıtlıydı
 kıtaba kitaba
-kıtabı kitabı
 kıtabı kitap
 kıtabım kitabım
 kıtabıma kitabıma
@@ -86305,7 +85676,6 @@ kıyafer kıyafet
 kıyaferi kıyafet
 kıyafetel kıyafet
 kıyafetileri kıyafetleri
-kıyafetı kıyafet
 kıyafetı kıyafeti
 kıyafetım kıyafetim
 kıyafetımde kıyafetimde
@@ -86428,7 +85798,6 @@ kızımınkını kızımınkini
 kızmi kısmi
 kızmıstım kızmıştım
 kızmız kızımız
-kızmızı kırmızı
 kızmızı kızımızı
 kjahve kahve
 kjmanda kumanda
@@ -86548,7 +85917,6 @@ kliflari kılıfları
 klilim kilim
 klim kilim
 klimaa klima
-klimala klimalar
 klimala klimalı
 klimalaarı klimaları
 klimalari klimaları
@@ -86561,7 +85929,6 @@ klimalsr klimalar
 klimamiz klimamız
 klimanin klimanın
 klimanizi klimanızı
-klimas klima
 klimas kliması
 klimasa kliması
 klimasi kliması
@@ -86592,7 +85959,6 @@ klıam klima
 klıç kılıç
 klıcı kılıç
 klıf kılıf
-klıfı kılıf
 klıfı kılıfı
 klıfları kılıfları
 klıima klima
@@ -86695,7 +86061,6 @@ klkavyeleri klavyeleri
 klklima klima
 kllanımlık kullanmalık
 kllima klima
-klm kilim
 klm klima
 klma klima
 klmadık kalmadık
@@ -86750,10 +86115,6 @@ klubesi kulübe
 klübesi kulübe
 klubu kulübü
 klubü kulübü
-klübü kulübü
-klubu kulüp
-klubü kulüp
-klübü kulüp
 klübün kulübün
 klubunde kulübünde
 klubünde kulübünde
@@ -86818,14 +86179,12 @@ koay kolay
 kobara kobra
 kobası kobra
 kobbine kombine
-kobe kobi
 koblo kablo
 kobloları kabloları
 koblosu kablosu
 koblosuz kablosuz
 koboy kobay
 kobtuk koltuk
-koc koç
 kocaelı kocaeli
 kocaelınde kocaeli'nde
 kocaelınden kocaeli'nden
@@ -86865,7 +86224,6 @@ koeuyucu koruyucu
 kofi kobi
 kofnor konfor
 kofnoru konforu
-kofor konfor
 kofor kuaför
 koför kuaför
 koforlu konforlu
@@ -86996,7 +86354,6 @@ kokteyllerı kokteylleri
 kokteyllerın kokteyllerin
 kokteyllerını kokteyllerini
 kokteyllı kokteylli
-koktugu koktuğu
 koktugu koltuk
 koktugunu koktuğunu
 koktuklu koltuklu
@@ -87007,7 +86364,6 @@ kokue koku
 kokuk koku
 kokuku kokusu
 kokulari kokuları
-kokus koku
 kokus kokuş
 kokusuda koku
 kokusumu kokuşumu
@@ -87153,12 +86509,10 @@ koltk koltuk
 koltogo koltuk
 koltok koltuk
 koltu koltuk
-koltuga koltuğa
 koltuga koltuk
 koltugi koltuk
 koltuğı koltuk
 koltugları koltukları
-koltugu koltuğu
 koltugu koltuk
 költugu koltuk
 koltugum koltuğum
@@ -87239,7 +86593,6 @@ kombizot kompozit
 kombı kombi
 kombıler kombiler
 kombılerı kombileri
-kombın kombi
 kombın kombin
 kombınasyon kombinasyon
 kombınasyonlar kombinasyonlar
@@ -87643,7 +86996,6 @@ konfro konfor
 konfrolu konforlu
 konfru konforu
 konfura konfor
-kong Kongo
 kongoya Kongo'ya
 kongredekılerı kongredekileri
 kongrelerı kongreleri
@@ -87804,7 +87156,6 @@ konstante Konstantin
 konstruksiyon konstrüksiyon
 konstüksiyon konstrüksiyon
 konsu konusu
-konsul konsol
 konsul konsül
 konsuları konsolları
 konsulu konsol
@@ -88151,7 +87502,6 @@ konuum konumu
 konuumu konumu
 konuunda konusunda
 konuunsda konusunda
-konuusnda konusunda
 konuusnda konutları
 konuusunda konusunda
 konuyal konuyla
@@ -88315,7 +87665,6 @@ kopu kop
 köpü köpük
 kopugu kopuğu
 kopüğü köpüğü
-kopugu köpük
 köpügü köpük
 kopugune köpüğüne
 kopük köpük
@@ -88372,8 +87721,6 @@ kordugum kördüğüm
 kordunlu kordonlu
 kordunu kordon
 koregır Koreli
-korel körel
-korel Koreli
 korelde Kore'de
 koreldı köreldi
 korele Koreli
@@ -88396,7 +87743,6 @@ korfon kordon
 korför konfor
 korga kargo
 korgo kargo
-kori köri
 koridolar koridorlar
 koridorlari koridorları
 korıdor koridor
@@ -88563,7 +87909,6 @@ kosarak koşarak
 kosardı koşardı
 kosarsanız koşarsanız
 kosava Kosova
-kose köse
 kose köşe
 koşe köşe
 köșe köşe
@@ -88661,10 +88006,8 @@ kosteklı köstekli
 kösteklı köstekli
 köster köstek
 kostm kostüm
-kostu koştu
 kostu kostüm
 kostuk koştuk
-kostum kostüm
 kostum köstüm
 köstümğ kostüm
 kostumleri kostümleri
@@ -89166,7 +88509,6 @@ kremasi kreması
 kremdı kremdi
 kremi- kremi
 kremi# kremi
-kremı krem
 kremı kremi
 kremım kremim
 kremımı kremimi
@@ -89641,7 +88983,6 @@ kulac kulaç
 kulaga kulak
 kulagi kulak
 kulaği kulak
-kulagı kulağı
 kulagı kulak
 kulagım kulağım
 kulagıma kulağıma
@@ -89654,7 +88995,6 @@ kulagından kulağından
 kulagını kulağını
 kulah külah
 kulahi külah
-kulahı külah
 kulahı külahı
 kulahlik külahlık
 kulaık kulaklık
@@ -89716,7 +89056,6 @@ kulanmadım kullanmadım
 kulanmak kullanmak
 kulanmaktadır kullanmaktadır
 kulazet klozet
-kulbu kulpu
 kulbu kulüp
 kulbü kulüp
 kulce külçe
@@ -89823,7 +89162,6 @@ kullanabılırsek kullanabilirsek
 kullanabılırsem kullanabilirsem
 kullanabılırsenız kullanabilirseniz
 kullanabılırsınız kullanabilirsiniz
-kullanabılıyor kullanabiliyor
 kullanabılıyor kullanılabiliyor
 kullanabılıyordu kullanabiliyordu
 kullanabılıyorduk kullanabiliyorduk
@@ -90110,7 +89448,6 @@ kulturluydu kültürlüydü
 kültürluydu kültürlüydü
 kultursuz kültürsüz
 kultursuzler kültürsüzler
-kulturu kültür
 kültüru kültür
 kulturu kültürü
 kulturum kültürüm
@@ -90140,10 +89477,7 @@ kulubu kulübü
 kulubü kulübü
 kulübu kulübü
 külübü kulübü
-kulubu kulüp
-kulubü kulüp
 külübu kulüp
-külübü kulüp
 kulubun kulübün
 kulubün kulübün
 kulubunde kulübünde
@@ -90172,7 +89506,6 @@ kulucka kuluçka
 kuluckalik kuluçkalık
 kulucks kuluçka
 külüğü küllük
-külük küllük
 kulukca kuluçka
 kulukça kuluçka
 kulup kulüp
@@ -90506,7 +89839,6 @@ kurmuslardı kurmuşlardı
 kurmuzı kırmızı
 kurp kurs
 kursad Kürşad
-kürşad Kürşat
 kursat Kürşat
 kursıkı kurusıkı
 kursuni kurşuni
@@ -90539,7 +89871,6 @@ kurtuma kurutma
 kurtutma kurutma
 kurucutusu kurutucusu
 kurudugumuz kuruduğumuz
-kuruk kuru
 kuruk kuyruk
 kurukafali kurukafalı
 kurukuş kuruluş
@@ -90658,7 +89989,6 @@ kustahlardı küstahlardı
 kustahtı küstahtı
 kuştura koştur
 küstürebılır küstürebilir
-kusu kuş
 kuşü kuş
 kusu kuşu
 kusulmus kusulmuş
@@ -90736,7 +90066,6 @@ kuvertur kuvertür
 küvertür kuvertür
 kuvet küvet
 kuvete küvete
-kuveti küvet
 kuveti küveti
 kuvetin küvetin
 kuvetinin küvetinin
@@ -90814,7 +90143,6 @@ küx kus
 kuylaklık kulaklık
 küynesi künyesi
 kuyruga kuyruğa
-kuyrugu kuyruğu
 kuyrugu kuyruk
 kuyruguna kuyruğuna
 kuyrugunda kuyruğunda
@@ -90876,7 +90204,6 @@ kyanit yanıt
 kyış kayış
 kyp kayıp
 kyrdelasi kurdelesi
-kyrie Kylie
 kyt kayıt
 kytusu kuytu
 kyu kuyu
@@ -91073,7 +90400,6 @@ lanetın lanetin
 lanetlermış lanetlermiş
 lanetlı lanetli
 lanettı lanetti
-laney lanet
 langirt langırt
 lankadtre ankastre
 lannbasi lambası
@@ -91148,8 +90474,6 @@ lastığe lastiğe
 lastıgi lastik
 lastıgı lastiği
 lastığı lastiği
-lastıgı lastik
-lastığı lastik
 lastığım lastiğim
 lastıgımız lastiğimiz
 lastığımız lastiğimiz
@@ -91206,7 +90530,6 @@ laubalılıkle laubalilikle
 laubalılıklerı laubalilikleri
 laubalıydı laubaliydi
 laubalıydıler laubaliydiler
-laurent Lauren
 lavabobosu lavabosu
 lavabodakı lavabodaki
 lavabolardakı lavabolardaki
@@ -91250,7 +90573,6 @@ lavrıonda Lavrion'da
 lavye klavye
 layd Lady
 layf life
-layik layık
 layikiyla layıkıyla
 laylın naylon
 laylon naylon
@@ -91269,7 +90591,6 @@ lazımlik lazımlık
 lazımlıgı lazımlık
 lazımmı lazım
 lazımmıs lazımmış
-lazm kazım
 lazm lazım
 lazsr lazer
 lazt lastik
@@ -91302,7 +90623,6 @@ leezzet lezzet
 lefd lefe
 lefkosa Lefkoşa
 lefkoşaya Lefkoşa
-lefkoşe Lefkoşa
 lefrektör reflektör
 legands Legend
 legen leğen
@@ -91381,7 +90701,6 @@ lektrik elektrik
 lelelik lalelik
 lelezar lalezar
 lemans Leman
-lena lens
 lenon Lennon
 lenona Lennon
 lenslerı lensleri
@@ -91668,8 +90987,6 @@ lilif kılıf
 lilim kilim
 lilimon limon
 lilllian Lillian
-lily Lilly
-lima klima
 limak liman
 limani limanı
 limanin limanın
@@ -91786,7 +91103,6 @@ lıfeden Life'den
 lıfeguardlar Lifeguard'lar
 lıfen Life'n
 lıfeye Life'ye
-lıfı lif
 lıfı lifi
 lıfım lifim
 lıfımı lifimi
@@ -92267,7 +91583,6 @@ lousa lohusa
 lousiana Louisiana
 louv Love
 lov Love
-lova lavabo
 lovaba lavabo
 lovabo lavabo
 lovaboyu lavaboyu
@@ -92344,7 +91659,6 @@ lukslukte lükslükte
 lükslüktekı lükslükteki
 lükslükteydı lükslükteydi
 luksmetre lüksmetre
-luksor Lüksor
 lukstu lükstü
 lukstü lükstü
 luksu lüksü
@@ -92487,14 +91801,12 @@ macerıstan Macaristan
 macerıstanda Macaristan'da
 machester manchester
 machil Michael
-maci maç
 macı maçı
 macımızı maçımızı
 macın maçın
 macına maçına
 macını maçını
 macj Mac
-mack Mac
 macka Maçka
 maçkada Maçka'da
 maçkadaki Maçka'daki
@@ -92562,7 +91874,6 @@ madriddeki Madrid'deki
 madride Madrid'e
 madrideki Madrid'deki
 madris Madrid
-madrit Madrid
 madrıd Madrid
 madrıdde Madrid'de
 madrıddekı Madrid'deki
@@ -92584,7 +91895,6 @@ maduriyeti mağduriyeti
 maduriyetim mağduriyetim
 maduriyetimi mağduriyetimi
 maduriyetimin mağduriyetimin
-maduriyetimizi mağduriyetimizi
 maduriyetimizi mağduriyetinizi
 maduriyetten mağduriyetten
 madurıyet mağduriyet
@@ -92689,7 +91999,6 @@ mağra mağara
 magrem mahrem
 magribden mağrip
 mağribli mağripli
-magrip mağrip
 mağruz maruz
 mağşa maşa
 magza mağaza
@@ -92751,7 +92060,6 @@ mahkul makul
 mahküm mahkum
 mahkummusuz mahkummuşuz
 mahle mahlep
-mahler mahlep
 mahlukk mahluk
 mahramiyetimizi mahremiyetimizi
 mahremıyet mahremiyet
@@ -92767,7 +92075,6 @@ mahrumıyette mahrumiyette
 mahruz maruz
 mahşallah maşallah
 mahsen mahzen
-mahser mahşer
 mahseri mahşeri
 mahsülleri mahsulleri
 mahsüllerı mahsul
@@ -92815,7 +92122,6 @@ mainası makine
 mainesi makine
 mairo Mario
 mais Maisie
-maı mai
 maı Mail
 maıl Mail
 maıle maile
@@ -92848,16 +92154,13 @@ maımı maimi
 maın main
 maıse Maisie
 majinesi makinesi
-major majör
 majyaj makyaj
-mak Mac
 mak mal
 mak'nes' makinesi
 maka makam
 makadı makas
 makainesi makinesi
 makaj makyaj
-makal makas
 makala makale
 makalalerim makale
 makalat makale
@@ -92932,7 +92235,6 @@ makinadı makinesi
 makinadsı makinesi
 makinadu makinesi
 makinaı makine
-makinalari makinaları
 makinalari makineleri
 makinalaru makineleri
 makinali makineli
@@ -92942,7 +92244,6 @@ makinase makinesi
 makinasi makinesi
 makinasina makineleri
 makinasindan makinasından
-makinasini makinasını
 makinasini makinesini
 makinasıf makinesi
 makinasıı makinesi
@@ -92981,7 +92282,6 @@ makisnesi makinesi
 makiyaj makyaj
 makı maki
 makıinası makinesi
-makına makina
 makına makine
 makınada makinede
 makınadakı makinedeki
@@ -93092,7 +92392,6 @@ makkaj makyaj
 makkap matkap
 makketi maketi
 makmakinsı makinesi
-maknası makine
 maknası makinesi
 maknesi makine
 makona makine
@@ -93105,7 +92404,6 @@ makreme makrome
 makrna makarna
 makroökonomik makroekonomik
 makrti maket
-maks makas
 maks maksimum
 maksaj makyaj
 maksatli maksatlı
@@ -93283,7 +92581,6 @@ malzemwsi malzemesi
 malzeöesi malzemesi
 malzmeler malzemeler
 malzrmesi malzemesi
-mam mama
 mam mum
 mama! mama
 mamaci mamacı
@@ -93505,7 +92802,6 @@ maous mouse
 maouse mouse
 maousu mouse
 maraç araç
-marak marka
 marak merak
 maraka meraka
 maramariste Maramaris'te
@@ -93606,7 +92902,6 @@ markettı marketti
 markezi market
 markies markası
 markizo markiz
-marko marka
 markt market
 markuçu marpuç
 markuş marpuç
@@ -93645,10 +92940,8 @@ marsılyada Marsilya'da
 marsılyadakı Marsilya'daki
 marsk mars
 marslari marşları
-marsli marslı
 marsli marşlı
 martek market
-marti mart
 marti martı
 martka marka
 marttakı marttaki
@@ -93670,7 +92963,6 @@ masağa masaya
 masah masaj
 masajdakı masajdaki
 masajdakıler masajdakiler
-masaji masaj
 masaji masajı
 masajli masajlı
 masak maslak
@@ -93685,8 +92977,6 @@ masalarıç masaları
 masalarındakı masalarındaki
 masalaru masaları
 masalci masalcı
-masali masal
-masali masalı
 masali maşalı
 masallah maşallah
 masallahli maşallahlı
@@ -93831,7 +93121,6 @@ materyelleri materyalleri
 matgap matkap
 matika patika
 matikmate matematik
-matilde Matilda
 matığı mantığı
 matka matkap
 matkab matkap
@@ -93849,7 +93138,6 @@ matmap matkap
 matrakci matrakçı
 matruska matruşka
 matryoşhka matruşka
-mats mat
 mauae mouse
 mauase mouse
 mauel manuel
@@ -93958,7 +93246,6 @@ mazeme malzeme
 mazemelari malzemeleri
 mazemeler malzemeler
 mazemeleri malzemeleri
-mazemesi malzeme
 mazemesi malzemesi
 mazemesı malzeme
 mazemleri malzemeleri
@@ -94008,7 +93295,6 @@ mebram membran
 mebran membran
 mebranlı membranlı
 mebrn membran
-mebsut mesut
 mecalı mecali
 mecallerı mecalleri
 mecburiyetden mecburiyetten
@@ -94066,7 +93352,6 @@ medhiyyesi methiye
 mediasyon meditasyon
 medikür manikür
 medinei medine
-medit meditasyon
 mediven merdiven
 mediveni merdiven
 mediylum medyum
@@ -94136,7 +93421,6 @@ mekam mekan
 mekamik mekanik
 mekandakı mekandaki
 mekane mekan
-mekani mekan
 mekani mekanı
 mekaniik mekanik
 mekanimiz mekanımız
@@ -94177,7 +93461,6 @@ mekezi merkezi
 mekezinde merkezinde
 mekezine merkezine
 mekezıne merkezine
-mekin mekik
 mekinası makinesi
 mekinesi makinesi
 mekığı mekiği
@@ -94188,7 +93471,6 @@ mekkede Mekke'de
 mekkedekı Mekke'deki
 mekkeye Mekke'ye
 mekkeze merkeze
-mekki mekik
 mekreze merkeze
 mekrezi merkezi
 mekroppo metropol
@@ -94205,7 +93487,6 @@ meksıya Meksika
 meksnizması mekanizması
 mektublar mektup
 mektubları mektup
-mela Melahat
 meleek melek
 melegin meleğin
 melekek memleket
@@ -94224,7 +93505,6 @@ melına Melina
 melıs Melis
 melısa melisa
 melıssa Melissa
-melo melodi
 melodı melodi
 melodıler melodiler
 melodısıyle melodisiyle
@@ -94250,7 +93530,6 @@ memenunuz memnunuz
 memer mermer
 memes meme
 memesü memesi
-memet Mehmet
 memhmet Mehmet
 memıs Memiş
 memış Memiş
@@ -94488,7 +93767,6 @@ memnyn memnun
 memphıs Memphis
 mempis Memphis
 memrun memnun
-memun memnun
 memunduk memnunduk
 memunn memnun
 memunum memnunum
@@ -94680,7 +93958,6 @@ mercon mercan
 mercurydeki Mercury'deki
 merdeces Mercedes
 merdeydım neredeydim
-merdi merdiven
 merdivan merdiven
 merdivani merdiven
 merdiveler merdivenler
@@ -94691,7 +93968,6 @@ merdıvendekı merdivendeki
 merdıvenden merdivenden
 merdıvendı merdivendi
 merdıvene merdivene
-merdıvenı merdiven
 merdıvenı merdiveni
 merdıvenımızın merdivenimizin
 merdıvenın merdivenin
@@ -94743,31 +94019,31 @@ merhaaba merhaba
 merhaablar merhabalar
 merhab merhaba
 merhaba% merhaba
-merhaba0850 merhaba
 merhaba1 merhaba
+merhaba2 merhaba
+merhaba3 merhaba
+merhaba6 merhaba
+merhaba8 merhaba
+merhaba9 merhaba
 merhaba10 merhaba
-merhaba100 merhaba
 merhaba11 merhaba
 merhaba15 merhaba
 merhaba16 merhaba
 merhaba18 merhaba
-merhaba2 merhaba
 merhaba20 merhaba
 merhaba26 merhaba
 merhaba28 merhaba
-merhaba3 merhaba
 merhaba30 merhaba
-merhaba307 merhaba
-merhaba312 merhaba
 merhaba34 merhaba
 merhaba46 merhaba
-merhaba460 merhaba
 merhaba51 merhaba
 merhaba54 merhaba
 merhaba58 merhaba
-merhaba6 merhaba
-merhaba8 merhaba
-merhaba9 merhaba
+merhaba100 merhaba
+merhaba307 merhaba
+merhaba312 merhaba
+merhaba460 merhaba
+merhaba0850 merhaba
 merhabaa merhaba
 merhabaar merhabalar
 merhababen merhaba
@@ -94798,14 +94074,12 @@ merhava merhaba
 merhba merhaba
 merhbaa merhaba
 merhbaba merhaba
-merhbalar merhaba
 merhbalar merhabalar
 merheba merhaba
 merhemlerı merhemleri
 merhen merhem
 merhmet merhamet
 merhrba merhaba
-meric Meriç
 meriçe Meriç'e
 merike melike
 merite Merit'e
@@ -94824,7 +94098,6 @@ merıtler Meritler
 merıtte Merit'te
 merıye meriye
 merıyı meriyi
-merk merkez
 merka marka
 merke merkez
 merkei merkezi
@@ -94833,7 +94106,6 @@ merkeiniz merkeziniz
 merkeiz merkezi
 merkerzi merkezi
 merkese merkeze
-merkesi merkez
 merkesi merkezi
 merket market
 merkexe merkeze
@@ -94937,7 +94209,6 @@ merkure Merkür
 merkuriy mercury
 merkze merkeze
 merkzei merkezi
-merkzi merkez
 merkzi merkezi
 merkzinde merkezinde
 merkzinden merkezinden
@@ -94978,7 +94249,6 @@ mertebelerınde mertebelerinde
 mertebesı mertebesi
 mertebesındekı mertebesindeki
 mertebesıne mertebesine
-mertel Merter
 merterde Merter'de
 merterden Merter'den
 mertere Merter'e
@@ -95071,9 +94341,7 @@ mesajlarim mesajlarım
 mesajli mesajlı
 mesajta mesajda
 meşakatlı meşakkatli
-mesala mesajla
 mesala mesela
-mesale meşale
 mesale mesela
 meşaleşi meşalesi
 mesaz mesaj
@@ -95190,7 +94458,6 @@ mesleklerını mesleklerini
 meslektenım meslektenim
 meslektır meslektir
 meslembe beslenme
-meslke meslek
 meslke meslekte
 meslkesiz mesleksiz
 meslteği mesleği
@@ -95281,8 +94548,8 @@ metoo metot
 metql metal
 metr metre
 metra metre
-metre² metre
 metre2 metrekare
+metre² metre
 metredeydı metredeydi
 metredır metredir
 metreı metre
@@ -95325,7 +94592,6 @@ mevbur mecbur
 mevcıttur mevcuttur
 mevctu mevcut
 mevcu mevcut
-mevcud mevcut
 mevcur mevcut
 mevcut3 mevcut
 mevcutdur mevcuttur
@@ -95335,7 +94601,6 @@ mevcuutr mevcuttur
 mevcuz mevcut
 mevdim mevsim
 mevdudi mevcut
-mevdut mevcut
 meve meyve
 mevevi Mevlevi
 mevild mevlit
@@ -95343,7 +94608,6 @@ mevisi mevkisi
 mevisimi mevsimi
 mevisiminde mevsiminde
 mevismden mevsimden
-mevkii mevki
 mevkii mevkisi
 mevkiinde mevkisinde
 mevkiindeki mevkindeki
@@ -95395,7 +94659,6 @@ mevlüdğ mevlidi
 mevludu mevlidi
 mevlůdü mevlidi
 mevlüdü mevlidi
-mevlüt mevlit
 mevlütlere mevlitlere
 mevlütlük mevlitlik
 mevlütte mevlitte
@@ -95467,12 +94730,10 @@ meyme meyve
 meyro metro
 meyv meyve
 meyva meyve
-meyvalar meyve
 meyvalar meyveler
 meyvaları meyve
 meyvali meyveli
 meyvalı meyveli
-meyvası meyve
 meyvası meyvesi
 meyvedır meyvedir
 meyveeli meyveli
@@ -95563,14 +94824,10 @@ mibibüse minibüse
 mibil mobil
 mibilyalari mobilyaları
 micel miçel
-michaela Michael
 michail Michael
 michale Michael
-micheal Michael
 michecal Michael
-michel Michelle
 michelan Michelle
-michele Michelle
 michelen Michelle
 michelib Michelin
 miçhelin Michelin
@@ -95699,14 +94956,11 @@ miktat miktar
 miktatisli mıknatıslı
 miktofon mikrofon
 miktop mikrop
-milana Milano
-milani Milano
 milanodaki Milano'daki
 milanoya Milano'ya
 milenaya Milena'ya
 milendır blender
 mileno Milano
-miles mile
 mileyum milenyum
 mileyyum milenyum
 miligrami miligram
@@ -95808,7 +95062,6 @@ minw mine
 minyatğr minyatür
 minyator minyatür
 minyatur minyatür
-mirac miraç
 miracles Miracle
 mirasci mirasçı
 mirascilar mirasçılar
@@ -95908,7 +95161,6 @@ misnz misiniz
 misnzi misiniz
 misrali mısralı
 misrl misel
-miss mis
 missisippi mississippi
 missket misket
 missubishi Mitsubishi
@@ -96294,7 +95546,6 @@ mına Mina
 mınder minder
 mınderde minderde
 mındere mindere
-mınderı minder
 mınderı minderi
 mınderım minderim
 mınderımı minderimi
@@ -96849,7 +96100,6 @@ molduğu olduğu
 molec molekül
 molekul molekül
 molo mola
-molu nolu
 moly Molly
 molyesi kolyesi
 mombi kombi
@@ -97016,7 +96266,6 @@ motıvesı motivesi
 motıveydı motiveydi
 motıveydıler motiveydiler
 motmotor motor
-moto motor
 moto motosiklet
 motobisiklet motosiklet
 motodın motorin
@@ -97033,13 +96282,11 @@ motorbislet motosiklet
 motorı motor
 motorın motorin
 motorklet motosiklet
-motorlari motor
 motorlari motorları
 motorlo motorlu
 motorr motor
 motorrsiklet motosiklet
 motorrsimler motosiklet
-motors motor
 motorsiket motosiklet
 motorsikket motosiklet
 motorsikle motosiklet
@@ -97528,10 +96775,7 @@ muhallebıyı muhallebiyi
 muhambet Muhammed
 muhamele muamele
 muhamelesi muamelesi
-muhamet Muhammed
 muhamet Muhammet
-muhammad Muhammed
-muhammer Muammer
 muharap muhatap
 muhasebecı muhasebeci
 muhasebecığımızı muhasebeciğimizi
@@ -97600,7 +96844,6 @@ muhmmed Muhammed
 muhre mühre
 muhru mühür
 muhsbbet muhabbet
-muhsine Muhsin
 muhsın Muhsin
 muhtap muhatap
 muhtelemen muhtemelen
@@ -97756,7 +96999,6 @@ mukererden mükerrerden
 mükererden mükerrerden
 mükererdir mükerrerdir
 mükererer mükerrer
-mükereri mükerrer
 mükereri mükerreri
 mükererlikten mükerrerlikten
 mukererlık mükerrerlik
@@ -97924,7 +97166,6 @@ münıhtekı Münih'teki
 münkün mümkün
 münü menü
 münübüs minibüs
-münübüse minibüs
 münübüse minibüse
 münübüsle minibüsle
 münübüsler minibüsler
@@ -97958,7 +97199,6 @@ muren Müren
 mürerrer mükerrer
 müretabatı mürettebatı
 mürettabat mürettebat
-mürettabatı mürettebat
 mürettabatı mürettebatı
 murettebat mürettebat
 murettebattan mürettebattan
@@ -98085,7 +97325,6 @@ muslina müslüman
 muslıgu musluk
 muslu musluk
 musluga musluğa
-muslugu musluğu
 muslugu musluk
 muslugum musluğum
 musluğundakı musluğundaki
@@ -98191,7 +97430,6 @@ muşterim müşterim
 müsterim müşterim
 muşterime müşterime
 müşterimiiz müşterimiz
-müşterimiizn müşterilerimizin
 müşterimiizn müşterimizin
 müşteriminz müşterimizin
 musterimiz müşterimiz
@@ -98538,11 +97776,9 @@ mutevazıydı mütevaziydi
 mütevellih mütevelli
 mutfa mutfak
 mutfaak mutfak
-mutfaga mutfağa
 mutfaga mutfak
 mutfagi mutfağı
 mutfaği mutfağı
-mutfagi mutfak
 mutfagim mutfağım
 mutfagin mutfağın
 mutfagina mutfağına
@@ -98550,7 +97786,6 @@ mutfaginda mutfağında
 mutfagindan mutfağından
 mutfaginin mutfağının
 mutfaginiz mutfağınız
-mutfagı mutfağı
 mutfagı mutfak
 mutfagım mutfağım
 mutfağımdakı mutfağımdaki
@@ -98721,7 +97956,6 @@ muzıgı müziği
 muzığı müziği
 müzıgı müziği
 müzığı müziği
-muzıgı müzik
 müzığıde müzik
 müzığımı müziğimi
 muzıgımız müziğimiz
@@ -98823,7 +98057,6 @@ muzo muz
 müzşk müzik
 müzüği müziği
 müzüik müzik
-müzük müzik
 müzük yüzük
 müzükler müzikler
 muzulu muzlu
@@ -98876,7 +98109,6 @@ naimasyonları animasyonları
 naıf naif
 naıflık naiflik
 naıftı naifti
-naıl nail
 naıl nasıl
 naıle naile
 naım Naim
@@ -98970,7 +98202,6 @@ nartı artı
 nasası masası
 nashi Nash
 nashıraya Nashira'ya
-nasib nasip
 naside Naşide
 nasil nasıl
 nasilsa nasılsa
@@ -98983,13 +98214,11 @@ nasıplerını nasiplerini
 nasıpse nasipse
 nasış nasıl
 nasl nasıl
-nasrettin Nasreddin
 nasrettın Nasrettin
 nasrı nasır
 naston baston
 natali Natalie
 natalıa Natalia
-natalya Antalya
 natgile nargile
 natıonal National
 nato’nun Nato'nun
@@ -99087,7 +98316,6 @@ nededi nedeni
 nedediyle nedeniyle
 nedei nedeni
 nedeiyle nedeniyle
-nedele nedene
 nedele nedenle
 nedelerden nedenlerden
 nedeli nedeni
@@ -99569,14 +98797,12 @@ nigari Nigar
 nigde Niğde
 nigra Nigar
 nihah nikah
-nihavend nihavent
 niie niye
 nika nikah
 nikahlik nikahlık
 nikak nikah
 nikalaj nikelaj
 nikalaji nikelaj
-nikalajı nikelaj
 nikalajı nikelajı
 nikalajlı nikelajlı
 nikalajo nikelaj
@@ -99608,7 +98834,6 @@ nişa nisa
 nişam nişan
 nisanci nişancı
 nisangah nişangah
-nisani nişan
 nisanimiza nişanımıza
 nisanli nişanlı
 nisanlik nişanlık
@@ -99626,7 +98851,6 @@ nitesi nite
 niyeli niyetli
 niyeyli niyetli
 niyi neyi
-nizami nizamı
 nize bize
 nizi bizi
 nıçağı bıçak
@@ -99697,7 +98921,6 @@ nıs niş
 nış niş
 nısa nisa
 nışadır nişandır
-nısan nisan
 nısan nişan
 nışan nişan
 nısana Nisan'a
@@ -99889,7 +99112,6 @@ nnehir nehir
 nngnavigasyon navigasyon
 nnumara numara
 nö no
-noa Noah
 nobet nöbet
 nobetci nöbetçi
 nöbetci nöbetçi
@@ -99982,7 +99204,6 @@ nornalde normalde
 noroloji nöroloji
 nort North
 nortebook notebook
-norvec Norveç
 norveçe Norveç'e
 nosta nostalji
 nostaji nostalji
@@ -100042,7 +99263,6 @@ ntebook notebook
 nteklifimize teklifimize
 ntel Intel
 ntemizin acentemizin
-nu nü
 nu numara
 nuamaralı numaralı
 nuamarlı numaralı
@@ -100086,13 +99306,11 @@ numaraası numarası
 numaradakı numaradaki
 numaradakıne numaradakine
 numaradı numarası
-numaraı numarası
 numaraı numarayı
 numaraını numarasını
 numaraının numaranın
 numaraısnı numarasını
 numaral numaralı
-numaralaı numaraları
 numaralaı numaralı
 numaralandir numaralandır
 numaralandirilmis numaralandırılmış
@@ -100114,9 +99332,7 @@ numaranizi numaranızı
 numarar numara
 numararası numarası
 numararasının numarasının
-numaras numara
 numaras numarası
-numarasi numara
 numarasi numarası
 numarasini numarasını
 numarasiz numarasız
@@ -100131,7 +99347,6 @@ numaray numaraya
 numaraydi numaraydı
 numarayi numarayı
 numarealı numaralı
-numarı numaralı
 numarı numarayı
 numarını numarasını
 numarlaı numaralı
@@ -100353,7 +99568,6 @@ oc ocak
 ocagi ocak
 ocaği ocak
 ocagin ocağın
-ocagı ocağı
 ocagı ocak
 ocagına ocağına
 ocağındakı ocağındaki
@@ -100369,7 +99583,6 @@ ocake ocak
 ocaklari ocakları
 ocakli ocaklı
 ocaktakı ocaktaki
-ocal ocak
 ocal Öcal
 ocalan Öcalan
 öcalanın Öcalan'ın
@@ -100594,7 +99807,6 @@ odaoda odada
 odarda odalarda
 odarı odaları
 odarın odaların
-odas oda
 odas odası
 odasa odada
 odasaı odası
@@ -101256,7 +100468,6 @@ odullerı ödülleri
 ödüllerımı ödüllerimi
 ödüllerın ödüllerin
 odullu ödüllü
-odulu ödül
 odulu ödülü
 odunpazarina Odunpazarı'na
 odunpazarına Odunpazarı'na
@@ -101273,7 +100484,6 @@ odyı odayı
 öediğim ödediğim
 öediğimiz ödediğimiz
 öekme çekme
-oel otel
 oel özel
 öel özel
 oelde otelde
@@ -101451,7 +100661,6 @@ oglenleyın öğlenleyin
 ögleye öğleye
 öğleyın öğleyin
 oglu oğlu
-oglum oğlum
 oglum oğul
 ogluma oğluma
 oglumda oğlumda
@@ -101873,7 +101082,6 @@ ogulcuktu oğulcuktu
 ogulları oğulları
 ogullarım oğullarım
 ogun öğün
-ogün öğün
 oğün öğün
 ögün öğün
 öğun öğün
@@ -101952,7 +101160,6 @@ okalüptüs okaliptus
 okandı Okan'dı
 okans Okan
 okarak olarak
-okay okey
 okc ok
 okce ökçe
 okcu okçu
@@ -102303,7 +101510,6 @@ olailir olabilir
 olaj plaj
 olajda plajda
 olajı plajı
-olak olarak
 olak plak
 olaka olarak
 olakara olarak
@@ -102348,7 +101554,6 @@ olamdan olmadan
 olamdı olmadı
 olamdığı olmadığı
 olamdığım olamadığım
-olamdığından olamadığından
 olamdığından olmadığından
 olamdığını olmadığını
 olamdık olamadık
@@ -102474,7 +101679,6 @@ olasılıgımız olasılığımız
 olasun olsun
 olata olta
 olatak olarak
-olatrak olarak
 olatrak onaylatarak
 olaun olsun
 olayan olmayan
@@ -102582,7 +101786,6 @@ olculuk ölçülük
 olcululerdı ölçülülerdi
 ölçülülerdı ölçülülerdi
 olculuydu ölçülüydü
-olcum ölçüm
 olçüm ölçüm
 ölcum ölçüm
 ölcüm ölçüm
@@ -102855,7 +102058,6 @@ olmadığnı olmadığını
 olmadıkca olmadıkça
 olmadıla olmadılar
 olmadına olmasına
-olmadından olmadığından
 olmadından olmasından
 olmadını olmadığını
 olmadıo olmadı
@@ -102863,7 +102065,6 @@ olmadk olmadık
 olmadu olmadı
 olmaduğı olmadığı
 olmağından olmadığından
-olmaı olmalı
 olmaı olması
 olmaıd olmadı
 olmaıdğından olmadığından
@@ -102894,7 +102095,6 @@ olmalıydi olmalıydı
 olmamaıs olmaması
 olmamaısı olmaması
 olmamaıştı olmamıştı
-olmamaıza olmamamıza
 olmamaıza olmamıza
 olmamaktaır olmamaktadır
 olmamali olmamalı
@@ -102935,7 +102135,6 @@ olmanin olmanın
 olmaniz olmanız
 olmanizi olmanızı
 olmarak olarak
-olmas olması
 olmas olmaz
 olmasaydi olmasaydı
 olmasaymıs olmasaymış
@@ -102963,7 +102162,6 @@ olmasım olması
 olmasınan olmasından
 olmasındakı olmasındaki
 olmasındam olmasından
-olmasındna olmasında
 olmasındna olmasından
 olmasınin olmasının
 olmasınını olmasının
@@ -103071,7 +102269,6 @@ olmuştır olmuştur
 olmustu olmuştu
 olmustuk ölmüştük
 olmustum olmuştum
-olmustur olmuştur
 olmustur ölmüştür
 olmuştuş olmuştur
 olmusuz olmuşuz
@@ -103087,7 +102284,6 @@ olmuyur olmuyor
 olmyan olmayan
 olmyor olmuyor
 olmz olmamız
-olna olan
 olna olma
 olnağı olanağı
 olnaızı olmanızı
@@ -103150,7 +102346,6 @@ oltel otel
 oltelde otelde
 oltug Oltu
 oltukları koltukları
-olu ölü
 olu olur
 oluabilirsiniz olabilirsiniz
 olubnur olunur
@@ -103244,7 +102439,6 @@ olumsuzlukalrdan olumsuzluklardan
 olumsuzluklari olumsuzlukları
 olumsuzluklarıda olumsuzluk
 olumszluklar olumsuzluklar
-olumu ölüm
 olumu ölümü
 olumul olumlu
 olumulu olumlu
@@ -103263,7 +102457,6 @@ olunabılıyormuş olunabiliyormuş
 olunabılse olunabilse
 olunacagı olunacağı
 olunc olunca
-oluncak olunacak
 oluncak oyuncak
 olunce ölünce
 olundugu olunduğu
@@ -103552,7 +102745,6 @@ onaylanmamıs onaylanmamış
 onaylanmasi onaylanması
 onaylanmıl onaylanmış
 onaylanmıs onaylanmış
-onaylanmısını onaylanmasını
 onaylanmısını onaylanmışını
 onaylanmıstır onaylanmıştır
 onaylanmıştr onaylanmıştır
@@ -103772,7 +102964,6 @@ one öne
 öneceki önceki
 önecelikle öncelikle
 öneki önceki
-onel önel
 önelem önlem
 önelık önelik
 önelm önlem
@@ -103784,7 +102975,6 @@ onemı önemi
 önemıne önemine
 önemını önemini
 önemınız öneminiz
-onemle önemle
 onemle önemli
 önemlerı önemleri
 onemli önemli
@@ -103930,7 +103120,6 @@ onemsızdı önemsizdi
 önemsızlığı önemsizliği
 önemsızlığınden önemsizliğinden
 önenli önemli
-oner öner
 öner'im önerim
 önerceğim önereceğim
 onerdi önerdi
@@ -104054,7 +103243,6 @@ onerileri önerileri
 onerilerim önerilerim
 onerilerinden önerilerinden
 onerilir önerilir
-onerim önerim
 onerimiz önerimiz
 onerip önerip
 onerisi önerisi
@@ -104437,11 +103625,9 @@ onstantin Konstantin
 ontrol kontrol
 ontura Ontur'a
 onü ön
-önu ön
 önu önü
 önüde önünde
 onuforma üniforma
-onuk konuk
 onulu konulu
 onumde önümde
 onumdekı önümdeki
@@ -104497,7 +103683,6 @@ onunkını onunkini
 onunkının onunkinin
 onunn onun
 önünüzdekı önünüzdeki
-önür onur
 onure onur
 önürlü ömürlü
 önüş dönüş
@@ -104549,7 +103734,6 @@ opdayı odayı
 ope Opel
 öpeceklerdı öpeceklerdi
 öpecektık öpecektik
-opek Opel
 opek pek
 opeklerden köpeklerden
 öpelım öpelim
@@ -104651,7 +103835,6 @@ opuk topuk
 öpülmesını öpülmesini
 opusme öpüşme
 öpüştüklerını öpüştüklerini
-or ör
 or ora
 oraa oraya
 oraada orada
@@ -104716,7 +103899,6 @@ oratlama ortalama
 oratm ortam
 oratmı ortamı
 oratydı ortaydı
-oray oraya
 oray'a oraya
 orayi orayı
 orbası torba
@@ -104786,7 +103968,6 @@ organi organik
 organiasyon organizasyon
 organisazyon organizasyon
 organisyon organizasyon
-organiza organizasyon
 organiza organize
 organizasayonları organizasyonları
 organizason organizasyon
@@ -104950,7 +104131,6 @@ orjinalde orijinalde
 orjinalden orijinalden
 orjinaldi orijinaldi
 orjinaldir orijinaldir
-orjinali orijinal
 orjinali orijinali
 orjinalin orijinalin
 orjinalinda orijinalinde
@@ -105030,7 +104210,6 @@ orql Oral
 orra orta
 orradaki oradaki
 ors örs
-ort ört
 ort orta
 ortac ortaç
 ortacag ortaçağ
@@ -105186,7 +104365,6 @@ ortulerını örtülerini
 örtülmemış örtülmemiş
 örtülmemıştı örtülmemişti
 örtülmesı örtülmesi
-ortum örtü
 ortum örtüm
 ortus örtü
 örtüs örtü
@@ -105262,7 +104440,6 @@ osaya odaya
 oscara Oscar'a
 oscarda Oscar'da
 oscardan Oscar'dan
-oscarı Oscar
 oscarı Oscar'ı
 oscarın Oscar'ın
 öşçer ölçer
@@ -105273,7 +104450,6 @@ osilaskop osiloskop
 osilator osilatör
 oşık ışık
 osırada sırada
-oskar Oscar
 oskarı Oskar
 osla Oslo
 oslak ıslak
@@ -105304,7 +104480,6 @@ otag otağ
 otagara otogara
 otagi otağ
 otaı otağ
-otak ortak
 otakim takım
 otal otel
 otalde otelde
@@ -105998,7 +105173,6 @@ otoparktakıler otoparktakiler
 otoparta otoparkta
 otoprak otopark
 otoprk otopark
-otor motor
 otor otorizasyon
 otori otorizasyon
 otoriasyona otorizasyona
@@ -106091,9 +105265,7 @@ ottel otel
 ottelin otelin
 ottelleri otelleri
 öttüsü örtüsü
-ötü kötü
 ötü ütü
-otuk koltuk
 otuken Ötüken
 otuluyor ötülüyor
 ötum oyun
@@ -106150,7 +105322,6 @@ oturacagına oturacağına
 oturacagını oturacağını
 oturacagınız oturacağınız
 oturacagınızı oturacağınızı
-oturagi oturağı
 oturagi oturak
 oturagı oturak
 oturaklari oturakları
@@ -106333,7 +105504,6 @@ ovunsg ovun
 öxel özel
 oxfort oxford
 oyak oya
-oyal oya
 oyaladilar oyaladılar
 oyaladırlar oyaladılar
 oyalanabıleceğı oyalanabileceği
@@ -106480,7 +105650,6 @@ oynca oyuncak
 oyncak oyuncak
 oyncaklari oyuncakları
 oynları oyunları
-oynu oyun
 oynu oyunu
 oynucağı oyuncak
 oynuyan oynayan
@@ -106650,7 +105819,6 @@ ozelikleri özellikleri
 özeliklle özellikle
 özelilkle özellikle
 ozelinde özelinde
-özelı özel
 özelı özeli
 özelığı özellik
 özelık özelik
@@ -107003,7 +106171,6 @@ ozlem özlem
 ozlu özlü
 özlu özlü
 ozluk özlük
-özman Osman
 ozmen Özmen
 ozne özne
 oznur Öznur
@@ -107138,7 +106305,6 @@ pahaşıydı pahalıydı
 paino piyano
 paj plaj
 pajı plajı
-pak paket
 pak park
 pakaj bagaj
 pakalı plakalı
@@ -107146,9 +106312,7 @@ pakatı paket
 pakedi paket
 pakedini paketini
 pakeleri paketleri
-paker paket
 pakeri paket
-paketı paket
 paketı paketi
 paketım paketim
 paketımde paketimde
@@ -107279,7 +106443,6 @@ pamjur panjur
 pamter panter
 pamtolom pantolon
 pamtolon pantolon
-pamugu pamuğu
 pamugu pamuk
 pamügü pamuk
 pamugue pamuk
@@ -107291,7 +106454,6 @@ pamukkaleyı Pamukkale'yi
 pamukli pamuklu
 pamuö pamuk
 pamut pamuk
-pan puan
 panal panel
 panali panel
 panalı panel
@@ -107303,7 +106465,6 @@ pande panda
 pandul pandül
 panek panel
 paneki panel
-panelı panel
 panelı paneli
 panelın panelin
 panelınde panelinde
@@ -107594,7 +106755,6 @@ parfümlerın parfümlerin
 parfümlet parfümler
 parfumlu parfümlü
 parfumsuz parfümsüz
-parfumu parfüm
 parfumü parfüm
 parfümu parfüm
 parfumu parfümü
@@ -107606,10 +106766,8 @@ pargi parti
 parie Paris
 parilti parıltı
 pariltili parıltılı
-parise Paris
 parise Paris'e
 parisin Paris'in
-pariste Paris'te
 pariste Paris'teki
 paristeki Paris'teki
 parıs Paris
@@ -107634,7 +106792,6 @@ parkelerımız parkelerimiz
 parkelerın parkelerin
 parkelı parkeli
 parkenın parkenin
-parker parke
 parkesı parkesi
 parkesınden parkesinden
 parketmedı parketmedi
@@ -107652,7 +106809,6 @@ parkettıler parkettiler
 parkettım parkettim
 parkettırdıler parkettirdiler
 parkeydı parkeydi
-parki park
 parki parkı
 parkim parkım
 parkin parkın
@@ -107684,7 +106840,6 @@ parlayabılır parlayabilir
 parlemento parlamento
 parliyan parlayan
 parmagim parmağım
-parmagı parmağı
 parmagı parmak
 parmagım parmağım
 parmagımı parmağımı
@@ -107757,7 +106912,6 @@ partnerıme partnerime
 partnerımle partnerimle
 partnerlerın partnerlerin
 partnerr partner
-partners partner
 partnersız partnersiz
 partnet partner
 partükul partikül
@@ -107805,7 +106959,6 @@ paslanmis paslanmış
 paslanmisti paslanmıştı
 paslanmıs paslanmış
 paslanmıstı paslanmıştı
-paslas paslaş
 paslas paspas
 pasli paslı
 pasliydi paslıydı
@@ -107904,10 +107057,8 @@ pate paten
 pateb paten
 patee paten
 pateküllü partiküllü
-patel pastel
 patencı patenci
 patencılerı patencileri
-patenı paten
 patenı pateni
 patenl paten
 patenlerien patenlerin
@@ -107946,7 +107097,6 @@ patner partner
 patolon pantolon
 patos patoz
 patosu patoz
-patricio Patricia
 patriots Patriot
 patrn paten
 patrni paten
@@ -108041,12 +107191,10 @@ paylaşyıorum paylaşıyorum
 paylonço palyaço
 paynir peynir
 payzajı peyzajı
-paz pazar
 pazarci pazarcı
 pazarcik pazarcık
 pazarcuk pazarcık
 pazardakı pazardaki
-pazari pazar
 pazari pazarı
 pazarim pazarım
 pazarındakı pazarındaki
@@ -108747,7 +107895,6 @@ peryodik periyodik
 perzoneli personeli
 pesepsiyon resepsiyon
 pesik beşik
-pesin peşin
 pesinde peşinde
 pesindeler peşindeler
 pesinden peşinden
@@ -108840,7 +107987,6 @@ peynırde peynirde
 peynırden peynirden
 peynırdı peynirdi
 peynıre peynire
-peynırı peynir
 peynırı peyniri
 peynırımden peynirimden
 peynırımız peynirimiz
@@ -109077,7 +108223,6 @@ piyanolı piyanolu
 piyer Pierre
 piyonalı piyanolu
 piyrr Pierre
-piza pizza
 pizacı pizzacı
 pizz pizza
 pizzaci pizzacı
@@ -109159,7 +108304,6 @@ pıkış çıkış
 pıknığe pikniğe
 pıknık piknik
 pıknıktekı piknikteki
-pıl pil
 pıl pul
 pılaj plaj
 pılajı plaj
@@ -109750,7 +108894,6 @@ plakalr plakalar
 plakasi plakası
 plaketlerını plaketlerini
 plakja plakaya
-plaklaı plakalı
 plaklaı plakayı
 plaklari plakları
 plakli plaklı
@@ -109836,7 +108979,6 @@ platınuma Platinum'a
 platınumu Platinum'u
 platuryum planetaryum
 plav pilav
-play olay
 playa plakaya
 plbarış barış
 pldukça oldukça
@@ -109854,7 +108996,6 @@ plkaalı plakalı
 plkaayı plakayı
 plkalaı plakayı
 plkalar plakalar
-plkalı plaka
 plkalı plakalı
 plkası plakası
 plkasından plakasından
@@ -109935,8 +109076,6 @@ poıntten Point'ten
 pokerlı pokerli
 pokliçe poliçe
 pokliçesi poliçesi
-pol Polat
-pola polo
 polama Paloma
 polanya Polonya
 polastik plastik
@@ -109956,7 +109095,6 @@ polçeniz poliçeniz
 polçesi poliçesi
 polçesinde poliçesinde
 polçesine poliçesine
-polçesini poliçeni
 polçesini poliçesini
 polcesinin poliçesinin
 polcesıne poliçesine
@@ -110130,7 +109268,6 @@ policesindeki poliçesindeki
 poliçeşindeli poliçesindeki
 policesine poliçesine
 policesini poliçesini
-poliçesinie poliçesine
 poliçesinie poliçesini
 policesinin poliçesinin
 poliçesinini poliçesinin
@@ -110168,7 +109305,6 @@ poliçete poliçeye
 poliçeti poliçesi
 poliçeuyi poliçeyi
 poliçew poliçeye
-poliçey poliçeye
 poliçey poliçeyi
 poliçeya poliçeye
 policeye poliçeye
@@ -110458,7 +109594,6 @@ porselenmış porselenmiş
 porselern porselen
 porseln porselen
 porselon porselen
-porsenel personel
 porsenel porselen
 porsıyon porsiyon
 porsıyonda porsiyonda
@@ -110545,10 +109680,8 @@ poseıdon Poseidon
 poselen porselen
 poşert poşet
 poset poşet
-poseti poşet
 pöşeti poşet
 poseti poşeti
-poşetı poşet
 posetı poşeti
 poşetı poşeti
 poşetım poşetim
@@ -110599,7 +109732,6 @@ postanesı postanesi
 postcılar postacılar
 poste posta
 posteei poster
-postel poster
 posterı poster
 postet poster
 postij postiş
@@ -110886,7 +110018,6 @@ prız priz
 prızde prizde
 prızden prizden
 prızdeydı prizdeydi
-prıze priz
 prıze prize
 prızı prizi
 prızımın prizimin
@@ -111116,9 +110247,7 @@ proğram program
 proğrama programa
 programcilik programcılık
 programdakı programdaki
-programi program
 programi programı
-proğramı program
 proğramı programı
 proğramımı programımı
 programımızdakı programımızdaki
@@ -111354,7 +110483,6 @@ pumq puma
 pums puma
 pumto punto
 pun puan
-puna puan
 puna puma
 punalama puanlama
 pure püre
@@ -111382,7 +110510,6 @@ pürüzlerı pürüzleri
 pürüzlerımız pürüzlerimiz
 pürvüz pürmüz
 puse puset
-pusetı puset
 pusetı puseti
 pusetımı pusetimi
 pusetımız pusetimiz
@@ -111530,10 +110657,8 @@ radyötörü radyatör
 rafans referans
 rafdyatör radyatör
 raff raf
-rafi raf
 rafiği trafiği
 rafii raf
-rafik trafik
 rafıü raf
 raflari rafları
 raflatı rafları
@@ -111641,7 +110766,6 @@ raıd Raid
 rajat rahat
 rajkamda rakamda
 rajon racon
-raka rakam
 raka rakama
 rakakma rakama
 rakamaı rakama
@@ -111660,8 +110784,6 @@ raketlerımı raketlerimi
 raketlerın raketlerin
 raketlerıyle raketleriyle
 rakettı raketti
-raki rakı
-rakim rakip
 rakim rakım
 rakinin rakının
 rakıbı rakibi
@@ -111769,7 +110891,6 @@ rayli raylı
 rayn Ryan
 rayo radyo
 rays ray
-razi razı
 rcia rica
 rçok çok
 rdımcı yardımcı
@@ -111906,7 +111027,6 @@ refansın referansın
 refansını referansını
 refarans referans
 refaransı referansı
-refaransını referansı
 refaransını referansını
 refaransla referansla
 refarns referans
@@ -111935,7 +111055,6 @@ refernasa referansa
 refernasını referansını
 referns referans
 refernsa referansa
-refi refik
 refieks refleks
 refı refik
 refık refik
@@ -112172,7 +111291,6 @@ rekington Remington
 reklamci reklamcı
 reklamcilik reklamcılık
 reklamdakı reklamdaki
-reklami reklam
 reklami reklamı
 reklamini reklamını
 reklamındakı reklamındaki
@@ -112239,7 +111357,6 @@ reng renk
 rengarenktı rengarenkti
 rengarrenk rengarenk
 renği renk
-rengı rengi
 rengı renk
 rengın rengin
 rengınde renginde
@@ -112310,9 +111427,7 @@ rerefans referans
 reremington Remington
 rernkli renkli
 res resepsiyon
-reşad Reşat
 resapsiyon resepsiyon
-resat Reşat
 resbih tespih
 reseosiyon resepsiyon
 resepcion resepsiyon
@@ -112549,7 +111664,6 @@ restaurandakıler restorandakiler
 restauranındakı restoranındaki
 restauranlar restoranlar
 restauranlardakı restoranlardaki
-restaurant restoran
 restauranta restorana
 restaurantakı restorandaki
 restaurantda restoranda
@@ -112685,7 +111799,6 @@ revanısı revanisi
 revervasyon rezervasyon
 revie revize
 reviz revize
-revizee revize
 revizee revizeye
 revır revir
 revırde revirde
@@ -112699,9 +111812,7 @@ revırlere revirlere
 revıze revize
 revızeden revizeden
 revızeler revizeler
-revızesı revize
 revızesı revizesi
-revızesını revize
 revızesını revizesini
 revızeye revizeye
 revızyon revizyon
@@ -112878,14 +111989,12 @@ ricado Ricardo
 ricae rica
 ricamiz ricamız
 ricas ricası
-riccardo Ricardo
 rice rica
 riçin için
 ricsaıyla ricasıyla
 ricva rica
 ricxa rica
 ridvan Rıdvan
-rifat Rıfat
 rifki Rıfkı
 rifkin Rıfkı
 rifleks refleks
@@ -113117,7 +112226,6 @@ romatızması romatizması
 romaya Roma'ya
 romayı Roma'yı
 romdakı romdaki
-romer römork
 romerk römork
 römerklu römorklu
 romington Remington
@@ -113255,7 +112363,6 @@ ruhı ruhi
 ruhsaata ruhsata
 ruhsaatta ruhsatta
 ruhsalarını ruhsatlarını
-ruhsar ruhsat
 ruhsat'a ruhsata
 ruhsat’a ruhsata
 ruhsataki ruhsattaki
@@ -113268,7 +112375,6 @@ ruhsattakı ruhsattaki
 ruhsattki ruhsattaki
 ruhsatu ruhsatlı
 ruhst ruhsat
-ruhsta ruhsat
 ruhsta ruhsata
 ruhstaalr ruhsatlar
 ruhstaı ruhsatı
@@ -113297,7 +112403,6 @@ rulp rulo
 rulşosu rulosu
 rumdakı Room'daki
 rumelı Rumeli
-rumeysa Rümeysa
 rumı rumi
 rumörk römork
 rumörkü römork
@@ -113439,12 +112544,10 @@ rüzgarlıö rüzgarlık
 rüzgarlıydi rüzgarlıydı
 ruzgarlıydı rüzgarlıydı
 rüzgarlk rüzgarlık
-ruzgarsiz rüzgarlık
 ruzgarsiz rüzgarsız
 rüzgazlığı rüzgarlık
 rüzgazlık rüzgarlık
 ruzgyarlik rüzgarlık
-rvize revize
 rvize vize
 rwbkli renkli
 ryhsat ruhsat
@@ -113492,7 +112595,6 @@ saatiğ saati
 saatii saati
 saatileri saatleri
 saatindr saatinde
-saatı saat
 saatı saati
 saatılık satılık
 saatım saatim
@@ -113594,7 +112696,6 @@ saatsu saati
 saattedır saattedir
 saattekı saatteki
 saatteydı saatteydi
-saattı saati
 saattı saatti
 saattıır saattir
 saattın saattin
@@ -113630,7 +112731,6 @@ sabh sabah
 sabha sabaha
 sabihi sahibi
 sabihinden sahibinden
-sabir sabır
 sabirla sabırla
 sabirli sabırlı
 sabirsiz sabırsız
@@ -113778,7 +112878,6 @@ sadettın saadettin
 sadeve sadece
 sadexe sadece
 sadeydı sadeydi
-sadir sedir
 sadirvan şadırvan
 sadı Şadi
 şadı Şadi
@@ -113799,7 +112898,6 @@ safada Safa
 safadaydı Safa
 şafaf şeffaf
 safaga şafak
-safak şafak
 safarı safari
 safarıde safaride
 safarıden safariden
@@ -113839,8 +112937,6 @@ saftsiz şaftsız
 sag sağ
 şağ sağ
 sağ- sağ
-saga sağ
-saga sağa
 saganak sağanak
 sagatii saati
 sagda sağda
@@ -114097,7 +113193,6 @@ saglmak sağlamak
 sağlmanızı sağlamanızı
 sagma sağma
 sagmaydı sağmaydı
-sağnak sağanak
 saguk soğuk
 sağuk soğuk
 sagyılarımla saygılarımla
@@ -114131,7 +113226,6 @@ sahde sahte
 sahhaf sahaf
 sahhaflar sahaf
 sahhaflık sahaflık
-sahib sahip
 şahibe şaibe
 sahibleri sahipleri
 sahibminin sahibimin
@@ -114333,7 +113427,6 @@ sahır Sahir
 sahıs şahıs
 sahış şahıs
 şahış şahıs
-şahıs'ın şahısın
 şahıs'ın şahsın
 şahıs’a şahsa
 şahısa şahsa
@@ -114402,7 +113495,6 @@ saigortalı sigortalı
 saiko Seiko
 şaime Saime
 saints Saint
-sair şair
 şait Sait
 saıbelı şaibeli
 şaıbelı şaibeli
@@ -114413,7 +113505,6 @@ saınts Saint
 saır şair
 şaırımız şairimiz
 şaırler şairler
-saış şahıs
 saış satış
 saışı satışı
 saıştan satıştan
@@ -114681,7 +113772,6 @@ salteri şalter
 şalterınde şalterinde
 şalterlerı şalterleri
 salterli şalterli
-saltık satılık
 saltore Salvatore
 şaluma şaloma
 şalümo şaloma
@@ -114829,7 +113919,6 @@ sampuam şampuan
 sampuan şampuan
 sampuani şampuan
 şampuani şampuan
-sampuanı şampuan
 sampuanı şampuanı
 sampuanımız şampuanımız
 sampuanını şampuanını
@@ -114859,14 +113948,12 @@ samt Samet
 samurayi samuray
 şamyel şambrel
 şamyeli şambrel
-sanaatkarlar sanatkarlar
 sanaatkarlar zanaatkarlar
 sanaayi sanayi
 sanadalyesi sandalyesi
 sanah sabah
 sanai sanayi
 şanak sanat
-şanal sanal
 sanalet sandalet
 sanalye sandalye
 sanalyesi sandalye
@@ -114884,8 +113971,6 @@ sanatkalar sanatkarlar
 sanatlari sanatları
 sanatli sanatlı
 sanatş sanat
-sanay sanat
-sanay sanayi
 sanaya sanayi
 sanayi-i sanayi
 sanayii sanayi
@@ -114987,7 +114072,6 @@ sandayyesi sandalyesi
 sanddalet sandalet
 sande sandalye
 sandekye sandalye
-sandel sandal
 sandel sandalye
 sandelat sandalet
 sandelent sandalet
@@ -115003,7 +114087,6 @@ sandelyedo sandalyesi
 sandelyeler sandalyeler
 sandelyeleri sandalyeleri
 sandelyesi sandalyesi
-sandelyesı sandalye
 sandelyesı sandalyesi
 sanderas Andreas
 sandeviç sandviç
@@ -115154,7 +114237,6 @@ sansur sansür
 sansurlu sansürlü
 sant sanat
 sant-agata sanat
-santa sanat
 santalye sandalye
 şantaş şantaj
 santel dantel
@@ -115211,7 +114293,6 @@ santrofiş santrifüj
 sanuçlanmıştır sonuçlanmıştır
 sanuel Samuel
 şanvar şalvar
-sanver Şanver
 sanziman şanzıman
 şanziman şanzıman
 sanzimanli şanzımanlı
@@ -115270,7 +114351,6 @@ saptirici saptırıcı
 sapuan şampuan
 şapuan şampuan
 saqtış satış
-şara sara
 sarab şarap
 şarab şarap
 sarabi şarap
@@ -115282,7 +114362,6 @@ sarach saraç
 sarachane saraçhane
 saracli saraçlı
 saracoglu Saraçoğlu
-saracoğlu Saraçoğlu
 saraçoğulu Saraçoğlu
 sarahya saray
 saramıştı sararmıştı
@@ -115389,13 +114468,11 @@ sarımsağı sarımsak
 sarımsaklıdakı Sarımsaklı'daki
 sarışdan Sarış'tan
 sarısī sarısı
-sarız sarı
 sarj şarj
 şaŕj şarj
 sarja şarja
 sarji şarj
 şarji şarj
-sarjı şarj
 sarjı şarjı
 sarjım şarjım
 sarjımı şarjımı
@@ -115486,9 +114563,7 @@ sarsilmaz sarsılmaz
 sarsinti sarsıntı
 sarsılabıldığı sarsılabildiği
 sarsli şarjlı
-sart şart
 şartalara şartlara
-şartalarda şartlarda
 şartalarda şatlarda
 şartalrı şartları
 şartarda şartlarda
@@ -115502,7 +114577,6 @@ sartımızı şartımızı
 sartından şartından
 sartıyla şartıyla
 sartla şartla
-şartlala şartlarda
 şartlala şartlarla
 sartlandir şartlandır
 sartlanıp şartlanıp
@@ -115540,7 +114614,6 @@ sartlı şartlı
 şarttakı şarttaki
 sarttı şarttı
 şartylarda şartlarda
-saru sarı
 saruk sarık
 sarumluluk sorumluluk
 sarun sarı
@@ -115552,7 +114625,6 @@ sarz şarj
 sarzi şarj
 sarzil şarjlı
 sarzı şarj
-şarzı şarj
 şarzı şarjı
 şarzılı şarjlı
 şarzkı şarjlı
@@ -115571,17 +114643,11 @@ sase şase
 saşe şase
 şaşe şase
 şashe şase
-sasi şase
-saşi şase
-şaşi şase
 sasi şasi
 saşi şasi
 şaşi şasi
-sasi şaşı
 sasir şaşır
 sasirt şaşırt
-şası şase
-şası şasi
 şası şaşı
 sasık sadık
 saşıncak salıncak
@@ -115606,7 +114672,6 @@ sasırtıcı şaşırtıcı
 sasırttı şaşırttı
 şasırttı şaşırttı
 şaşırtttı şaşırttı
-şasıyı şaseyi
 şasıyı şasiyi
 saskin şaşkın
 saskın şaşkın
@@ -115621,7 +114686,6 @@ saşmaydı şaşmaydı
 sasmaz şaşmaz
 sasmazdı şaşmazdı
 sasörlü sensörlü
-şasş şase
 şasş şasi
 sast saat
 sasti saat
@@ -115709,7 +114773,6 @@ satılmışttır satılmıştır
 satılmöıştır satılmıştır
 satılş satış
 satıltan satılan
-satımış satılmış
 satımış satılmıyor
 satıs satış
 şatış satış
@@ -115776,7 +114839,6 @@ satmıstık satmıştık
 satmıstır satmıştır
 satndart standart
 satndartlarında standartlarında
-sato şato
 satoşatn satıştan
 satoştan satıştan
 satosu şatosu
@@ -115870,7 +114932,6 @@ sayacli sayaçlı
 sayahat seyahat
 sayamadigim sayamadığım
 sayamadim sayamadım
-şayan sayan
 sayasinde sayesinde
 sayayim sayayım
 saydıgım saydığım
@@ -116131,7 +115192,6 @@ sebebız sebebiz
 sebeble sebeple
 sebebler sebepler
 sebeblerden sebeplerden
-sebebleri sebep
 sebebleri sebepleri
 sebeblerinden sebeplerinden
 sebeblerine sebeplerine
@@ -116197,10 +115257,8 @@ sebıl sebil
 sebılde sebilde
 sebıldekı sebildeki
 sebılden sebilden
-sebıle sebil
 sebıle sebile
 sebıli sebil
-sebılı sebil
 sebılı sebili
 sebılın sebilin
 sebılınden sebilinden
@@ -116242,14 +115300,12 @@ sebzeydı sebzeydi
 sebzeyı sebzeyi
 sebzeyleydı sebzeyleydi
 sebzi sebze
-sec seç
 şeç seç
 secaattin şecaattin
 seccad seccade
 seccadelerı seccadeleri
 seccadenın seccadenin
 seccadi seccade
-seccadiye seccade
 seccadiye seccadeye
 seccadiyede seccade
 seccat seccade
@@ -116260,7 +115316,6 @@ secdda seccade
 secddasesli seccadeli
 secebilir seçebilir
 secebilirim seçebilirim
-seçebilirisniz seçebilirisiniz
 seçebilirisniz seçebilirsiniz
 secebilirsiniz seçebilirsiniz
 seçebilirz seçebiliriz
@@ -116373,12 +115428,10 @@ seçemıyoruz seçemiyoruz
 secen seçen
 secene seçene
 seçenecek seçenek
-seceneği seçeceği
 secenegi seçeneği
 seceneği seçeneği
 seçenegi seçeneği
 şeçeneği seçeneği
-secenegi seçenek
 secenegim seçeneğim
 secenegimiz seçeneğimiz
 seceneğinden seçeneğinden
@@ -117029,7 +116082,6 @@ seferımızde seferimizde
 seferımıze seferimize
 seferın seferin
 seferınce seferince
-seferınde seferinde
 seferınde seferine
 seferındekı seferindeki
 seferınden seferinden
@@ -117066,7 +116118,6 @@ sefermıs sefermiş
 seffa şeffaf
 şeffa şeffaf
 seffaf şeffaf
-seffah şeffaf
 şeffah şeffaf
 seffaj şeffaf
 şeffak şeffaf
@@ -117074,14 +116125,12 @@ seffaj şeffaf
 seffat şeffaf
 seffef şeffaf
 şefffaf şeffaf
-sefi şef
 sefi şefi
 sefik şefik
 sefim şefim
 sefimize şefimize
 sefin şefin
 sefini şefini
-sefı şef
 sefı şefi
 şefı şefi
 şefık şefik
@@ -117179,8 +116228,6 @@ segemet segment
 şeghir şehir
 seğil değil
 segiledi sergiledi
-segmen segman
-segmen seğmen
 segmen segment
 seğment segment
 segmentı segmenti
@@ -117200,7 +116247,6 @@ segmetn segmentin
 segpa sehpa
 segrek seyrek
 seğrek seyrek
-seha sehpa
 sehadetname şehadetname
 sehapsı sehpası
 sehayat seyahat
@@ -117288,7 +116334,6 @@ sehıt şehit
 şehıtlerle şehitlerle
 şehıtlık şehitlik
 sehıtlıklere şehitliklere
-sehl Shell
 sehll Shell
 sehna sehpa
 sehnasi sehpası
@@ -117309,11 +116354,9 @@ sehr şehir
 şehr şehir
 sehrazat Şehrazat
 sehre şehre
-sehri şehir
 sehri şehri
 sehriban Şehriban
 şehribana Şehriban
-sehrin şehir
 sehrin şehrin
 sehrine şehrine
 sehrı şehri
@@ -117379,8 +116422,6 @@ sekerbare şekerpare
 sekerdı sekerdi
 şekerdı şekerdi
 şekerdıler şekerdiler
-sekerı şeker
-şekerı şeker
 sekerı şekeri
 şekerı şekeri
 şekerım şekerim
@@ -117428,9 +116469,7 @@ sekersiz şekersiz
 şekikde şekilde
 şekiklde şekilde
 şekild şekilde
-şekildei şekilde
 şekildei şekildeki
-şekilder şekilde
 şekilder şekildedir
 sekildeymis şekildeymiş
 sekildr şekilde
@@ -117448,7 +116487,6 @@ sekillendirci şekillendirici
 şekilller şekil
 sekillndirici şekillendirici
 şekilnde şeklinde
-şekip şekilli
 sekir şehir
 sekis sekiz
 sekı seki
@@ -117538,7 +116576,6 @@ sekızlıktı sekizlikti
 şekjlinde şeklinde
 şekl şekil
 şeklde şekilde
-sekli şekil
 sekli şekli
 şeklilde şekilde
 seklimde şeklimde
@@ -117641,8 +116678,6 @@ sektorune sektörüne
 sekx seks
 selaattin Selahattin
 selaattın Selahattin
-selah sela
-selahaddin Selahattin
 selahattın Selahattin
 selale şelale
 selalede şelalede
@@ -117665,19 +116700,16 @@ selamli selamlı
 selanığe Selanik'e
 selanık Selanik
 selavat salavat
-selcen Selcan
 selçok Selçuk
 selçuğa Selçuk'a
 selcuk Selçuk
 selcuklu selçuklu
 selçuktaki Selçuk'taki
-seldağ Selda
 selektor selektör
 selektorlu selektörlü
 selenai Selena
 selenia Selena
 selens selen
-şeler şeker
 şeler şeyler
 şeleri şeker
 seles sele
@@ -117686,7 +116718,6 @@ selhattin Selahattin
 şelikde şekilde
 şelilde şekilde
 selilut selülit
-selimiye Selimiye'ye
 selimiyede Selimiye'de
 selimiyenin Selimiye'nin
 selimiyeye Selimiye'ye
@@ -117886,10 +116917,8 @@ semver semaver
 senaoru sensör
 şenar Senar
 senator senatör
-senay Şenay
 senayinin sanayi
 senbol sembol
-sencan Şencan
 sencıydı şenciydi
 sendalyesi sandalyesi
 sendedır sendedir
@@ -117957,7 +116986,6 @@ senemız senemiz
 senemızde senemizde
 senemızdı senemizdi
 senenın senenin
-sener Şener
 senesı senesi
 senesınde senesinde
 senesındekı senesindeki
@@ -118001,9 +117029,7 @@ senlık senlik
 şenlıklerı şenlikleri
 şenlıklerle şenliklerle
 şenlıktı şenlikti
-senn sen
 senn senin
-senol Şenol
 senörlü sensörlü
 senpa sehpa
 sensa sense
@@ -118077,7 +117103,6 @@ seper sepet
 seperator seperatör
 seperi sepet
 sepeten sebepten
-sepetı sepet
 sepetı sepeti
 sepetımı sepetimi
 sepetımız sepetimiz
@@ -118149,7 +117174,6 @@ serbestsınız serbestsiniz
 serbesttı serbestti
 serbesttık serbesttik
 serbesttır serbesttir
-serbet serbest
 serbet şerbet
 serbetci şerbetçi
 serbeti şerbet
@@ -118281,12 +117305,10 @@ sergısı sergisi
 sergıye sergiye
 serguzest sergüzeşt
 serh şerh
-şeria şeriat
 seriat şeriat
 şeriati şeriat
 serid şerit
 şerid şerit
-seridi şeridi
 seridi şerit
 seridinde şeridinde
 şeriete şeriat
@@ -118297,7 +117319,6 @@ serilmisti serilmişti
 serina Serena
 serinletic serinletici
 serinligini serinliğini
-seris seri
 seris servis
 serisi-1 seri
 serisi-2 seri
@@ -118308,10 +117329,10 @@ serisi-6 seri
 serisi-8 seri
 serisi-orta seri
 serisi1 seri
-serisi12 seri
-serisi13 seri
 serisi5 seri
 serisi9 seri
+serisi12 seri
+serisi13 seri
 serit şerit
 şerited şerit
 seriti şerit
@@ -118436,9 +117457,7 @@ serınlıyorsunuz serinliyorsunuz
 serınmıs serinmiş
 serınse serinse
 serıp serip
-serıs seri
 serıs seriş
-serısı serisi
 serısı serişi
 serısınde serişinde
 serısınden serisinden
@@ -118482,7 +117501,6 @@ sermedıler sermediler
 sermelerı sermeleri
 sermemışler sermemişler
 şermet Sermet
-sermin Şermin
 sermini Şermin
 sermın Şermin
 şermın Şermin
@@ -118531,7 +117549,6 @@ sersiv servis
 sersivisi servisi
 şerşt şerit
 şert sert
-sertab sertap
 sertac Sertaç
 sertce sertçe
 sertif sertifika
@@ -118586,7 +117603,6 @@ servisde serviste
 servisden servisten
 servisdi servisti
 serviside servisi
-servisis servis
 servisis servisi
 servisleirnde servislerinde
 servismis servismiş
@@ -118731,7 +117747,6 @@ sesisz sessiz
 şeşitleri çeşitleri
 sesizce sessizce
 sesizlik sessizlik
-sesı ses
 sesı sesi
 sesım sesim
 sesımde sesimde
@@ -118864,14 +117879,12 @@ setat Sedat
 setd set
 setehat seyahat
 seten saten
-şeti set
 şeti şeyi
 seti- seti
 setib seti
 setid seti
 setii seti
 setiw seti
-setı set
 setı seti
 setıl seti
 setın setin
@@ -119051,7 +118064,6 @@ sevigisi sevgi
 sevinc sevinç
 sevindj sev
 sevinli sevimli
-sevis servis
 sevis seviş
 sevisleri servisleri
 sevislerinde servislerinde
@@ -119435,7 +118447,6 @@ seyahtimizi seyahatimizi
 seyahtlerimde seyahatlerimde
 seyar seyyar
 seyatine seyahatine
-seyda Şeyda
 seyde şeyde
 seyden şeyden
 şeydenız şeydeniz
@@ -119446,7 +118457,6 @@ seydır şeydir
 şeydır şeydir
 seye şeye
 şeyeden şeyden
-seyehat seyahat
 seyehata seyahate
 seyehate seyahate
 seyehati seyahati
@@ -119500,7 +118510,6 @@ seyhatimde seyahatimde
 seyhatnamesinden seyahatnamesinden
 şeyhtanın şeytan
 seyhulislam şeyhülislam
-seyi şey
 seyi şeyi
 seyim şeyim
 seyin şeyin
@@ -119719,7 +118728,6 @@ seyyidinnas Seyyid
 şeyzlong şezlong
 şeyzlonglarda şezlonglarda
 sezaı Sezai
-sezal Sezai
 sezarin Sezar'ın
 sezayi Sezai
 sezdık sezdik
@@ -119799,7 +118807,6 @@ sezlongta şezlong
 şezlongtaki şezlongdaki
 şezlongtan şezlong
 sezlongtan şezlongdan
-sezlongu şezlong
 sezlongu şezlongu
 sezlongumdan şezlongumdan
 sezlongumuz şezlongumuz
@@ -119928,7 +118935,6 @@ sibob sibop
 sibobp sibop
 sibobu sibop
 siboup sibop
-sic sicil
 sic sıç
 sicagindan sıcağından
 sicak sıcak
@@ -119947,7 +118953,6 @@ sicakta sıcakta
 sicaktan sıcaktan
 sicakti sıcaktı
 sican sıçan
-şiçin için
 şiçin sicilin
 sicker sticker
 sicli sicili
@@ -120005,8 +119010,6 @@ sifrenin şifrenin
 sifresi şifresi
 sifresini şifresini
 şifrili şifreli
-sig sigorta
-siğ sigorta
 sig sığ
 sigabildigi sığabildiği
 sigacik sığacık
@@ -120049,7 +119052,6 @@ sigoratlıdan sigortalıdan
 sigoratlınını sigortalının
 sigoratsına sigortasına
 sigoratsını sigortasını
-sigorlatılımıza sigortalılarımıza
 sigorlatılımıza sigortalımıza
 sigorlı sigortalı
 sigorralımız sigortalımız
@@ -120062,7 +119064,6 @@ sigortacini sigortacını
 sigortadann sigortadan
 sigortafan sigortadan
 sigortaılımız sigortalımız
-sigortaımız sigortalımız
 sigortaımız sigortamız
 sigortal sigortalı
 sigortalamız sigortalımız
@@ -120156,7 +119157,6 @@ siin sizin
 siinerji sinerji
 siir şiir
 şiiraze şiraze
-siiri şiir
 şiirk şiir
 şiirket şirket
 siirler şiirler
@@ -120182,7 +119182,6 @@ sikara sigara
 şikayelerimi şikayetlerimi
 şikayelerimizi şikayetlerimizi
 şikayer şikayet
-sikayet şikayet
 sikayetci şikayetçi
 şikayetci şikayetçi
 sikayetciydi şikayetçiydi
@@ -120230,7 +119229,6 @@ siket şikayet
 şiketimiz şirketimiz
 şiketinden şirketinden
 şikeyet şikayet
-siki sik
 siki sıkı
 sikikon silikon
 sikilabilir sıkılabilir
@@ -120305,7 +119303,6 @@ sileyman Süleyman
 silgec silecek
 silgeci silecek
 silhı silgi
-şili şişli
 silicat silikat
 silicek silecek
 silience silence
@@ -120395,7 +119392,6 @@ sinaklik sineklik
 sinama sinema
 sinamaye sinema
 sinasi Şinasi
-sinav sınav
 sinav şınav
 şinav şınav
 sinavi sınav
@@ -120459,7 +119455,6 @@ sipah sipahi
 siparim sipariş
 siparis sipariş
 şipariş sipariş
-siparisi sipariş
 siparisi siparişi
 siparisim siparişim
 şiparişimi siparişimi
@@ -120504,11 +119499,7 @@ sipsak şipşak
 sipşak şipşak
 şipşak-s şipşak
 sipsevdi şıpsevdi
-şir şiir
-şir şirket
-sira sıra
 sira şıra
-sirac Siraç
 sirada sırada
 siradan sıradan
 siradandi sıradandı
@@ -120556,9 +119547,7 @@ sirketeki şirketteki
 şirketemizden şirketimizden
 şirketemizdir şirketimizdir
 şirketen şirketin
-şirketeni şirketini
 şirketeni şirketinin
-şirketenı şirketini
 şirketenı şirketinin
 sirketi şirketi
 şirketi’nin şirketinin
@@ -120572,7 +119561,6 @@ sirketine şirketine
 sirketinin şirketinin
 şirketın şirketin
 şirketıne şirketine
-şirketının şirketine
 şirketının şirketinin
 şirketlede şirketlerde
 sirketler şirketler
@@ -120878,7 +119866,6 @@ sitresten stresten
 sitrett Street
 sitseme sisteme
 sittil stil
-siva sıva
 sivaci sıvacı
 sivama sıvama
 sivasli sivaslı
@@ -120901,7 +119888,6 @@ siyahl siyah
 siyahlasmis siyahlaşmış
 siyaj siyah
 siyal sinyal
-siyami siyam
 siyanur siyanür
 siyasetiş siyaset
 siyash siyah
@@ -120948,7 +119934,6 @@ sıatı sıfatı
 sıbel Sibel
 sıbırya Sibirya
 sıca sıcak
-sıcaga sıcağa
 sıcaga sıcak
 sıcagı sıcağı
 sıcagın sıcağın
@@ -121177,7 +120162,6 @@ sıgmıyorum sığmıyorum
 sıgmıyoruz sığmıyoruz
 sıgorası sigortası
 sıgorta sigorta
-sıgorta'dan Sigorta'dan
 sıgorta'dan sigortadan
 sıgortada sigortada
 sıgortadakı sigortadaki
@@ -121224,7 +120208,6 @@ sıgortanızı sigortanızı
 sıgortanızın sigortanızın
 sıgortanızla sigortanızla
 sıgortası sigortası
-sıgortasına sigortasına
 sıgortasına sigortasında
 sıgortasında sigortasında
 sıgortasından sigortasından
@@ -121263,7 +120246,6 @@ sıkabılır sıkabilir
 sıkabılıyor sıkabiliyor
 sıkabılıyorlar sıkabiliyorlar
 sıkacagi sıkacak
-sıkacagı sıkacağı
 sıkacagı sıkacak
 sıkaçağı sıkacak
 sıkandal skandal
@@ -121638,7 +120620,6 @@ sılıcıye siliciye
 sılıfke Silifke
 sılık silik
 sılıkom silikonlu
-sılıkon silikon
 sılıkon silikonlu
 sılıkondan silikondan
 sılıkonla silikonla
@@ -121758,7 +120739,6 @@ sımge simge
 sımgesı simgesi
 sımgesının simgesinin
 sımgeydı simgeydi
-sımı sim
 sımı simi
 sımıdı simidi
 sımını simini
@@ -121890,7 +120870,6 @@ sıngapurdakı singapurdaki
 sıngapurdan singapurdan
 şıngıraklı çıngıraklı
 sıngle single
-sını sini
 sını sınıf
 sınıfda sınıfta
 sınıfındakı sınıfındaki
@@ -122090,7 +121069,6 @@ sıpor spor
 sıportif sportif
 sıpot spot
 sıprey sprey
-sıpreyi sprey
 sıpreyi spreyi
 sıraaısnda sırasında
 sıradakı sıradaki
@@ -122272,7 +121250,6 @@ sırtlığı sırtlık
 sıs sis
 sışarıda dışarıda
 sısdırmaz sızdırmaz
-sıse sise
 sıse şişe
 sışe şişe
 şıse şişe
@@ -122322,7 +121299,6 @@ sısme şişme
 şışme sistem
 sıssız şişsiz
 sısstem sistem
-sıste siste
 sıste sistem
 sıstem sistem
 sıstematığe sistematiğe
@@ -122343,7 +121319,6 @@ sıstemdır sistemdir
 sısteme sisteme
 sıstemi sistem
 sıstemimizde sistemimizde
-sıstemı sistem
 sıstemı sistemi
 sıstemım sistemim
 sıstemımde sistemimde
@@ -122367,7 +121342,6 @@ sıstemınız sisteminiz
 sıstemınızde sisteminizde
 sıstemınızdekı sisteminizdeki
 sıstemınızden sisteminizden
-sıstemınıze sisteminizde
 sıstemınıze sisteminize
 sıstemınızı sisteminizi
 sıstemınızın sisteminizin
@@ -122524,7 +121498,6 @@ sıtres stres
 sıtrese stres
 sıtreslı stresli
 sıttın sittin
-sıvas Sivas
 şıve şive
 şıvelerı şiveleri
 şıvelerının şivelerinin
@@ -123014,7 +121987,6 @@ soğunu soğuğunu
 sogur soğur
 söğüşlendık söğüşlendik
 söğüşlerım söğüşlerim
-sogut soğut
 sogut söğüt
 soğutabıleceğım soğutabileceğim
 soğutabılecek soğutabilecek
@@ -123058,7 +122030,6 @@ soguttu soğuttu
 soguttular soğuttular
 soğutu soğuktu
 sogutu söğüt
-soğutu söğüt
 sogutuca soğutucu
 sogutucısı soğutucu
 sogutucu soğutucu
@@ -123155,7 +122126,6 @@ sokaği sokak
 sokagin sokağın
 sokagina sokağına
 sokaginda sokağında
-sokagı sokağı
 sokagı sokak
 sokagın sokağın
 sokagına sokağına
@@ -123255,7 +122225,6 @@ sölemişler söylemişler
 sölen şölen
 şolen şölen
 sölendi söylendi
-solendı şölendi
 sölendı şölendi
 solendı söylendi
 sölenecek söylenecek
@@ -123283,7 +122252,6 @@ solmus solmuş
 solmustu solmuştu
 solocan solucan
 solomom Salomon
-solomon Salomon
 solsuc solcu
 solüdyon solüsyon
 soluklanacagı soluklanacağı
@@ -123326,7 +122294,6 @@ sömınenın şöminenin
 şömınesız şöminesiz
 şömıneye şömineye
 şömıneyı şömineyi
-somn somon
 somn somun
 somoa Samoa
 somoda Sompo'da
@@ -123359,7 +122326,6 @@ sömurulmemelı sömürülmemeli
 sömürülmesıne sömürülmesine
 son4 son
 sonaki sonraki
-sonay Sunay
 sonbahardakı sonbahardaki
 sonçta sonuçta
 sond son
@@ -123574,7 +122540,6 @@ sormustu sormuştu
 sormustuk sormuştuk
 sormustum sormuştum
 sormuyolar sormuyorlar
-sorn sonra
 sorn sor
 sorna sonra
 sornada sonrada
@@ -123644,7 +122609,6 @@ sorumlulugundaysa sorumluluğundaysa
 sorumlulugunu sorumluluğunu
 sorumlumlusunun sorumlusunun
 sorumlunızdan sorumlunuzdan
-sorumlunudan sorumludan
 sorumlunudan sorumlunuzdan
 sorumlunuızdan sorumlunuzdan
 sorumlunz sorumlunuz
@@ -123652,7 +122616,6 @@ sorumlunzdan sorumlunuzdan
 sorumlunzudan sorumlunuzdan
 sorumlunzun sorumlunuz
 sorumluzdan sorumlunuzdan
-sorumluzudan sorumlumuzdan
 sorumluzudan sorumlunuzdan
 sorummlunuz sorumlumuzun
 sorumn sorun
@@ -123860,9 +122823,7 @@ soyledim söyledim
 söyledimde söylediğimde
 söyledindi söylendi
 soylediniz söylediniz
-söyledir söylediler
 söyledir şöyledir
-söyledirler söylediler
 söyledirler şöyledirler
 soyledı söyledi
 söyledı söyledi
@@ -124249,7 +123210,6 @@ soylendiginde söylendiğinde
 soylendikten söylendikten
 soylendı söylendi
 söylendı söylendi
-soylendı söylendir
 soylendıgı söylendiği
 söylendıgı söylendiği
 söylendığı söylendiği
@@ -124760,7 +123720,6 @@ sözlesmesıne sözleşmesine
 sözleşmesıne sözleşmesine
 sozlesmesını sözleşmesini
 sözleşmesını sözleşmesini
-sozlesmesını sözleşmesinin
 sozleşmesını sözleşmesinin
 sözleşmesının sözleşmesinin
 sözleşmeydı sözleşmeydi
@@ -124786,7 +123745,6 @@ sozlu sözlü
 sozluk sözlük
 sözluk sözlük
 sozon sezon
-sozu söz
 sozu sözü
 sözu sözü
 sozum sözüm
@@ -124872,7 +123830,6 @@ sprenter sprinter
 spret sprey
 spreti sprey
 spreu sprey
-spreyı sprey
 spreyı spreyi
 spreyımız spreyimiz
 spreyl sprey
@@ -124997,7 +123954,6 @@ stajyermış stajyermiş
 stak staj
 stanadart standart
 standar standart
-standard standart
 standardi standardı
 standardin standardın
 standardındakı standardındaki
@@ -125028,7 +123984,6 @@ standarttakı standarttaki
 standartti standarttı
 standat standart
 standattı standarttı
-standi stand
 standi standı
 standinda standında
 standinin standının
@@ -125047,7 +124002,6 @@ stantli standlı
 stanttakı stanttaki
 stantu stand
 starateji strateji
-starr star
 stars star
 starts start
 starz star
@@ -125334,7 +124288,6 @@ sucluyuz suçluyuz
 sucugu sucuğu
 sucuter scooter
 sudakı sudaki
-sudi Suudi
 südyem sütyen
 sudyen sütyen
 südyen sütyen
@@ -125343,7 +124296,6 @@ südyeni sütyen
 süekli sürekli
 suel Süel
 süeprdı süperdi
-süer süper
 süerkli sürekli
 suet süet
 sueter süveter
@@ -125359,7 +124311,6 @@ sugutucu soğutucu
 suha Süha
 şuheda şüheda
 suheyla Süheyla
-suikastci suikastçi
 suikastci suikastçı
 suite süite
 suiti süiti
@@ -125443,7 +124394,6 @@ sultanahmete Sultanahmet
 sultane sultan
 sultans sultan
 sulten sultan
-sülü sulu
 sülüet siluet
 sülüeti siluet
 suluğ suluk
@@ -125458,7 +124408,6 @@ sulupu suluğu
 sulurge süpürge
 sulyk suluk
 sumbul sümbül
-sumer Sümer
 sümeri Sümer
 sumerler Sümerler
 sumeyra Sümeyra
@@ -125498,7 +124447,6 @@ sunabılmesı sunabilmesi
 sunacagını sunacağını
 sunacagız sunacağız
 sunaiblirsiniz sunabilirsiniz
-sunal sunulan
 sunarim sunarım
 sunariz sunarız
 sunca şunca
@@ -125853,7 +124801,6 @@ suratındakı suratındaki
 suratlari suratları
 suratle süratle
 süratlerı süratleri
-suratli süratli
 suratli suratlı
 suratliydi süratliydi
 süratlı süratli
@@ -125943,7 +124890,6 @@ süreçtekı süreçteki
 süreçtı süreçti
 süredee sürede
 süredekı süredeki
-suredır suredir
 suredır süredir
 süredır süredir
 sürehi sürahi
@@ -126154,7 +125100,6 @@ surü sürü
 surubu şurup
 şurubu şurup
 şuruby şurup
-suruc Suruç
 sürüc sürücü
 sürüceye sürücüye
 surucu sürücü
@@ -126394,12 +125339,10 @@ sutliyen sütyen
 sütluk sütlük
 sutor stor
 sutten sütten
-sutu süt
 sutu sütü
 sutudyo stüdyo
 sütüdyo stüdyo
 sutukir scooter
-sutun sütun
 sutun sütün
 sütüna sütuna
 sutunda sütunda
@@ -126430,7 +125373,6 @@ suyy su
 suz süz
 süzdan cüzdan
 suze size
-suzen süzen
 süzge süzgeç
 suzgec süzgeç
 süzgec süzgeç
@@ -126560,7 +125502,6 @@ tabancasi tabancası
 tabançasi tabancası
 tabançası tabancası
 tabancq tabanca
-tabani taban
 tabani tabanı
 tabaninda tabanında
 tabanındakı tabanındaki
@@ -126624,7 +125565,6 @@ tabket tablet
 tabki tabii
 tablali tablalı
 tablalĺ tablalı
-tablasi tabelası
 tablasi tablası
 tablat tabla
 tabldotlardakı tabldotlardaki
@@ -126683,7 +125623,6 @@ tac taç
 tacb taç
 tacettim Tacettin
 tacettın Tacettin
-taci taç
 taçi taç
 taçı taç
 tacızde tacizde
@@ -126702,7 +125641,6 @@ tacsan tavşan
 tacsiye tavsiye
 tacu taç
 tacx taç
-tad tat
 tadabıldık tadabildik
 tadabılelım tadabilelim
 tadabılır tadabilir
@@ -126818,7 +125756,6 @@ tahil tahıl
 tahilat tahsilat
 tahilli tahıllı
 tahilsiz tahılsız
-tahire Tahir
 tahiret taharet
 tahıllu tahıllı
 tahın tahin
@@ -126889,7 +125826,6 @@ tahsilattakı tahsilattaki
 tahsiletı tahsilatı
 tahsıatını tahsilatını
 tahsıl tahsil
-tahsılat tahsilat
 tahsılat tahsilattan
 tahsılatı tahsilatı
 tahsılatın tahsilatın
@@ -126931,7 +125867,6 @@ tahumu tohum
 tahüt taahhüt
 taihinde tarihinde
 taiınabilir taşınabilir
-tail tatil
 tailden tatilden
 taile tatile
 taili tatili
@@ -126977,12 +125912,9 @@ takdırlerımı takdirlerimi
 takdırlerle takdirlerle
 takdride takdirde
 takep talep
-taki takı
-takib takip
 takib takım
 takii takı
 takiki takım
-takil takip
 takil takıl
 takilabilen takılabilen
 takilan takılan
@@ -127027,7 +125959,6 @@ takit nakit
 takivim takvim
 takıbe takibe
 takıben takiben
-takıbı takibi
 takıbı takip
 takıbımızı takibimizi
 takıbımızın takibimizin
@@ -127063,7 +125994,6 @@ takılmadıgım takılmadığım
 takılmaktaıdr takılmaktadır
 takılmamıs takılmamış
 takılmamıstı takılmamıştı
-takılmıl takılmış
 takılmıl takımı
 takılmıs takılmış
 takılmıslar takılmışlar
@@ -127274,10 +126204,8 @@ taktırımızı taktirimizi
 taktırle taktirle
 taktırlerımı taktirlerimi
 taktırlerımızı taktirlerimizi
-taktor takdir
 taktor traktör
 takü takı
-takumi takım
 takuzu takoz
 takvım takvim
 takvıme takvime
@@ -127294,7 +126222,6 @@ takvıyeye takviyeye
 talabe talebe
 talabimize talebimize
 talara tala
-talas talaş
 talbet tablet
 talc talk
 tale talep
@@ -127322,7 +126249,6 @@ talebımın talebimin
 talebımız talebimiz
 talebımızde talebimizde
 talebımızdekı talebimizdeki
-talebımızden talebimizden
 talebımızden talebimizi
 talebımızdı talebimizdi
 talebımıze talebimize
@@ -127426,7 +126352,6 @@ tamamamen tamamen
 tamaman tamamen
 tamamdir tamamdır
 tamamem tamamen
-tamami tamam
 tamami tamamı
 tamamina tamamına
 tamaminin tamamının
@@ -127593,7 +126518,6 @@ taneymış taneymiş
 tangos tango
 tangramli tangramlı
 tanguc Tonguç
-tani tanı
 tani yani
 tanidiklari tanıdıkları
 tanidiklarima tanıdıklarıma
@@ -127602,7 +126526,6 @@ tanikligim tanıklığım
 taniklik tanıklık
 tanilama tanılama
 tanili tanılı
-tanilli tanılı
 tanim tanım
 tanimadik tanımadık
 tanimasi tanıması
@@ -127835,7 +126758,6 @@ tarafda taraf
 tarafdaki taraftaki
 tarafdan taraf
 tarafdayı taraftaydı
-tarafi taraf
 tarafi tarafı
 tarafida tarafında
 tarafiğe trafiğe
@@ -127954,7 +126876,6 @@ tarfikteyim trafikteyim
 tarfimizdan tarafımızdan
 tarfinden tarafından
 tarfı tarafı
-tarfık tarafı
 tarfık trafik
 tarfıma tarafıma
 tarfımıza tarafımıza
@@ -127969,7 +126890,6 @@ tarfosu trafosu
 tarfta tarafta
 tarftarli taraftarlı
 targi tarak
-tarhan tarhana
 tarhanasi tarhanası
 tarhi tarihi
 tarhiini tarihini
@@ -127999,7 +126919,6 @@ tariihten tarihten
 tarijhinde tarihinde
 taril tarih
 tarillerimi tatillerimi
-tarim tarım
 tarimsal tarımsal
 tarinde tarihinde
 tarıf tarif
@@ -128190,7 +127109,6 @@ tarts tart
 tartşma tartışma
 tarzdakı tarzdaki
 tarzdaydi tarzdaydı
-tarzi tarz
 tarzi tarzı
 tarzina tarzına
 tarzinda tarzında
@@ -128244,14 +127162,12 @@ tasfıye tasfiye
 tasfıyeyı tasfiyeyi
 tashan Taşhan
 tashinabilir taşınabilir
-tasi taş
 taşi taş
 tasi taşı
 tasilattan tahsilattan
 tasima taşıma
 taşima taşıma
 tasimacilik taşımacılık
-tasimak taşıma
 tasimak taşımak
 tasimali taşımalı
 tasimalik taşımalık
@@ -128300,7 +127216,6 @@ tasıdık taşıdık
 tasıdılar taşıdılar
 tasıdım taşıdım
 tasılatında tahsilatında
-taşımac taşımacı
 taşımac taşımacılık
 taşımacıık taşımacılık
 tasımacılığı taşımacılığı
@@ -128395,7 +127310,6 @@ tasıyorsunuz taşıyorsunuz
 tasıyorum taşıyorum
 taskama taşlama
 taskent Taşkent
-taski taşkın
 taski taşlı
 taskin taşkın
 taskiran taşkıran
@@ -128901,7 +127815,6 @@ tavul tavuk
 tavur tavır
 tavurları tavırları
 tavut tavuk
-tavuz havuz
 tavuz tavus
 tavye tavsiye
 tavziye tavsiye
@@ -128949,7 +127862,6 @@ tazelerdı tazelerdi
 tazelerı tazeleri
 tazeleydi tazeydi
 tazeleyın tazeleyin
-tazeligi tazeliği
 tazeligi tazelik
 tazelı tazeliği
 tazelığı tazeliği
@@ -129050,7 +127962,6 @@ techızatta teçhizatta
 tecidime tecridime
 tecidimize tecridimize
 tecih tercih
-tecit tecdit
 tecit tecrit
 tecitlere tecritlere
 tecitlerimiz tecritlerimiz
@@ -129402,7 +128313,6 @@ tekelleşmış tekelleşmiş
 tekelrlekli tekerlekli
 tekereği tekerlek
 tekerek tekerlek
-tekerı tekeri
 tekerı tekerlek
 tekerımız tekerimiz
 tekerımızı tekerimizi
@@ -129434,7 +128344,6 @@ tekerligi tekerleği
 tekerliği tekerleği
 tekerliğini tekerleğini
 tekerlikli tekerlekli
-tekerlı tekerlekli
 tekerlı tekerli
 tekerlık tekerlek
 tekerlıklı tekerlekli
@@ -129501,8 +128410,6 @@ tekkesıne tekkesine
 tekkif teklifi
 tekkifi teklifi
 tekkliifi teklifi
-tekl tek
-tekl teklif
 tekl teklifi
 teklefonla telefonla
 tekleği tekerlek
@@ -129511,17 +128418,14 @@ teklerdı teklerdi
 teklf teklif
 teklfde teklifte
 teklfe teklife
-teklfi teklif
 teklfi teklifi
 teklfif teklif
-teklfii teklif
 teklfii teklifi
 teklfiim teklifim
 teklfiimde teklifimde
 teklfiime teklifime
 teklfiimiz teklifimiz
 teklfiimize teklifimize
-teklfiin teklifin
 teklfiin teklifinin
 teklfiini teklifini
 teklfiinim teklifim
@@ -129540,7 +128444,6 @@ teklfinin teklifinin
 teklfinizi teklifinizi
 teklfinizin teklifinizin
 teklfite teklifte
-teklfı teklif
 teklfı teklifi
 teklfıe teklife
 teklfıı teklifi
@@ -129560,15 +128463,12 @@ teklifdedir tekliftedir
 teklifdeki teklifteki
 teklifden tekliften
 teklifdet tekliften
-teklifdir teklifidir
 teklifdir tekliftir
 teklifee teklife
 teklifete teklifte
 teklifib teklifin
-teklifide teklifinde
 teklifide teklifte
 teklifideki teklifteki
-teklifie teklife
 teklifie teklifine
 teklifiene teklifine
 teklififin teklifin
@@ -129631,7 +128531,6 @@ teklişf teklif
 teklişfini teklifini
 teklite teklifte
 teklı tekli
-teklıde teklide
 teklıde teklifte
 teklıf teklif
 teklıfde teklifte
@@ -129639,13 +128538,11 @@ teklıfdekı teklifteki
 teklıfdır tekliftir
 teklıfe teklife
 teklıfi teklifi
-teklıfı teklif
 teklıfı teklifi
 teklıfım teklifim
 teklıfımde teklifimde
 teklıfımden teklifimden
 teklıfıme teklifime
-teklıfımı teklifim
 teklıfımı teklifimi
 teklıfımın teklifimin
 teklıfımız teklifimiz
@@ -129661,7 +128558,6 @@ teklıfında teklifinde
 teklıfınde teklifinde
 teklıfındekı teklifindeki
 teklıfıne teklifine
-teklıfını teklifine
 teklıfını teklifini
 teklıfının teklifinin
 teklıfınız teklifiniz
@@ -130030,13 +128926,11 @@ telfona telefon
 telfonda telefonda
 telfonla telefon
 telfonlari telefonları
-telfonu telefon
 telfonu telefonu
 telifizyon televizyon
 teligi terlik
 teliği terlik
 telivizyon televizyon
-telı tel
 telı teli
 telıf telif
 telıfe telife
@@ -130101,7 +128995,6 @@ telzisi telsiz
 temal termal
 temali temalı
 temanti teması
-temasi temas
 temasi teması
 temasiz temassız
 temasıs temassız
@@ -130199,7 +129092,6 @@ teminayı teminatı
 teminet teminatı
 temint teminatı
 temintı teminatı
-temir temiz
 temis temiz
 temişz temiz
 temixliği temizliği
@@ -130227,7 +129119,6 @@ temizkiği temizliği
 temizkik temizlik
 temizkliği temizliği
 temizklik temizlik
-temizl temiz
 temizl temizle
 temizlayici temizleyici
 temizldi temizledi
@@ -130280,7 +129171,6 @@ temizlğiği temizliği
 temizlğinden temizliğinden
 temizlğini temizliğini
 temizlğinin temizliğinin
-temizli temizliği
 temizli temizlik
 temizlici temizleyici
 temizlidi temizdi
@@ -130288,7 +129178,6 @@ temizliğ temizliği
 temizlige temizliğe
 temizliğene temizliğine
 temizliğği temizliği
-temizligi temizliği
 temizligi temizlik
 temizligide temizliğinde
 temizliğiden temizliğinden
@@ -131114,7 +130003,6 @@ temziliğinde temizliğinde
 temziliğinden temizliğinden
 temziliğine temizliğine
 temziliğini temizliğini
-temzilik temizilik
 temzilik temizlik
 temzilikçiler temizlikçiler
 temzilikle temizlikle
@@ -131599,7 +130487,6 @@ terich tercih
 terife terfiye
 teriği terlik
 terih tercih
-terı ter
 terı teri
 terıch tercih
 terıh tercih
@@ -131707,7 +130594,6 @@ terletmıyordu terletmiyordu
 terlettı terletti
 terleyıp terleyip
 terlig terlik
-terligi terliği
 terligi terlik
 terligini terliğini
 terlii terlik
@@ -131717,7 +130603,6 @@ terlil terlik
 terlı terli
 terlığe terliğe
 terlıgı terliği
-terlığı terliği
 terlığı terlik
 terlığım terliğim
 terlığımı terliğimi
@@ -131921,7 +130806,6 @@ tertemızlerdı tertemizlerdi
 tertermiz tertemiz
 tertermizdi tertemizdi
 tertermız tertemiz
-tertibati tertibat
 tertibati tertibatı
 tertıbatı tertibatı
 tertıbatında tertibatında
@@ -131971,7 +130855,6 @@ tesbij tespih
 tesbili tespihli
 tesbit tespit
 tesbiti tespiti
-tesbıh teşbih
 tesbıh tespih
 tesbıhı teşbihi
 tesbıhım tesbihim
@@ -132130,7 +131013,6 @@ tesiş tesis
 tesis'e tesise
 tesisa tesisat
 tesisaları tesisatları
-tesisati tesisat
 tesisati tesisatı
 tesisatin tesisatın
 tesisatinin tesisatının
@@ -132205,7 +131087,6 @@ tesısat tesisat
 tesısata tesisata
 tesısatcı tesisatçı
 tesısatçı tesisatçı
-tesısatı tesisat
 tesısatı tesisatı
 tesısatımız tesisatımız
 tesısatın tesisatın
@@ -132432,7 +131313,6 @@ tesrerr testere
 teşrıf teşrif
 teşrkkür teşekkür
 tesrt test
-tess tesis
 tesscil tescil
 tessedur tesettür
 tessekkur teşekkür
@@ -132517,7 +131397,6 @@ tetsis tesis
 tevbe tövbe
 teveter twitter
 tevfık Tevfik
-tevhid tevhit
 tevize revize
 tevizyon televizyon
 tevrübesiz tecrübesiz
@@ -132529,7 +131408,6 @@ tey teyp
 teyb teyp
 teybı teyp
 teyd teyit
-teyfik Tevfik
 teyfık Teyfik
 teyib teyp
 teyibe teybe
@@ -132538,7 +131416,6 @@ teyibler teypler
 teyibleri teypleri
 teyid teyit
 teyidlerinizi teyitlerinizi
-teyip teyit
 teyip teyp
 teyipi teybi
 teyipı teybi
@@ -132565,7 +131442,6 @@ teyıtte teyitte
 teyıttır teyittir
 teyjp teyp
 teymen teğmen
-teymin temin
 teyo teyp
 teypbi teybi
 teype teyp
@@ -133167,7 +132043,6 @@ tölerans tolerans
 töleransı toleransı
 töleranslı tolerans
 toluklu topuklu
-tomas Thomas
 tomates domates
 tömbek tömbeki
 tombeki tömbeki
@@ -133341,7 +132216,6 @@ topulari topları
 topux topuz
 topuxu topuzu
 topuy topuz
-toran turan
 torb torba
 torbadakı torbadaki
 torbadakıler torbadakiler
@@ -133495,7 +132369,6 @@ trafilk trafik
 trafilten trafikten
 trafişk trafik
 trafiten trafikten
-trafı etrafı
 trafı trafik
 trafıc trafik
 trafıge trafiğe
@@ -133723,7 +132596,6 @@ trenlerı trenleri
 trenlerın trenlerin
 trenlerınden trenlerinden
 trenlerıyle trenleriyle
-trent trend
 tresis tesis
 trest test
 trfafik trafik
@@ -133740,7 +132612,6 @@ tribinü tribün
 tribişon tirbuşon
 tribot tripot
 tribun tribün
-tribune tribün
 trihinde tarihinde
 trind trend
 trinty Trinity
@@ -133827,8 +132698,6 @@ tsise tesise
 tsisin tesisin
 tsisti tesisti
 tsıs tesis
-tşk teşekkür
-tsk teşekkürler
 tşk teşekkürler
 tski takı
 tskimi takımı
@@ -133840,7 +132709,6 @@ tşkler teşekkürler
 tşklr teşekkürler
 tskr teşekkür
 tşkr teşekkür
-tskr teşekkürler
 tşkrler teşekkürler
 tşlı taşlı
 tşlk teşekkürler
@@ -133883,7 +132751,6 @@ ttuvalet tuvalet
 tual tuval
 tualet tuvalet
 tualete tuvalet
-tualeti tuvalet
 tualeti tuvaleti
 tualetin tuvaletin
 tualetler tuvaletler
@@ -133903,7 +132770,6 @@ tudkal tutkal
 tuek türk
 tüfegi tüfeği
 tufegi tüfek
-tüfegi tüfek
 tufegine tüfeğine
 tufej tüfek
 tufek tüfek
@@ -134109,14 +132975,11 @@ tulummm tulum
 tulym tulum
 tulymu tulum
 tum tüm
-tumay Tümay
 tumer Tümer
 tumik tunik
 tümö tüm
 tumu tüm
 tumuyle tümüyle
-tunay Tünay
-tunc tunç
 tuncelı Tunceli
 tundem tandem
 tünegi tünek
@@ -134359,7 +133222,6 @@ türk'ler türkler
 türk'lerden türklerden
 türk'lere türklere
 türk'lerle türklerle
-turkan Türkan
 turkay Türkay
 turkaz turkuaz
 turkbukundeki Türkbükü'ndeki
@@ -134445,7 +133307,6 @@ turkseniz türkseniz
 turksish Turkish
 turku türkü
 turkua turkuaz
-türkuaz turkuaz
 turkuler türküler
 turkuleri türküleri
 türkülerı türküleri
@@ -134532,7 +133393,6 @@ tursuluk turşuluk
 tursusol turnusol
 tursusu turşusu
 turşzm turizm
-turt tur
 turt yurt
 turtarından tutarından
 turü turu
@@ -134572,7 +133432,6 @@ turzimi turizmi
 turzım turizm
 turzm turizm
 tus tuş
-tusa tuş
 tusa tuşa
 tuseli tuşeli
 tuslar tuşlar
@@ -134584,7 +133443,6 @@ tuslu tuşlu
 tüşlu tuşlu
 tussuz tuşsuz
 tussuzdu tuşsuzdu
-tusu tuş
 tusu tuşu
 tutabıldı tutabildi
 tutabıleceğımız tutabileceğimiz
@@ -134615,7 +133473,6 @@ tutac tutaç
 tutacağ tutacak
 tutacagi tutacak
 tutacaği tutacak
-tutacagı tutacağı
 tutacagı tutacak
 tutaçağı tutacak
 tutacaklari tutacakları
@@ -134656,7 +133513,6 @@ tutcagi tutacak
 tutcağı tutacak
 tutcak tutacak
 tutçası tutacak
-tuter tüter
 tutgal tutkal
 tuticu tutucu
 tütk türk
@@ -134877,7 +133733,6 @@ tuyu tüy
 tüyu tüy
 tüz tuz
 tuzagi tuzak
-tuzagı tuzağı
 tuzagı tuzak
 tuzakli tuzaklı
 tüzden yüzden
@@ -134985,7 +133840,6 @@ uazak uzak
 uazıyordu yazıyordu
 uazma yazma
 ubitesi ünitesi
-uc uç
 uc üç
 üc üç
 ūç üç
@@ -135014,8 +133868,6 @@ ucagi uçak
 ucagı uçağı
 ucağı uçağı
 uçagı uçağı
-ucagı uçak
-uçagı uçak
 ucagım uçağım
 ucağım uçağım
 uçagım uçağım
@@ -135149,7 +134001,6 @@ ucları uçları
 ucleme üçleme
 ucler üçler
 ucli üçlü
-uclu uçlu
 uclu üçlü
 üclü üçlü
 üçlu üçlü
@@ -135842,7 +134693,6 @@ ukraynadan Ukrayna'dan
 ukraynali ukraynalı
 üksek yüksek
 uktra ultra
-ukuş kuş
 ulabilirsiniz ulaşabilirsiniz
 uladabilirsiniz ulaşabilirsiniz
 ulas ulaş
@@ -136285,7 +135135,6 @@ ummamıstım ummamıştım
 ummet ümmet
 ummuduğum umduğum
 ummuhan Ümmühan
-umran ümran
 umraniye Ümraniye
 umranıye Ümraniye
 ümranıye Ümraniye
@@ -136307,7 +135156,6 @@ umus umuş
 ümüt umut
 ümütli ümitli
 unal Ünal
-ünan ünvan
 unde ünde
 unden ünden
 ündeydı ündeydi
@@ -136402,7 +135250,6 @@ unler ünler
 unlü ünlü
 ünlülerı ünlüleri
 ünlülerın ünlülerin
-ünsan Ünsal
 untel Intel
 unttuk unuttuk
 ünüforma üniforma
@@ -136473,7 +135320,6 @@ upoliçenin poliçenin
 uradık uğradık
 uradım uğradım
 uraısı orasını
-uranus uranüs
 uraştı uğraştı
 urbo turbo
 urbsn urban
@@ -136798,7 +135644,6 @@ ustasi ustası
 ustasini ustasını
 ustasinin ustasının
 ustat üstat
-uste usta
 uste üste
 üstekı üstelik
 ustela mustela
@@ -136889,7 +135734,6 @@ usttekı üstteki
 ustten üstten
 üstteydı üstteydi
 ustteydık üstteydik
-ustü üst
 üstu üst
 ustü üstü
 ustumdekı üstümdeki
@@ -136961,7 +135805,6 @@ usullerımıze usullerimize
 usullerıne usullerine
 usullerını usullerini
 usulsuz usulsüz
-usülü usul
 usulu usulü
 usülü usulü
 usulum usulüm
@@ -137121,7 +135964,6 @@ uyarabılırsenız uyarabilirseniz
 uyarabılırsınız uyarabilirsiniz
 uyarabılseydı uyarabilseydi
 uyaracagım uyaracağım
-uyarası uyarı
 uyarası uyarısı
 uyardi uyardı
 uyardik uyardık
@@ -137245,8 +136087,6 @@ uygarlik uygarlık
 uygın uygun
 uygn uygun
 uygndu uygundu
-uygu uygulama
-uygu uygun
 uygubn uygun
 uygudnu uygundu
 uygudu uygundu
@@ -137305,7 +136145,6 @@ uygulayamaıyorum uygulayamıyorum
 uygulıyabilir uygulayabilir
 uygullması uygulanması
 uygulma uygulama
-uygulması uygulaması
 uygulması uygulanması
 uygulnamaz uygulanamaz
 uygulnanan uygulanan
@@ -137431,7 +136270,6 @@ uyuyormus uyuyormuş
 uyyamadık uyuyamadık
 uyyamadım uyuyamadım
 uyzaktı uzaktı
-uz uzak
 uzaga uzağa
 uzaginda uzağında
 uzagımdakı uzağımdaki
@@ -137500,7 +136338,6 @@ uzatabıleceğımız uzatabileceğimiz
 uzatabıleceğımızı uzatabileceğimizi
 uzatabılecek uzatabilecek
 uzatabılecektık uzatabilecektik
-uzatabılır uzatabilir
 uzatabılır uzatılabilir
 uzatabılırdı uzatabilirdi
 uzatabılırdık uzatabilirdik
@@ -137599,7 +136436,6 @@ uzerinden üzerinden
 üzerindenki üzerindeki
 uzerindeydi üzerindeydi
 üzerindn üzerinden
-üzerindne üzerinde
 üzerindne üzerinden
 uzerine üzerine
 üzerinen üzerinden
@@ -137973,7 +136809,6 @@ vakumku vakumlu
 vakumy vakum
 vakun vakum
 vakuum vakum
-vala valla
 valecı valeci
 valedekı valedeki
 valelerı valeleri
@@ -138093,7 +136928,6 @@ vampires vampire
 vampiretor vantilatör
 vanali vanalı
 vanasi vanası
-vanda Van'da
 vandana bandana
 vandilatör vantilatör
 vanesa Vanessa
@@ -138164,7 +136998,6 @@ vantılatörler vantilatörler
 vantılatörlerden vantilatörlerden
 vantılatörlerle vantilatörlerle
 vantılatoru vantilatör
-vantılatörü vantilatör
 vantılatörü vantilatörü
 vantıratör vantilatör
 vantlator vantilatör
@@ -138321,7 +137154,6 @@ vasatmıs vasatmış
 vasatti vasattı
 vasedi vasisi
 vaşf valf
-vasfi vasfı
 vasfındakı vasfındaki
 vash Cash
 vasifsiz vasıfsız
@@ -138625,7 +137457,6 @@ venüsl Venüs
 verandali verandalı
 verandasi verandası
 verasat veraset
-verasetı veraseti
 verasetı verasetli
 verasetlı verasetli
 verbat berbat
@@ -138825,7 +137656,6 @@ verebılırı verebilirim
 verebılırım verebilirim
 verebılırınız verebilirsiniz
 verebılırısınız verebilirsiniz
-verebılırız verebilir
 verebılırız verebiliriz
 verebılırler verebilirler
 verebılırlerdı verebilirlerdi
@@ -139438,7 +138268,6 @@ verılmıstı verilmişti
 verılmıştı verilmişti
 verılmıştık verilmiştik
 verılmıstır verilmiştir
-verılmıştır verilmiştir
 verılmıştır verilmiyor
 verılmıyor verilmiyor
 verılmıyordu verilmiyordu
@@ -139986,7 +138815,6 @@ viev View
 vihazı cihaz
 viila villa
 viktorya Viktoria
-vila villa
 vilal villa
 vile bile
 vilgisayar bilgisayar
@@ -140202,7 +139030,6 @@ vışnelı vişneli
 vışnesı vişnesi
 vısta Vista
 vıtamın vitamin
-vıtamını vitamin
 vıtamını vitamini
 vıtamınlerle vitaminlerle
 vıtanın vitamin
@@ -140553,7 +139380,6 @@ yağişta yağışta
 yağiştan yağıştan
 yağiştandı yağıştandı
 yağiştırıcısı yapıştırıcısı
-yagı yağ
 yagı yağı
 yagımız yağımız
 yagın yağın
@@ -140716,7 +139542,6 @@ yakiti yakıt
 yakitli yakıtlı
 yakiyor yakıyor
 yakıb yakın
-yakıdı yakındı
 yakıdı yakıt
 yakılabılırdı yakılabilirdi
 yakılığı yakınlığı
@@ -140878,7 +139703,6 @@ yaks yaka
 yakşalımı yaklaşımı
 yakşıklı yakışıklı
 yaktırabıldı yaktırabildi
-yakubi Yakup
 yakuzi jakuzi
 yalanci yalancı
 yalanmıs yalanmış
@@ -140911,11 +139735,9 @@ yalnış yanlış
 yalnışlık yanlışlık
 yalnışlıkla yanlışlıkla
 yalnıştı yanlıştı
-yalşaık yaklaşık
 yalşaık yanlışlık
 yalşamadık yaşamadık
 yaltımı yalıtımı
-yalvac yalvaç
 yalzemeleri malzemeleri
 yamac yamaç
 yamaça yamaca
@@ -141167,7 +139989,6 @@ yapabileceginiz yapabileceğiniz
 yapabili yapabilir
 yapabiliceği yapabileceği
 yapabiliisniz yapabilirsiniz
-yapabilirisniz yapabilirseniz
 yapabilirisniz yapabilirsiniz
 yapabilirisnzi yapabilirsiniz
 yapabilirm yapabilirim
@@ -141249,7 +140070,6 @@ yapabılırdın yapabilirdin
 yapabılırdınız yapabilirdiniz
 yapabılırım yapabilirim
 yapabılırısınız yapabilirsiniz
-yapabılırız yapabilir
 yapabılırız yapabiliriz
 yapabılırler yapabilirler
 yapabılırlerdı yapabilirlerdi
@@ -141374,9 +140194,7 @@ yapamaıyoruz yapamıyoruz
 yapamak yapmak
 yapamaktadır yapamamaktadır
 yapamaktasınız yapmaktasınız
-yapamaktayım yapamamaktayım
 yapamaktayım yapmaktayım
-yapamaktayız yapamamaktayız
 yapamaktayız yapmaktayız
 yapamamaıştık yapamamıştık
 yapamamıs yapamamış
@@ -141432,7 +140250,6 @@ yapamıyruz yapamıyoruz
 yapamıyuruz yapamıyoruz
 yapamıyurz yapamıyoruz
 yapamıyz yapamıyoruz
-yapamlısınız yapmalısınız
 yapamlısınız yapmamaktayız
 yapamnamaktayız yapamamaktayız
 yapamuıyoruz yapamıyoruz
@@ -141468,12 +140285,10 @@ yapcakasınız yapacaksınız
 yapcaklardı yapacaklardı
 yapcaklarını yapacaklarını
 yapcaktık yapacaktık
-yapcam yapacağım
 yapcam yapacağız
 yapcaz yapacağız
 yapcıcaz yapacağız
 yapdığı yaptığı
-yapdım yaptım
 yapdım yardım
 yapdımcı yardımcı
 yaperken yaparken
@@ -141598,7 +140413,6 @@ yapıcaktı yapacaktı
 yapıcaktık yapacaktık
 yapıcaktım yapacaktım
 yapıcam yapacağım
-yapıcaz yapacağım
 yapıcaz yapacağız
 yapıdakı yapıdaki
 yapıdlı yapıldı
@@ -141684,9 +140498,7 @@ yapılamaaktadır yapılamamaktadır
 yapılamaaz yapılamaz
 yapılamadığıdan yapılamadığından
 yapılamadığınsdan yapılamadığından
-yapılamakta yapılamamakta
 yapılamakta yapılmakta
-yapılamaktadır yapılamamaktadır
 yapılamaktadır yapılmaktadır
 yapılamamakadır yapılamamaktadır
 yapılamamakktadır yapılamamaktadır
@@ -141768,7 +140580,6 @@ yapılmadıgı yapılmadığı
 yapılmadıgını yapılmadığını
 yapılmaını yapılmasını
 yapılmaış yapılmamış
-yapılmaıs yapılması
 yapılmaıs yapılmasını
 yapılmaısnı yapılmasını
 yapılmaıyor yapılamıyor
@@ -141778,7 +140589,6 @@ yapılmaktad yapılmaktadır
 yapılmaktaıdr yapılmaktadır
 yapılmamaış yapılmamış
 yapılmamakadır yapılmamaktadır
-yapılmamakata yapılmamakta
 yapılmamakata yapılmamaktadır
 yapılmamakatadır yapılmamaktadır
 yapılmamakatdır yapılmamaktadır
@@ -141794,7 +140604,6 @@ yapılmamışıtr yapılmamıştır
 yapılmamıssa yapılmamışsa
 yapılmamıstı yapılmamıştı
 yapılmamktadır yapılmamaktadır
-yapılmas yapılması
 yapılmas yapılmaz
 yapılmasi yapılması
 yapılmasini yapılmasını
@@ -141814,7 +140623,6 @@ yapılmışır yapılmıştır
 yapılmısıtr yapılmıştır
 yapılmısken yapılmışken
 yapılmıssa yapılmışsa
-yapılmıstı yapılmıştı
 yapılmıstı yapılmıştır
 yapılmıstır yapılmıştır
 yapılmıstr yapılmıştır
@@ -141825,7 +140633,6 @@ yapılmıyodu yapılmıyordu
 yapılmıyormus yapılmıyormuş
 yapılmıyr yapılmıyor
 yapılmş yapılmış
-yapılmsaı yapılması
 yapılmsaı yapılmasını
 yapılmsı yapılması
 yapılmsın yapılmasın
@@ -141850,7 +140657,6 @@ yapımi yapımı
 yapımıştır yapılmıştır
 yapımıyor yapılmıyor
 yapımoruz yapmıyoruz
-yapıo yapıp
 yapıo yapıyor
 yapıplıp yapılıp
 yapırmayı yapıştırmayı
@@ -141932,7 +140738,6 @@ yapmakdır yapmaktadır
 yapmaktadir yapmaktadır
 yapmaktayim yapmaktayım
 yapmaktradır yapmaktadır
-yapmal yapmak
 yapmal yapmalı
 yapmalari yapmaları
 yapmalarini yapmalarını
@@ -141947,7 +140752,6 @@ yapmamasi yapmaması
 yapmamaz yapamaz
 yapmamdakı yapmamdaki
 yapmamislar yapmamışlar
-yapmamiz yapmamış
 yapmamiz yapmamız
 yapmamiza yapmamıza
 yapmamıs yapmamış
@@ -142024,7 +140828,6 @@ yapolmadı yapılmadı
 yapoyoruz yapıyoruz
 yapoz yapboz
 yappılacaktır yapılacaktır
-yapr yapar
 yapr yaprak
 yapra yaprak
 yapragi yaprağı
@@ -142428,7 +141231,6 @@ yardımıc yardımcı
 yardımıcı yardımcı
 yardımıcısı yardımcısı
 yardımıızı yardımınızı
-yardımınıı yardımını
 yardımınıı yardımınızı
 yardımınıız yardımınızı
 yardımınıızı yardımınızı
@@ -142440,7 +141242,6 @@ yardımınzı yardımınızı
 yardımınzıı yardımınızı
 yardımızı yardımınızı
 yardımızıı yardımınızı
-yardımızını yardımınızı
 yardımızını yardımınızın
 yardımızınızı yardımınızı
 yardımıznı yardımınızı
@@ -142457,7 +141258,6 @@ yardımlarınıozı yardımlarınızı
 yardımlarınızi yardımlarınızı
 yardımlarınızır yardımlarınızı
 yardımlarınızz yardımlarınız
-yardımlarınzı yardımlarınız
 yardımlarınzı yardımlarınızı
 yardımlarınzıı yardımlarınızı
 yardımlarmızn yardımlarımızın
@@ -142737,7 +141537,6 @@ yasiyorum yaşıyorum
 yasiyoruz yaşıyoruz
 yaşıdım yaşadım
 yaşıdnaki yaşındaki
-yaşıl yaşı
 yaşılara yaşlılara
 yasıltılmış yansıtılmış
 yasımamış yansımamış
@@ -142785,7 +141584,6 @@ yasli yaşlı
 yaşli yaşlı
 yaslilar yaşlılar
 yaşlilar yaşlılar
-yaslilara yaşlılara
 yaslilara yaşlıları
 yaslilik yaşlılık
 yaşlilik yaşlılık
@@ -142839,7 +141637,6 @@ yastıpı yastığı
 yastk yastık
 yastklı yastıklı
 yastoğı yastığı
-yastrığ yastığı
 yastrığ yastık
 yastuklari yastıkları
 yaşü yaş
@@ -142942,7 +141739,6 @@ yataüı yatağı
 yatcilik yatçılık
 yatdım yardım
 yatdımcı yardımcı
-yatğı yatağı
 yatğı yatak
 yatin yatın
 yatip yatıp
@@ -143031,7 +141827,6 @@ yayabılırlerdı yayabilirlerdi
 yayabılırsenız yayabilirseniz
 yayabılırsınız yayabilirsiniz
 yayagi yatak
-yayak yatak
 yayakkabı ayakkabı
 yayatağı yatağına
 yaydakı yaydaki
@@ -143112,7 +141907,6 @@ yazacagım yazacağım
 yazacagımı yazacağımı
 yazacagız yazacağız
 yazacam yazacağım
-yazağım yazacağım
 yazağım yazayım
 yazaiblirsiniz yazabilirsiniz
 yazailbirsiniz yazabilirsiniz
@@ -143465,12 +142259,10 @@ yedıyse yediyse
 yedıysek yediysek
 yedıysem yediysem
 yedıysenız yediyseniz
-yedk yedek
 yedk yedik
 yedtkilendirme yetkilendirme
 yedwk yedek
 yeeği yedek
-yeek yedek
 yeek yemek
 yeekler yemekler
 yeem yeme
@@ -144071,7 +142863,6 @@ yenenn yenen
 yenerdı yenerdi
 yenerı yeneri
 yenerın yenerin
-yengec yengeç
 yengeçlerın yengeçlerin
 yengemı yengemi
 yengemın yengemin
@@ -144118,7 +142909,6 @@ yenilemiesini yenilemesini
 yenilemizde yenilememizde
 yenilemizi yenilememizi
 yenilemnektedir yenilenmektedir
-yenilemsi yenilemesi
 yenilemsi yenilendi
 yenilemsidir yenilemesidir
 yenilemsini yenilemesini
@@ -144144,7 +142934,6 @@ yenilicez yenileyeceğiz
 yenilikci yenilikçi
 yeniliycem yenileyeceğim
 yeniliyemiyoruz yenileyemiyoruz
-yenilmee yenileme
 yenilmee yenilme
 yenilnemiş yenilenmiş
 yenilşeme yenileme
@@ -144161,7 +142950,6 @@ yenıdünya yenidünya
 yenıelem yenileme
 yenık yenik
 yenıkapı Yenikapı
-yenıl yenil
 yenıl yenile
 yenılcek yenilecek
 yenıldı yenildi
@@ -144509,7 +143297,6 @@ yenılıyormuş yeniliyormuş
 yenılıyorr yeniliyor
 yenılıyorsunuz yeniliyorsunuz
 yenılıyoruz yeniliyoruz
-yenılme yenileme
 yenılme yenilme
 yenılmedı yenilmedi
 yenılmedığı yenilmediği
@@ -144523,7 +143310,6 @@ yenılmemışler yenilmemişler
 yenılmemıştı yenilmemişti
 yenılmemız yenilmemiz
 yenılmesı yenilmesi
-yenılmesıdır yenilemesidir
 yenılmesıdır yenilmesidir
 yenılmesını yenilmesini
 yenılmeye yenilmeye
@@ -145962,7 +144748,6 @@ yetkililieri yetkilileri
 yetkililileri yetkilileri
 yetkilinzden yetkilinizden
 yetkilinziden yetkilinizden
-yetkilis yetkili
 yetkilis yetkilisi
 yetkilizden yetkilimizden
 yetkilleri yetkilileri
@@ -146257,12 +145042,10 @@ yilduz yıldız
 yildz yıldız
 yilfizi yıldızı
 yilginlik yılgınlık
-yili yıl
 yili yılı
 yilinda yılında
 yillanmis yıllanmış
 yillar yıllar
-yillara yıllara
 yillara yılları
 yillarca yıllarca
 yillarda yıllarda
@@ -147045,7 +145828,6 @@ yollyk yolluk
 yoltu yoktu
 yoluculugunda yoluculuğunda
 yoluk yolluk
-yolula yolla
 yolula yoluyla
 yoluncak yolunacak
 yolundakı yolundaki
@@ -148496,7 +147278,6 @@ yüme yüzme
 yumruga yumruğa
 yumsatici yumuşatıcı
 yumşatıcı yumuşatıcı
-yumuk yamuk
 yumulabılır yumulabilir
 yumurtali yumurtalı
 yumurtalik yumurtalık
@@ -148540,7 +147321,6 @@ yur yurt
 yurd yurt
 yurdagul Yurdagül
 yureek yürek
-yüreğir yüreği
 yuregı yüreği
 yüregı yüreği
 yüreğı yüreği
@@ -149055,7 +147835,6 @@ yüzmü yüzlü
 yüznden yüzünden
 yüzsuzlerdı yüzsüzlerdi
 yüzsüzlerdı yüzsüzlerdi
-yuzu yüz
 yuzu yüzü
 yüzu yüzü
 yüzücek yüzecek
@@ -149101,7 +147880,6 @@ yüzülmedığı yüzülmediği
 yüzülmesı yüzülmesi
 yüzülmesını yüzülmesini
 yuzulmuyor yüzülmüyor
-yüzülü yüzlü
 yüzülü yüzüklü
 yüzülüydü yüzlüydü
 yuzum yüzüm
@@ -149185,7 +147963,6 @@ zafıyetlerınden zafiyetlerinden
 zafıyetlerını zafiyetlerini
 zagiflatici zayıflatıcı
 zahemt zahmet
-zahid zahit
 zahıde zahide
 zahır zahir
 zahmer zahmet
@@ -149217,7 +147994,6 @@ zamandakı zamandaki
 zamandakıler zamandakiler
 zamandakıne zamandakine
 zamandir zamandır
-zamani zaman
 zamani zamanı
 zamanimi zamanımı
 zamanimiz zamanımız
@@ -149246,7 +148022,6 @@ zamannda zamanında
 zamansiz zamansız
 zambia Zambiya
 zamin zemin
-zamn zam
 zamn zaman
 zamna zamana
 zamnda zamanda
@@ -149638,7 +148413,6 @@ zengn zengin
 zenıt Zenith
 zenn zen
 zepra zebra
-zerafet zarafet
 zerdacal zerdeçal
 zerdecal zerdeçal
 zerdeçöp zerdeçal
@@ -149686,7 +148460,6 @@ zevksız zevksiz
 zevksızdı zevksizdi
 zevktı zevkti
 zevktır zevktir
-zevra zebra
 zewyil zeyil
 zey zeyil
 zeyeli zeyli
@@ -149721,7 +148494,6 @@ zeyillede zeyillerde
 zeyilleriniiz zeyilleriniz
 zeyilnden zeylinden
 zeyilv zeyil
-zeyin zeyil
 zeyin zeytin
 zeyinamelerde zeyilnamelerde
 zeyini zeylini
@@ -150144,7 +148916,6 @@ zuhurati zuhurat
 zul zül
 zulal zülal
 zuleyha Züleyha
-zülfi zülfü
 zulfikar zülfikar
 zülfıkar zülfikar
 zülfıye Zülfiye
