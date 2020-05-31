@@ -43,14 +43,8 @@ Steps for opening the cloned project:
 * Select **File | Open** from main menu
 * Choose `DataStructure-PY` file
 * Select open as project option
-* Couple of seconds, dependencies will be downloaded. 
+* Couple of seconds, project will be downloaded. 
 
-
-## Compile
-
-**From IDE**
-
-After being done with the downloading and Maven indexing, select **Build Project** option from **Build** menu. After compilation process, user can run DataStructure.
 
 Detailed Description
 ============
@@ -89,7 +83,7 @@ SpellChecker finds spelling errors and corrects them in Turkish. There are two t
      
                 ngram = NGram("ngram.txt")
 
-	*For further details, please check [here](https://github.com/olcaytaner/NGram).*        
+	*For further details, please check [here](https://github.com/starlangsoftware/NGram).*        
             
     * Afterwards, `NGramSpellChecker` can be created as below:
         
