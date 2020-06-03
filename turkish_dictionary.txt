@@ -5153,7 +5153,7 @@ azref IS_OA
 azvay CL_ISIM
 azzam IS_OA
 azze IS_OA
-B IS_OA
+b IS_OA
 b-52 IS_OA IS_KIS
 baas IS_OA
 bab CL_ISIM
@@ -49879,7 +49879,7 @@ szymon IS_OA
 şişir CL_FIIL F4PR
 şişiriş CL_ISIM
 şişirme IS_ADJ
-şişkebap IS_BILEŞ IS_SD CL_ISIM
+şişkebap IS_SD CL_ISIM
 şişkin IS_ADJ
 şişkinlik CL_ISIM IS_SD
 şişköfte CL_ISIM
@@ -55939,7 +55939,7 @@ waseda IS_OA
 washıngton IS_OA
 washington IS_OA
 water IS_OA
-Watergate IS_OA
+watergate IS_OA
 wathen IS_OA
 waylon IS_OA
 wayne IS_OA
@@ -57182,7 +57182,7 @@ yerlileş CL_FIIL
 yermantarı IS_BILEŞ CL_ISIM
 yermeci CL_ISIM
 yermerkezci CL_ISIM IS_BILEŞ
-yermerkezcilik CL_ISIM IS_BILEŞ IS_SD
+yermerkezcilik CL_ISIM IS_SD
 yermeşesi IS_B_SI IS_BILEŞ CL_ISIM
 yermumu IS_BILEŞ CL_ISIM
 yerofeyev IS_OA

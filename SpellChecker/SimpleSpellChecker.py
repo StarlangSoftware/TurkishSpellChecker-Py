@@ -90,8 +90,8 @@ class SimpleSpellChecker(SpellChecker):
                     candidates[i] = newCandidate
                 else:
                     candidates.pop(i)
-            else:
-                i = i + 1
+                    i = i - 1
+            i = i + 1
         return candidates
 
     def spellCheck(self, sentence: Sentence) -> Sentence:
