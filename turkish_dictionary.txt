@@ -10304,7 +10304,7 @@ civa CL_ISIM
 civan CL_ISIM IS_OA
 civanbaht IS_OA
 civankaşı IS_BILEŞ CL_ISIM
-civanmert IS_SDD IS_OA
+civanmert IS_SDD IS_SD IS_OA
 civanperçemi IS_BILEŞ CL_ISIM
 civanşir IS_OA
 civar CL_ISIM
@@ -48655,7 +48655,7 @@ süleyman IS_OA
 süleymaniye IS_OA
 süleymâniye IS_OA
 sülf CL_ISIM
-sülfamit IS_SDD CL_ISIM
+sülfamit IS_SDD IS_SD CL_ISIM
 sülfat CL_ISIM
 sülfatla CL_FIIL F4PW
 sülfit CL_ISIM

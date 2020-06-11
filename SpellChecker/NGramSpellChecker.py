@@ -64,7 +64,7 @@ class NGramSpellChecker(SimpleSpellChecker):
                 bestProbability = 0.0
                 for candidate in candidates:
                     fsmParses = self.fsm.morphologicalAnalysis(candidate)
-                    root = fsmParses.getFsmParse(0).getWord()
+                    root = fsmParses.getParseWithLongestRootWord().getWord()
                     if previousRoot is not None:
                         probability = self.__nGram.getProbability(previousRoot.getName(), root.getName())
                     else:
