@@ -876,7 +876,6 @@ aciyordu açıyordu
 aciyorlar açıyorlar
 aciyorsunuz açıyorsunuz
 aciyorum açıyorum
-acizane naçizane
 acize avize
 acıbademgr acıbadem
 acıbe acibe
@@ -2003,7 +2002,6 @@ ahenklı ahenkli
 ahenklıydı ahenkliydi
 ahh ah
 ahiç hiç
-ahir ahır
 ahiska Ahıska
 ahixe ahize
 ahılın ağılın
@@ -7772,7 +7770,6 @@ askısi askısı
 askışığı askılığı
 askklı askılı
 asklepiondan Asklepion'dan
-asklı askılı
 asklığı askılık
 asklık askılık
 asklılık askılık
@@ -11441,7 +11438,6 @@ bayunca boyunca
 bayyd bay
 bayz bay
 baza- baza
-bazal bazalı
 bazali bazalı
 bazas bazası
 bazasi bazası
@@ -15340,7 +15336,6 @@ bıldıklerının bildiklerinin
 bıldıkten bildikten
 bıldıler bildiler
 bıldım bildim
-bıldır bildir
 bıldırcan bıldırcın
 bıldırcım bıldırcın
 bıldırdı bildirdi
@@ -19199,7 +19194,6 @@ bpt bot
 bqlonlu balonlu
 bqtaryalari bataryaları
 bqyan bayan
-br bir
 brahm brahms
 braks boraks
 brandadı brandası
@@ -20330,7 +20324,6 @@ buymus buymuş
 buyrugu buyruğu
 buyrun buyur
 buyu büyü
-büyücek büyüyecek
 buyudu büyüdü
 buyudugunuz büyüdüğünüz
 buyudukce büyüdükçe
@@ -64382,7 +64375,6 @@ hasirti haşırtı
 hasiye haşiye
 haşı hasır
 hasıbe Hasibe
-hasıl haşıl
 haşım Haşim
 hasırli hasırlı
 haşırt haşırtı
@@ -65483,7 +65475,6 @@ herskes herkes
 hert her
 hery her
 hesab hesap
-hesabi hesabı
 hesabim hesabım
 hesabina hesabına
 hesabini hesabını
@@ -74340,7 +74331,6 @@ izun uzun
 ıpuçu ipuçu
 ıpuhıne iphone
 ıpuhone iphone
-ır bir
 ıradem iradem
 ırademle irademle
 ıradesı iradesi
@@ -74674,7 +74664,6 @@ izun uzun
 ısıksızdı ışıksızdı
 ısıkta ışıkta
 ısıktı ışıktı
-ısıl ışıl
 ışılandırma ışıklandırma
 ısıler işçiler
 ışılık işçilik
@@ -81711,7 +81700,6 @@ kastetmedım kastetmedim
 kastetmıstım kastetmiştim
 kastetmıyorum kastetmiyorum
 kastettı kastetti
-kasti kastı
 kastiği lastik
 kastik lastik
 kasvetlı kasvetli
@@ -83344,7 +83332,6 @@ kesicek kesecek
 kesicektim kesecektim
 kesicem keseceğim
 kesicez keseceğiz
-kesif keşif
 kesiicem keseceğiz
 kesiinlikle kesinlikle
 kesikdi kesildi
@@ -84321,7 +84308,6 @@ kişyi kişiyi
 kita kıta
 kitab kitap
 kitabcığı kitapçık
-kitabi kitap
 kitabim kitabım
 kitablik kitaplık
 kitaçığından kitapçığından
@@ -90149,7 +90135,6 @@ kuyrugunda kuyruğunda
 kuyrugundan kuyruğundan
 kuyruklari kuyrukları
 kuytuğu kuyruk
-kuz buz
 kuzagi kazak
 kuzartması kızartması
 kuzenı kuzeni
@@ -90329,7 +90314,6 @@ lakayıktı lakayıttı
 lakayıtler lakayıtlar
 lakayıtlerdı lakayıtlardı
 lakayıttıler lakayıttılar
-lakayt lakayıt
 laketi plaket
 lake™ lake
 lakosyon lokasyon
@@ -98843,7 +98827,6 @@ nisbeten nispeten
 nisine nesine
 nişn nişan
 nişna nişan
-nitel nitelik
 niteligi niteliği
 niteliginde niteliğinde
 nites nite
@@ -106305,7 +106288,6 @@ pahaşıydı pahalıydı
 paino piyano
 paj plaj
 pajı plajı
-pak park
 pakaj bagaj
 pakalı plakalı
 pakatı paket
@@ -115076,7 +115058,6 @@ saysısı sayısı
 sayunma soyunma
 sayyar seyyar
 sayygılı saygılı
-şaz saz
 sazi saz
 sazima sazıma
 saziye Şaziye
@@ -119883,7 +119864,6 @@ sivrsinek sivrisinek
 sivsinek sivrisinek
 siyahh siyah
 siyahhan siyah
-siyahımsı siyah
 siyahl siyah
 siyahlasmis siyahlaşmış
 siyaj siyah
@@ -137146,7 +137126,6 @@ vasar vasat
 vasasttı vasattı
 vasatatı vasattı
 vasatdı vasattı
-vasati vasatı
 vasatin vasatın
 vasatlasmıs vasatlaşmış
 vasatlik vasatlık
@@ -145827,7 +145806,6 @@ yolluyoru yolluyorum
 yollyk yolluk
 yoltu yoktu
 yoluculugunda yoluculuğunda
-yoluk yolluk
 yolula yoluyla
 yoluncak yolunacak
 yolundakı yolundaki

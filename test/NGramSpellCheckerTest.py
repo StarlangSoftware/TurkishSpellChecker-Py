@@ -25,7 +25,7 @@ class NGramSpellCheckerTest(unittest.TestCase):
                 Sentence("bu tblodaki değerlğr zedelenmeyecüktir"),
                 Sentence("milliyet'in geeneksel yılın spoşcusu ankşti 43. yeşını doldürdu"),
                 Sentence("demokrasinin icşdı bu ayrmıı bulandürdı"),
-                Sentence("dışişleri mütseşarı Öymen'in 1997'nin ilk aylğrında Bağdat'a gitmesi öngşrülüyor"),
+                Sentence("dışişleri mütseşarı Öymen'in 1997'nin ilk aylğrında Bağdat'a gitmesi öngörülüyor"),
                 Sentence("büyüdü , palazandı , devltei ele geçridi"),
                 Sentence("her makenin cültte kalma sürdsi farlkıdır"),
                 Sentence("yılın sno ayında 10 gazteci gözlatına alündı"),
