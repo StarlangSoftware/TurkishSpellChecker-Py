@@ -2,7 +2,6 @@ from Corpus.Sentence import Sentence
 from Dictionary.Word import Word
 from MorphologicalAnalysis.FsmMorphologicalAnalyzer import FsmMorphologicalAnalyzer
 from NGram.NGram import NGram
-
 from SpellChecker.SimpleSpellChecker import SimpleSpellChecker
 
 
@@ -25,6 +24,20 @@ class NGramSpellChecker(SimpleSpellChecker):
         """
         super().__init__(fsm)
         self.__nGram = nGram
+
+    def checkAnalysisAndSetRoot(self, sentence: Sentence, index: int) -> Word:
+        """
+        Checks the morphological analysis of the given word in the given index. If there is no misspelling, it returns
+        the longest root word of the possible analyses.
+        @param sentence Sentence to be analyzed.
+        @param index Index of the word
+        @return If the word is misspelled, null; otherwise the longest root word of the possible analyses.
+        """
+        if index < sentence.wordCount():
+            fsmParses = self.fsm.morphologicalAnalysis(sentence.getWord(index).getName())
+            if fsmParses.size() != 0:
+                return fsmParses.getParseWithLongestRootWord().getWord()
+        return None
 
     def spellCheck(self, sentence: Sentence) -> Sentence:
         """
@@ -54,10 +67,11 @@ class NGramSpellChecker(SimpleSpellChecker):
         """
         previousRoot = None
         result = Sentence()
+        root = self.checkAnalysisAndSetRoot(sentence, 0)
+        nextRoot = self.checkAnalysisAndSetRoot(sentence, 1)
         for i in range(sentence.wordCount()):
             word = sentence.getWord(i)
-            fsmParses = self.fsm.morphologicalAnalysis(word.getName())
-            if fsmParses.size() == 0:
+            if root is None:
                 candidates = self.candidateList(word)
                 bestCandidate = word.getName()
                 bestRoot = word
@@ -66,16 +80,22 @@ class NGramSpellChecker(SimpleSpellChecker):
                     fsmParses = self.fsm.morphologicalAnalysis(candidate)
                     root = fsmParses.getParseWithLongestRootWord().getWord()
                     if previousRoot is not None:
-                        probability = self.__nGram.getProbability(previousRoot.getName(), root.getName())
+                        previousProbability = self.__nGram.getProbability(previousRoot.getName(), root.getName())
                     else:
-                        probability = self.__nGram.getProbability(root.getName())
-                    if probability > bestProbability:
+                        previousProbability = 0.0
+                    if nextRoot is not None:
+                        nextProbability = self.__nGram.getProbability(root.getName(), nextRoot.getName())
+                    else:
+                        nextProbability = 0.0
+                    if max(previousProbability, nextProbability) > bestProbability:
                         bestCandidate = candidate
                         bestRoot = root
-                        bestProbability = probability
-                previousRoot = bestRoot
+                        bestProbability = max(previousProbability, nextProbability)
+                root = bestRoot
                 result.addWord(Word(bestCandidate))
             else:
                 result.addWord(word)
-                previousRoot = fsmParses.getParseWithLongestRootWord().getWord()
+            previousRoot = root
+            root = nextRoot
+            nextRoot = self.checkAnalysisAndSetRoot(sentence, i + 2)
         return result

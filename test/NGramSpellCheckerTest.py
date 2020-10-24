@@ -20,17 +20,25 @@ class NGramSpellCheckerTest(unittest.TestCase):
                 Sentence("her maskenin ciltte kalma süresi farklıdır"),
                 Sentence("yılın son ayında 10 gazeteci gözaltına alındı"),
                 Sentence("iki pilotun kullandığı uçakta bir hostes görev alıyor"),
-                Sentence("son derece kısıtlı kelimeler çerçevesinde kendilerini uzun cümlelerle ifade edebiliyorlar")]
-        modified = [Sentence("demokratik cumhüriyet en kımetli varlıgımızdır"),
+                Sentence("son derece kısıtlı kelimeler çerçevesinde kendilerini uzun cümlelerle ifade edebiliyorlar"),
+                Sentence("kedi köpek"),
+                Sentence("minibüs durağı"),
+                Sentence("noter belgesi"),
+                Sentence("")]
+        modified = [Sentence("demokratik cumhüriyet rn kımetli varlıgımızdır"),
                 Sentence("bu tblodaki değerlğr zedelenmeyecüktir"),
-                Sentence("milliyet'in geeneksel yılın spoşcusu ankşti 43. yeşını doldürdu"),
-                Sentence("demokrasinin icşdı bu ayrmıı bulandürdı"),
-                Sentence("dışişleri mütseşarı Öymen'in 1997'nin ilk aylğrında Bağdat'a gitmesi öngörülüyor"),
-                Sentence("büyüdü , palazandı , devltei ele geçridi"),
-                Sentence("her makenin cültte kalma sürdsi farlkıdır"),
+                Sentence("milliyet'in geeneksel yılin spoşcusu ankşti 43. yeşını doldürdu"),
+                Sentence("demokrasinin icşdı buf ayrmıı bulandürdı"),
+                Sentence("dışişleri mütseşarı Öymen'in 1997'nin iljk aylğrında Bağdat'a gitmesi öngörülüyor"),
+                Sentence("büyüdü , palazandı , devltei eöe geçridi"),
+                Sentence("her makenin cültte aklma sürdsi farlkıdır"),
                 Sentence("yılın sno ayında 10 gazteci gözlatına alündı"),
                 Sentence("iki piotun kulçandığı uçkata üir hotes görçv alyıor"),
-                Sentence("son deece kısütlı keilmeler çeçevesinde kendülerini uzuü cümllerle ifüde edbeiliyorlar")]
+                Sentence("son deece kısütlı keilmeler çeçevesinde kendülerini uzuü cümllerle ifüde edbeiliyorlar"),
+                Sentence("krdi köpek"),
+                Sentence("minibü durağı"),
+                Sentence("ntoer belgesi"),
+                Sentence("")]
         fsm = FsmMorphologicalAnalyzer("../turkish_dictionary.txt", "../turkish_misspellings.txt",
                                        "../turkish_finite_state_machine.xml")
         nGram = NGram("../ngram.txt")

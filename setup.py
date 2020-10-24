@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='NlpToolkit-SpellChecker',
-    version='1.0.14',
+    version='1.0.15',
     packages=['SpellChecker'],
     url='https://github.com/olcaytaner/TurkishSpellChecker-Py',
     license='',
