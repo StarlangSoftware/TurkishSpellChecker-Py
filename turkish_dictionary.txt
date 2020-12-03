@@ -4,6 +4,7 @@
 <doc> IS_HEADER
 <s> IS_HEADER
 <title> IS_HEADER
+a IS_INTERJ IS_ADJ IS_OA
 a.b.d IS_OA IS_UU IS_KIS
 a.b.d. IS_OA IS_UU
 a.ş. IS_OA IS_UU
@@ -3190,7 +3191,7 @@ anniston IS_OA
 anod CL_ISIM
 anofel CL_ISIM
 anomali CL_ISIM
-anonim IS_ADJ
+anonim IS_ADJ CL_ISIM
 anonimleş CL_FIIL
 anons CL_ISIM
 anonsör CL_ISIM
@@ -3441,7 +3442,7 @@ apteriks CL_ISIM
 apukurya CL_ISIM
 aquino IS_OA
 ar CL_ISIM
-ara CL_ISIM CL_FIIL
+ara CL_ISIM CL_FIIL IS_ADJ F_GUD
 arab IS_OA
 araba CL_ISIM
 arabacı CL_ISIM
@@ -3590,6 +3591,7 @@ ardıçkuşu IS_BILEŞ CL_ISIM
 ardıl F_DIR CL_FIIL CL_ISIM F4PL IS_OA
 ardıllık CL_ISIM IS_SD
 ardınca IS_ADVERB
+ardından IS_ADVERB
 ardışık IS_ADJ
 ardışıklık CL_ISIM IS_SD
 ardiye CL_ISIM
@@ -4095,8 +4097,8 @@ asır IS_UD CL_ISIM
 asırlarca IS_ADVERB
 asırlık IS_ADJ
 asıye IS_OA
-asi IS_ADJ
-âsi IS_ADJ
+asi IS_ADJ CL_ISIM
+âsi IS_ADJ CL_ISIM
 asia IS_OA
 aside CL_ISIM
 asidifikasyon CL_ISIM
@@ -7356,7 +7358,7 @@ berhava IS_ADJ
 berhayat IS_ADJ
 berhudar IS_ADJ
 berhuz IS_OA
-beri CL_ISIM IS_ADJ
+beri CL_ISIM IS_ADJ IS_ADVERB IS_POSTP
 beria IS_OA
 beribenzer IS_ADJ
 beriberi CL_ISIM
@@ -7436,7 +7438,7 @@ berta IS_OA
 bertafsil IS_ADVERB
 bertalan IS_OA
 bertan IS_OA
-bertaraf CL_ISIM
+bertaraf CL_ISIM IS_ADJ IS_ADVERB
 berter IS_OA
 bertik IS_SD CL_ISIM
 bertil CL_FIIL
@@ -8254,7 +8256,7 @@ birleme CL_ISIM
 birler CL_ISIM
 birleş CL_FIIL F5PR-NO-REF
 birleşen IS_ADJ
-birleşik IS_ADJ
+birleşik IS_ADJ CL_ISIM
 birleşikgiller CL_ISIM IS_CA IS_OA
 birleşim CL_ISIM
 birleşme CL_ISIM
@@ -10847,7 +10849,7 @@ colt IS_OA
 colten IS_OA
 colton IS_OA
 columba IS_OA
-columbia CL_ISIM
+columbia CL_ISIM IS_OA
 columbidae CL_ISIM IS_OA
 columbiformes CL_ISIM IS_OA
 columbus IS_OA
@@ -11708,7 +11710,7 @@ cyrus IS_OA
 çeker CL_ISIM
 çekerek IS_OA IS_SD
 çeki CL_ISIM
-çekici CL_ISIM
+çekici CL_ISIM IS_ADJ
 çekicilik CL_ISIM IS_SD
 çekiç IS_SD CL_ISIM
 çekiçhane CL_ISIM
@@ -12552,6 +12554,7 @@ cyrus IS_OA
 çoğan IS_OA
 çoğaş IS_OA
 çoğay IS_OA
+çoğu IS_ADJ IS_ZM
 çoğul CL_ISIM
 çoğulcu IS_ADJ
 çoğulculuk CL_ISIM IS_SD
@@ -12886,7 +12889,7 @@ dağtekin IS_OA
 daha IS_ADVERB
 dahası CL_ISIM
 dahhak IS_OA
-dahi CL_ISIM
+dahi CL_ISIM IS_CONJ
 dâhi CL_ISIM
 dahice IS_ADVERB
 dâhice IS_ADVERB
@@ -13479,7 +13482,7 @@ değersiz IS_ADJ
 değersizleş CL_FIIL
 değersizlik CL_ISIM
 değgin IS_ADJ
-değil CL_ISIM
+değil IS_ADJ IS_CONJ
 değim CL_ISIM
 değimli IS_ADJ
 değimsiz IS_ADJ
@@ -14346,7 +14349,7 @@ dış CL_ISIM IS_PUREADJ
 dışadönüklük CL_ISIM IS_SD
 dışalım CL_ISIM
 dışalımcı CL_ISIM
-dışarı CL_ISIM IS_ADVERB
+dışarı CL_ISIM IS_ADVERB IS_POSTP IS_ADJ
 dışarılı IS_ADJ
 dışarılık CL_ISIM
 dışarlık CL_ISIM IS_SD
@@ -17738,7 +17741,7 @@ erkeksi IS_ADJ
 erkeksilik CL_ISIM
 erkeksiz IS_ADJ IS_ADVERB
 erkel IS_OA
-erken IS_ADVERB
+erken IS_ADVERB IS_ADJ
 erkence IS_ADVERB
 erkenci IS_ADJ
 erkenden IS_ADVERB
@@ -19678,6 +19681,7 @@ fiyasko CL_ISIM
 fiyaskolu IS_ADJ
 fiyaskosuz IS_ADJ
 fiyat CL_ISIM
+fiyatla CL_FIIL
 fiyatlama CL_ISIM
 fiyatlan CL_FIIL
 fiyatlandır F_DIR CL_FIIL F4PR
@@ -24151,6 +24155,7 @@ helyograf CL_ISIM
 helyosfer CL_ISIM
 helyoterapi CL_ISIM
 helyum CL_ISIM
+hem IS_ADVERB IS_CONJ
 hemati CL_ISIM
 hematit CL_ISIM
 hematolog CL_ISIM
@@ -26313,7 +26318,7 @@ ilgile CL_FIIL F_GUD F4PW
 ilgilen CL_FIIL F5PR
 ilgilendir CL_FIIL
 ilgilenme CL_ISIM
-ilgili IS_ADJ
+ilgili IS_ADJ CL_ISIM
 ilgililer CL_ISIM
 ilgililik CL_ISIM
 ilgin IS_OA
@@ -31234,7 +31239,7 @@ kesimevi IS_BILEŞ CL_ISIM
 kesimhane CL_ISIM
 kesimi IS_OA
 kesimlik IS_ADJ
-kesin IS_ADVERB
+kesin IS_ADVERB IS_ADJ
 kesinbilgi CL_ISIM
 kesinkes IS_ADVERB
 kesinle CL_FIIL
@@ -32134,7 +32139,7 @@ kimyadoğrulumu IS_BILEŞ CL_ISIM
 kimyager CL_ISIM
 kimyagerlik CL_ISIM IS_SD
 kimyagöçümü IS_BILEŞ CL_ISIM
-kimyasal IS_ADJ
+kimyasal IS_ADJ CL_ISIM
 kimyevi IS_ADJ
 kimyon CL_ISIM
 kimyoni CL_ISIM
@@ -40795,7 +40800,7 @@ neşterin IS_OA
 neşterle CL_FIIL F4PW
 neşve IS_OA
 neşvünema CL_ISIM
-net IS_ADJ
+net IS_ADJ CL_ISIM
 netameli IS_ADJ
 netanyahu IS_OA
 netice CL_ISIM IS_OA
@@ -42323,7 +42328,7 @@ ortakyapım CL_ISIM
 ortakyaşama CL_ISIM
 ortakyaşar IS_ADJ
 ortala F_GUD CL_FIIL F4PW
-ortalama IS_ADJ IS_ADVERB
+ortalama IS_ADJ CL_ISIM
 ortalamada IS_ADVERB
 ortalamasına IS_ADVERB
 ortalı IS_ADJ
@@ -44428,7 +44433,7 @@ pelteleşme CL_ISIM
 pelür CL_ISIM
 pelüş CL_ISIM
 pelvis CL_ISIM
-pembe IS_ADJ CL_ISIM IS_OA
+pembe IS_ADJ ^ IS_OA
 pembegemre CL_ISIM
 pembegül IS_OA
 pembekurt CL_ISIM
@@ -44489,7 +44494,7 @@ peppi IS_OA
 pepsin CL_ISIM
 pepton CL_ISIM
 pera IS_OA
-perakende IS_ADJ
+perakende IS_ADJ CL_ISIM
 perakendeci CL_ISIM
 perakendecilik CL_ISIM IS_SD
 perciformes CL_ISIM
@@ -48130,6 +48135,7 @@ satım CL_ISIM
 satımcı CL_ISIM
 satımcılık CL_ISIM
 satımlık CL_ISIM IS_SD
+satın CL_ISIM
 satınalma CL_ISIM
 satır CL_ISIM
 satırbaşı IS_BILEŞ CL_ISIM
@@ -60533,8 +60539,7 @@ yetki CL_ISIM
 yetkilendir CL_FIIL
 yetkilendirim CL_ISIM
 yetkilendirme CL_ISIM
-yetkili IS_ADJ
-yetkililer CL_ISIM
+yetkili IS_ADJ CL_ISIM
 yetkin IS_ADJ IS_OA
 yetkiner IS_OA
 yetkinleş CL_FIIL
@@ -60826,7 +60831,7 @@ yoğuşmalı IS_ADJ
 yoğuştur CL_FIIL
 yoğuşturma CL_ISIM
 yoğuşturucu CL_ISIM
-yok CL_ISIM IS_ADJ
+yok CL_ISIM IS_ADJ IS_ADVERB
 yokçu CL_ISIM
 yokçuluk CL_ISIM
 yoket CL_FIIL F5PR F_SD
