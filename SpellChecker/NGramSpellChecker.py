@@ -8,8 +8,9 @@ from SpellChecker.SimpleSpellChecker import SimpleSpellChecker
 class NGramSpellChecker(SimpleSpellChecker):
 
     __nGram: NGram
+    __rootNgram: bool
 
-    def __init__(self, fsm: FsmMorphologicalAnalyzer, nGram: NGram):
+    def __init__(self, fsm: FsmMorphologicalAnalyzer, nGram: NGram, rootNGram: bool):
         """
         A constructor of NGramSpellChecker class which takes a FsmMorphologicalAnalyzer and an NGram as inputs. Then,
         calls its super class SimpleSpellChecker with given FsmMorphologicalAnalyzer and assigns given NGram to the
@@ -24,6 +25,7 @@ class NGramSpellChecker(SimpleSpellChecker):
         """
         super().__init__(fsm)
         self.__nGram = nGram
+        self.__rootNgram = rootNGram
 
     def checkAnalysisAndSetRoot(self, sentence: Sentence, index: int) -> Word:
         """
@@ -36,7 +38,10 @@ class NGramSpellChecker(SimpleSpellChecker):
         if index < sentence.wordCount():
             fsmParses = self.fsm.morphologicalAnalysis(sentence.getWord(index).getName())
             if fsmParses.size() != 0:
-                return fsmParses.getParseWithLongestRootWord().getWord()
+                if self.__rootNgram:
+                    return fsmParses.getParseWithLongestRootWord().getWord()
+                else:
+                    return sentence.getWord(index)
         return None
 
     def spellCheck(self, sentence: Sentence) -> Sentence:
@@ -78,7 +83,10 @@ class NGramSpellChecker(SimpleSpellChecker):
                 bestProbability = 0.0
                 for candidate in candidates:
                     fsmParses = self.fsm.morphologicalAnalysis(candidate)
-                    root = fsmParses.getParseWithLongestRootWord().getWord()
+                    if self.__rootNgram:
+                        root = fsmParses.getParseWithLongestRootWord().getWord()
+                    else:
+                        root = Word(candidate)
                     if previousRoot is not None:
                         previousProbability = self.__nGram.getProbability(previousRoot.getName(), root.getName())
                     else:

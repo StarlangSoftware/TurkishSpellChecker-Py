@@ -43,10 +43,19 @@ class NGramSpellCheckerTest(unittest.TestCase):
                                        "../turkish_finite_state_machine.xml")
         nGram = NGram("../ngram.txt")
         nGram.calculateNGramProbabilitiesSimple(NoSmoothing())
-        nGramSpellChecker = NGramSpellChecker(fsm, nGram)
+        nGramSpellChecker = NGramSpellChecker(fsm, nGram, True)
         for i in range(len(modified)):
             self.assertEqual(original[i].toString(), nGramSpellChecker.spellCheck(modified[i]).toString())
 
+    def test_SpellCheckSurfaceForm(self):
+        fsm = FsmMorphologicalAnalyzer("../turkish_dictionary.txt", "../turkish_misspellings.txt",
+                                       "../turkish_finite_state_machine.xml")
+        nGram = NGram("../ngram.txt")
+        nGram.calculateNGramProbabilitiesSimple(NoSmoothing())
+        nGramSpellChecker = NGramSpellChecker(fsm, nGram, False)
+        self.assertEqual("noter hakkında", nGramSpellChecker.spellCheck(Sentence("noter hakkınad")).__str__())
+        self.assertEqual("arçelik'in çamaşır", nGramSpellChecker.spellCheck(Sentence("arçelik'in çamşaır")).__str__())
+        self.assertEqual("ruhsat yanında", nGramSpellChecker.spellCheck(Sentence("ruhset yanında")).__str__())
 
 if __name__ == '__main__':
     unittest.main()
