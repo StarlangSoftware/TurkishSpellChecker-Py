@@ -1,7 +1,7 @@
 For Developers
 ============
 
-You can also see [Java](https://github.com/starlangsoftware/TurkishSpellChecker), [C++](https://github.com/starlangsoftware/TurkishSpellChecker-CPP), or [C#](https://github.com/starlangsoftware/TurkishSpellChecker-CS) repository.
+You can also see [Cython](https://github.com/starlangsoftware/TurkishSpellChecker-Cy), [Java](https://github.com/starlangsoftware/TurkishSpellChecker), [C++](https://github.com/starlangsoftware/TurkishSpellChecker-CPP), or [C#](https://github.com/starlangsoftware/TurkishSpellChecker-CS) repository.
 
 ## Requirements
 
