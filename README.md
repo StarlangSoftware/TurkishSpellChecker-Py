@@ -22,6 +22,10 @@ You can find the latest version of Python [here](https://www.python.org/download
 
 Install the [latest version of Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
 
+## Pip Install
+
+	pip3 install NlpToolkit-SpellChecker
+
 ## Download Code
 
 In order to work on code, create a fork from GitHub page. 
