@@ -5856,7 +5856,7 @@ balhane CL_ISIM
 balı IS_OA
 balıbaş IS_OA
 balıbey IS_OA
-balık CL_ISIM
+balık CL_ISIM IS_SD
 balıkadam CL_ISIM
 balıkçı CL_ISIM
 balıkçıl CL_ISIM
@@ -7500,7 +7500,7 @@ beşareddin IS_OA
 beşaret CL_ISIM IS_OA
 beşarettin IS_OA
 beşbıyık IS_SD CL_ISIM
-beşer IS_OA
+beşer IS_OA CL_ISIM
 beşeri IS_ADJ
 beşerî IS_ADJ
 beşeriyet CL_ISIM
@@ -11337,6 +11337,7 @@ cyrus IS_OA
 çamer IS_OA
 çamfıstığı IS_B_SD IS_BILEŞ CL_ISIM
 çamgiller IS_CA CL_ISIM
+çamlıca IS_OA
 çamlıdere IS_OA
 çamlıhemşin IS_OA
 çamlık CL_ISIM IS_SD
@@ -11717,7 +11718,7 @@ cyrus IS_OA
 çekiçkemiği IS_B_SD IS_BILEŞ CL_ISIM
 çekiçle F_GUD CL_FIIL F4PW
 çekidüzen CL_ISIM
-çekik IS_OA
+çekik IS_OA IS_ADJ
 çekikçe IS_ADJ
 çekil CL_FIIL
 çekiliş CL_ISIM
@@ -18386,7 +18387,7 @@ evcek IS_SD IS_ADVERB
 evci CL_ISIM
 evcik IS_SD CL_ISIM
 evcikkıran CL_ISIM
-evcil IS_OA
+evcil IS_ADJ IS_OA
 evciler IS_OA
 evcilik CL_ISIM IS_SD
 evcilleş CL_FIIL
@@ -18409,6 +18410,7 @@ ever F_DIR CL_FIIL F4PR
 everett IS_OA
 everleigh IS_OA
 everly IS_OA
+evet CL_ISIM
 evetle F_GUD CL_FIIL F4PW
 evfa IS_OA
 evgin IS_OA
@@ -24044,7 +24046,7 @@ hazro IS_OA
 hazzet F_SD CL_FIIL F5PR
 hazzetme CL_ISIM
 hdp IS_KIS IS_OA
-he IS_ADJ CL_ISIM
+he IS_ADJ CL_ISIM IS_INTERJ
 hearst IS_OA
 heath IS_OA
 heather IS_OA
@@ -27609,6 +27611,7 @@ iştahlı IS_ADJ IS_ADVERB
 iştahlıca IS_ADVERB
 iştahsız IS_ADJ
 iştahsızca IS_ADVERB
+işte IS_INTERJ
 işteş IS_ADJ
 işteşlik CL_ISIM IS_SD
 iştial IS_UU CL_ISIM
@@ -27651,7 +27654,7 @@ itçe IS_ADVERB
 itdirseği IS_B_SD IS_BILEŞ CL_ISIM
 iteği CL_ISIM
 itekle CL_FIIL F_GUD F4PW
-itele CL_FIIL F4PW
+itele CL_FIIL F_GUD F4PW
 itenek CL_ISIM IS_SD
 iterasyon CL_ISIM
 iterbiyum CL_ISIM
@@ -29678,7 +29681,7 @@ karaörs IS_OA
 karapars IS_OA
 karapınar IS_OA
 karapürçek IS_OA
-karar CL_ISIM
+karar CL_ISIM CL_FIIL
 karargah CL_ISIM
 karargâh CL_ISIM
 kararınca IS_ADVERB
@@ -37092,6 +37095,7 @@ megaton CL_ISIM
 megatonluk IS_ADJ
 megavat CL_ISIM
 megavatlık IS_ADJ
+meğer IS_CONJ
 meğerki IS_CONJ
 mehabet CL_ISIM IS_OA
 mehâbet CL_ISIM
@@ -40576,7 +40580,7 @@ necid IS_OA
 necih IS_OA
 necil IS_OA
 necile IS_OA
-necip IS_ADJ
+necip IS_ADJ IS_OA
 necipoğlu IS_OA
 neciy IS_OA
 neciyullah IS_OA
@@ -49462,7 +49466,7 @@ sıfatsız IS_ADJ
 sıfır CL_ISIM
 sıfırcı CL_ISIM
 sıfırla CL_FIIL F4PW
-sığ F_GIR CL_FIIL F5PR-NO-REF
+sığ F_GIR CL_FIIL F5PR-NO-REF IS_ADJ
 sığa CL_ISIM
 sığamsal IS_ADJ
 sığdır CL_FIIL
@@ -56344,7 +56348,7 @@ trompet CL_ISIM
 trompetçi CL_ISIM
 tropik CL_ISIM IS_SD
 tropika CL_ISIM
-tropikal IS_UU CL_ISIM
+tropikal IS_UU CL_ISIM IS_ADJ
 tropizm CL_ISIM
 troplar IS_CA CL_ISIM
 troposfer CL_ISIM
@@ -59182,8 +59186,8 @@ yabar IS_OA
 yabende IS_OA
 yabgu IS_OA
 yabız IS_OA
-yad CL_ISIM
-yâd CL_ISIM
+yad CL_ISIM IS_ADJ
+yâd CL_ISIM IS_ADJ
 yada IS_OA
 yadacı IS_OA
 yade IS_OA
@@ -59376,7 +59380,7 @@ yalakalık CL_ISIM IS_SD
 yalama IS_ADJ
 yalamuk IS_SD CL_ISIM
 yalan IS_ADJ CL_ISIM
-yalancı CL_ISIM
+yalancı CL_ISIM IS_ADJ
 yalancıayak IS_SD CL_ISIM
 yalancıdolma CL_ISIM
 yalancıktan IS_ADVERB
@@ -59801,7 +59805,7 @@ yarıçap CL_ISIM
 yarıdil IS_OA
 yarıgölge CL_ISIM
 yarıiletken CL_ISIM IS_BILEŞ
-yarık IS_SD CL_ISIM
+yarık IS_SD CL_ISIM IS_ADJ
 yarıküre CL_ISIM
 yarıl CL_FIIL
 yarıla F_GUD CL_FIIL F4PW

@@ -1069,7 +1069,7 @@
 <with name="COP">DHr</with>
 </to>
 <to name="AttitudeAdverb">
-<with name="^DB+ADV+ASIF" topos="ADVERB">cAsHnA</with>
+<with name="^DB+ADV+ASIF" topos="ADVERB">CAsHnA</with>
 </to>
 </state>
 <state name="AttitudeAdverb" start="no" end="yes">
@@ -1825,7 +1825,7 @@
 </state>
 <state name="OtherTense3rdPerson" start="no" end="no">
 <to name="Adverb">
-<with name="A3SG^DB+ADV+ASIF" topos="ADVERB">cAsHnA</with>
+<with name="A3SG^DB+ADV+ASIF" topos="ADVERB">CAsHnA</with>
 <with name="^DB+ADV+WHILE" topos="ADVERB">yken</with>
 </to>
 </state>
@@ -1881,7 +1881,7 @@
 <with name="A3PL">lAr</with>
 </to>
 <to name="Adverb" transitionname="^DB+ADV+ASIF" topos="ADVERB">
-<with>cAsHnA</with>
+<with>CAsHnA</with>
 </to>
 </state>
 </statelist>
