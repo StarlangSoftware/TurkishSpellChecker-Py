@@ -9,8 +9,7 @@ from SpellChecker.SimpleSpellChecker import SimpleSpellChecker
 class SimpleSpellCheckerTest(unittest.TestCase):
 
     def test_SpellCheck(self):
-        fsm = FsmMorphologicalAnalyzer("../turkish_dictionary.txt", "../turkish_misspellings.txt",
-                                       "../turkish_finite_state_machine.xml")
+        fsm = FsmMorphologicalAnalyzer()
         simpleSpellChecker = SimpleSpellChecker(fsm)
         input = open("../misspellings.txt")
         lines = input.readlines()

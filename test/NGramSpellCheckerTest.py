@@ -39,8 +39,7 @@ class NGramSpellCheckerTest(unittest.TestCase):
                 Sentence("minibü durağı"),
                 Sentence("ntoer belgesi"),
                 Sentence("")]
-        fsm = FsmMorphologicalAnalyzer("../turkish_dictionary.txt", "../turkish_misspellings.txt",
-                                       "../turkish_finite_state_machine.xml")
+        fsm = FsmMorphologicalAnalyzer()
         nGram = NGram("../ngram.txt")
         nGram.calculateNGramProbabilitiesSimple(NoSmoothing())
         nGramSpellChecker = NGramSpellChecker(fsm, nGram, True)
@@ -48,8 +47,7 @@ class NGramSpellCheckerTest(unittest.TestCase):
             self.assertEqual(original[i].toString(), nGramSpellChecker.spellCheck(modified[i]).toString())
 
     def test_SpellCheckSurfaceForm(self):
-        fsm = FsmMorphologicalAnalyzer("../turkish_dictionary.txt", "../turkish_misspellings.txt",
-                                       "../turkish_finite_state_machine.xml")
+        fsm = FsmMorphologicalAnalyzer()
         nGram = NGram("../ngram.txt")
         nGram.calculateNGramProbabilitiesSimple(NoSmoothing())
         nGramSpellChecker = NGramSpellChecker(fsm, nGram, False)
