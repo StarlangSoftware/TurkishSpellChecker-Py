@@ -3,7 +3,7 @@ This tool is a spelling checker for Modern Turkish. It detects spelling errors a
 For Developers
 ============
 
-You can also see [Cython](https://github.com/starlangsoftware/TurkishSpellChecker-Cy), [Java](https://github.com/starlangsoftware/TurkishSpellChecker), [C++](https://github.com/starlangsoftware/TurkishSpellChecker-CPP), [Swift](https://github.com/starlangsoftware/TurkishSpellChecker-Swift), or [C#](https://github.com/starlangsoftware/TurkishSpellChecker-CS) repository.
+You can also see [Cython](https://github.com/starlangsoftware/TurkishSpellChecker-Cy), [Java](https://github.com/starlangsoftware/TurkishSpellChecker), [C++](https://github.com/starlangsoftware/TurkishSpellChecker-CPP), [Swift](https://github.com/starlangsoftware/TurkishSpellChecker-Swift), [Js](https://github.com/starlangsoftware/TurkishSpellChecker-Js), or [C#](https://github.com/starlangsoftware/TurkishSpellChecker-CS) repository.
 
 ## Requirements
 
