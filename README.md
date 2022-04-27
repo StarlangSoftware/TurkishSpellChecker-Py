@@ -1,7 +1,12 @@
-Turkish Spell Checker [<img src="https://github.com/StarlangSoftware/TurkishSpellChecker/blob/master/video.jpg" width="5%">](https://youtu.be/wKwTKv6Jlo0)
+Turkish Spell Checker
 ============
 
 This tool is a spelling checker for Modern Turkish. It detects spelling errors and corrects them appropriately, through its list of misspellings and matching to the Turkish dictionary.
+
+Video Lectures
+============
+
+[<img src="https://github.com/StarlangSoftware/TurkishSpellChecker/blob/master/video.jpg" width="50%">](https://youtu.be/wKwTKv6Jlo0)
 
 For Developers
 ============
