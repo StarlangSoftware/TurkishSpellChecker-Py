@@ -147,13 +147,13 @@ class NGramSpellChecker(SimpleSpellChecker):
                         if previous_root is not None:
                             if candidate.getOperator() == Operator.SPLIT:
                                 root = self.checkAnalysisAndSetRoot(candidate.getName().split(" ")[0])
-                            previous_probability = self.__nGram.getProbability(previous_root.getName(), root.getName())
+                            previous_probability = self.getProbability(previous_root.getName(), root.getName())
                         else:
                             previous_probability = 0.0
                         if next_root is not None:
                             if candidate.getOperator() == Operator.SPLIT:
                                 root = self.checkAnalysisAndSetRoot(candidate.getName().split(" ")[1])
-                            next_probability = self.__nGram.getProbability(root.getName(), next_root.getName())
+                            next_probability = self.getProbability(root.getName(), next_root.getName())
                         else:
                             next_probability = 0.0
                         if max(previous_probability, next_probability) > best_probability:
