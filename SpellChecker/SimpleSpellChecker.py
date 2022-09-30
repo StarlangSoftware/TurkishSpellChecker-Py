@@ -142,7 +142,7 @@ class SimpleSpellChecker(SpellChecker):
             if self.forcedForwardMergeCheck(word, result, next_word):
                 i = i + 2
                 continue
-            if self.forcedSplitCheck(word, result) or self.forcedShortcutCheck(word, result, previous_word):
+            if self.forcedSplitCheck(word, result) or self.forcedShortcutCheck(word, result):
                 i = i + 1
                 continue
             fsm_parse_list = self.fsm.morphologicalAnalysis(word.getName())
@@ -212,7 +212,7 @@ class SimpleSpellChecker(SpellChecker):
             return True
         return False
 
-    def forcedShortcutCheck(self, word: Word, result: Sentence, previousWord: Word) -> bool:
+    def forcedShortcutCheck(self, word: Word, result: Sentence) -> bool:
         shortcut_regex = "[0-9]+(" + self.__shortcuts[0]
         for i in range(1, len(self.__shortcuts)):
             shortcut_regex = shortcut_regex + "|" + self.__shortcuts[i]

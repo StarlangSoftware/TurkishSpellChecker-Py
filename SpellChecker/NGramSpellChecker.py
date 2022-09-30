@@ -133,7 +133,7 @@ class NGramSpellChecker(SimpleSpellChecker):
                 next_root = self.checkAnalysisAndSetRootForWordAtIndex(sentence, i + 2)
                 i = i + 1
                 continue
-            if self.forcedSplitCheck(word, result) or self.forcedShortcutCheck(word, result, previous_word):
+            if self.forcedSplitCheck(word, result) or self.forcedShortcutCheck(word, result):
                 previous_root = self.checkAnalysisAndSetRootForWordAtIndex(result, result.wordCount() - 1)
                 root = next_root
                 next_root = self.checkAnalysisAndSetRootForWordAtIndex(sentence, i + 2)
