@@ -126,51 +126,51 @@ class SimpleSpellChecker(SpellChecker):
             Sentence result.
         """
         result = Sentence()
-        for repeat in range(2):
-            i = 0
-            while i < sentence.wordCount():
-                word = sentence.getWord(i)
-                next_word = None
-                previous_word = None
-                if i > 0:
-                    previous_word = sentence.getWord(i - 1)
-                if i < sentence.wordCount() - 1:
-                    next_word = sentence.getWord(i + 1)
-                if self.forcedMisspellCheck(word, result) or \
-                        self.forcedBackwardMergeCheck(word, result, previous_word):
-                    i = i + 1
-                    continue
-                if self.forcedForwardMergeCheck(word, result, next_word):
-                    i = i + 2
-                    continue
-                if self.forcedSplitCheck(word, result) or self.forcedShortcutCheck(word, result, previous_word):
-                    i = i + 1
-                    continue
-                fsm_parse_list = self.fsm.morphologicalAnalysis(word.getName())
-                if fsm_parse_list.size() == 0:
-                    candidates = self.candidateList(word)
-                    if len(candidates) < 1:
-                        candidates.extend(self.mergedCandidatesList(previous_word, word, next_word))
-                    if len(candidates) < 1:
-                        candidates.extend(self.splitCandidatesList(word))
-                    if len(candidates) > 0:
-                        random_candidate = randrange(len(candidates))
-                        new_word = Word(candidates[random_candidate])
-                        if candidates[random_candidate].getOperator() == Operator.BACKWARD_MERGE:
-                            result.replaceWord(i - 1, new_word)
-                            i = i + 1
-                            continue
-                        if candidates[random_candidate].getOperator() == Operator.FORWARD_MERGE:
-                            i = i + 1
-                    else:
-                        new_word = word
+        i = 0
+        while i < sentence.wordCount():
+            word = sentence.getWord(i)
+            next_word = None
+            previous_word = None
+            if i > 0:
+                previous_word = sentence.getWord(i - 1)
+            if i < sentence.wordCount() - 1:
+                next_word = sentence.getWord(i + 1)
+            if self.forcedMisspellCheck(word, result) or \
+                    self.forcedBackwardMergeCheck(word, result, previous_word):
+                i = i + 1
+                continue
+            if self.forcedForwardMergeCheck(word, result, next_word):
+                i = i + 2
+                continue
+            if self.forcedSplitCheck(word, result) or self.forcedShortcutCheck(word, result, previous_word):
+                i = i + 1
+                continue
+            fsm_parse_list = self.fsm.morphologicalAnalysis(word.getName())
+            if fsm_parse_list.size() == 0:
+                candidates = self.candidateList(word)
+                if len(candidates) < 1:
+                    candidates.extend(self.mergedCandidatesList(previous_word, word, next_word))
+                if len(candidates) < 1:
+                    candidates.extend(self.splitCandidatesList(word))
+                if len(candidates) > 0:
+                    random_candidate = randrange(len(candidates))
+                    new_word = Word(candidates[random_candidate])
+                    if candidates[random_candidate].getOperator() == Operator.BACKWARD_MERGE:
+                        result.replaceWord(i - 1, new_word)
+                        i = i + 1
+                        continue
+                    if candidates[random_candidate].getOperator() == Operator.FORWARD_MERGE:
+                        i = i + 1
+                    if candidates[random_candidate].getOperator() == Operator.SPLIT:
+                        self.addSplitWords(candidates[random_candidate].getName(), result)
+                        i = i + 1
+                        continue
                 else:
                     new_word = word
-                result.addWord(new_word)
-                i = i + 1
-            sentence = result
-            if repeat < 1:
-                result = Sentence()
+            else:
+                new_word = word
+            result.addWord(new_word)
+            i = i + 1
         return result
 
     def forcedMisspellCheck(self,
@@ -200,10 +200,15 @@ class SimpleSpellChecker(SpellChecker):
                 return True
         return False
 
+    def addSplitWords(self, multiWord: str, result: Sentence):
+        words = multiWord.split(" ")
+        result.addWord(Word(words[0]))
+        result.addWord(Word(words[1]))
+
     def forcedSplitCheck(self, word: Word, result: Sentence) -> bool:
         forced_replacement = self.getCorrectForm(word.getName(), self.__split_words)
         if forced_replacement != "":
-            result.addWord(Word(forced_replacement))
+            self.addSplitWords(forced_replacement, result)
             return True
         return False
 
@@ -212,10 +217,6 @@ class SimpleSpellChecker(SpellChecker):
         for i in range(1, len(self.__shortcuts)):
             shortcut_regex = shortcut_regex + "|" + self.__shortcuts[i]
         shortcut_regex = shortcut_regex + ")"
-        compiled_expression = re.compile("[0-9]+")
-        if word.getName() in self.__shortcuts and compiled_expression.fullmatch(previousWord.getName()):
-            result.addWord(word)
-            return True
         compiled_expression = re.compile(shortcut_regex)
         if compiled_expression.fullmatch(word.getName()):
             pair = self.getSplitPair(word)

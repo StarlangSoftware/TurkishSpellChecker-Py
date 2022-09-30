@@ -46,7 +46,7 @@ class NGramSpellCheckerTest(unittest.TestCase):
 
     def test_SpellCheck2(self):
         original = [Sentence("yeni sezon başladı"),
-                Sentence("sırtıkara adındaki canlı, bir balıktır"),
+                Sentence("sırtıkara adındaki canlı , bir balıktır"),
                 Sentence("siyah ayı , ayıgiller familyasına ait bir ayı türüdür"),
                 Sentence("yeni sezon başladı gibi"),
                 Sentence("alışveriş için markete gitti"),
@@ -57,7 +57,7 @@ class NGramSpellCheckerTest(unittest.TestCase):
                 Sentence("rehberimiz bu bölgedeki çıngıraklı yılan varlığı hakkında konuştu"),
                 Sentence("bu son model cihaz 24 inç ekran büyüklüğünde ve 9 kg ağırlıktadır")]
         modified = [Sentence("yenisezon başladı"),
-                Sentence("sırtı kara adındaki canlı, bir balıktır"),
+                Sentence("sırtı kara adındaki canlı , bir balıktır"),
                 Sentence("siyahayı , ayıgiller familyasına ait bir ayı türüdür"),
                 Sentence("yeni se zon başladı gibs"),
                 Sentence("alis veriş için markete gitit"),
@@ -82,6 +82,7 @@ class NGramSpellCheckerTest(unittest.TestCase):
         self.assertEqual("noter hakkında", nGramSpellChecker.spellCheck(Sentence("noter hakkınad")).__str__())
         self.assertEqual("arçelik'in çamaşır", nGramSpellChecker.spellCheck(Sentence("arçelik'in çamşaır")).__str__())
         self.assertEqual("ruhsat yanında", nGramSpellChecker.spellCheck(Sentence("ruhset yanında")).__str__())
+
 
 if __name__ == '__main__':
     unittest.main()
