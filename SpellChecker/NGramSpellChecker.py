@@ -150,14 +150,14 @@ class NGramSpellChecker(SimpleSpellChecker):
                     if candidate.getOperator() == Operator.SPELL_CHECK or \
                             candidate.getOperator() == Operator.MISSPELLED_REPLACE:
                         root = self.checkAnalysisAndSetRoot(candidate.getName())
-                    if candidate.getOperator() == Operator.BACKWARD_MERGE and previous_word is not None \
-                            and previous_previous_word is not None:
+                    if candidate.getOperator() == Operator.BACKWARD_MERGE and previous_word is not None:
                         root = self.checkAnalysisAndSetRoot(previous_word.getName() + word.getName())
-                        previous_root = self.checkAnalysisAndSetRoot(previous_previous_word.getName())
-                    if candidate.getOperator() == Operator.FORWARD_MERGE and next_word is not None \
-                            and next_next_word is not None:
+                        if previous_previous_word is not None:
+                            previous_root = self.checkAnalysisAndSetRoot(previous_previous_word.getName())
+                    if candidate.getOperator() == Operator.FORWARD_MERGE and next_word is not None:
                         root = self.checkAnalysisAndSetRoot(word.getName() + next_word.getName())
-                        next_root = self.checkAnalysisAndSetRoot(next_next_word.getName())
+                        if next_next_word is not None:
+                            next_root = self.checkAnalysisAndSetRoot(next_next_word.getName())
                     if previous_root is not None:
                         if candidate.getOperator() == Operator.SPLIT:
                             root = self.checkAnalysisAndSetRoot(candidate.getName().split(" ")[0])
