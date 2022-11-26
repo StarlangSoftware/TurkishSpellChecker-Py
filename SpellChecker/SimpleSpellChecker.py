@@ -3,6 +3,7 @@ from random import randrange
 
 import pkg_resources
 from Corpus.Sentence import Sentence
+from Dictionary.TxtWord import TxtWord
 from Dictionary.Word import Word
 from Language.TurkishLanguage import TurkishLanguage
 from MorphologicalAnalysis.FsmMorphologicalAnalyzer import FsmMorphologicalAnalyzer
@@ -13,13 +14,26 @@ from SpellChecker.SpellChecker import SpellChecker
 
 
 class SimpleSpellChecker(SpellChecker):
-
     fsm: FsmMorphologicalAnalyzer
     __merged_words: dict
     __split_words: dict
     __shortcuts: list = ["cc", "cm2", "cm", "gb", "ghz", "gr", "gram", "hz", "inc", "inch", "inç", "kg", "kw", "kva",
                          "litre", "lt", "m2", "m3", "mah", "mb", "metre", "mg", "mhz", "ml", "mm", "mp", "ms",
-                         "mt", "mv", "tb", "tl", "va", "volt", "watt", "ah", "hp"]
+                         "mt", "mv", "tb", "tl", "va", "volt", "watt", "ah", "hp", "oz", "rpm", "dpi", "ppm", "ohm",
+                         "kwh", "kcal", "kbit", "mbit", "gbit", "bit", "byte", "mbps", "gbps", "cm3", "mm2", "mm3",
+                         "khz", "ft", "db", "sn"]
+    __conditionalShortcuts: list = ["g", "v", "m", "l", "w", "s"]
+    __questionSuffixList: list = ["mi", "mı", "mu", "mü", "miyim", "misin", "miyiz", "midir", "miydi", "mıyım", "mısın",
+                                  "mıyız", "mıdır", "mıydı", "muyum", "musun", "muyuz", "mudur", "muydu", "müyüm",
+                                  "müsün", "müyüz", "müdür", "müydü", "miydim", "miydin", "miydik", "miymiş", "mıydım",
+                                  "mıydın", "mıydık", "mıymış", "muydum", "muydun", "muyduk", "muymuş", "müydüm",
+                                  "müydün", "müydük", "müymüş", "misiniz", "mısınız", "musunuz", "müsünüz", "miyimdir",
+                                  "misindir", "miyizdir", "miydiniz", "miydiler", "miymişim", "miymişiz", "mıyımdır",
+                                  "mısındır", "mıyızdır", "mıydınız", "mıydılar", "mıymışım", "mıymışız", "muyumdur",
+                                  "musundur", "muyuzdur", "muydunuz", "muydular", "muymuşum", "muymuşuz", "müyümdür",
+                                  "müsündür", "müyüzdür", "müydünüz", "müydüler", "müymüşüm", "müymüşüz", "miymişsin",
+                                  "miymişler", "mıymışsın", "mıymışlar", "muymuşsun", "muymuşlar", "müymüşsün",
+                                  "müymüşler", "misinizdir", "mısınızdır", "musunuzdur", "müsünüzdür"]
 
     def __init__(self, fsm: FsmMorphologicalAnalyzer):
         """
@@ -136,20 +150,24 @@ class SimpleSpellChecker(SpellChecker):
             if i < sentence.wordCount() - 1:
                 next_word = sentence.getWord(i + 1)
             if self.forcedMisspellCheck(word, result) or \
-                    self.forcedBackwardMergeCheck(word, result, previous_word):
+                    self.forcedBackwardMergeCheck(word, result, previous_word) or \
+                    self.forcedSuffixMergeCheck(word, result, previous_word):
                 i = i + 1
                 continue
-            if self.forcedForwardMergeCheck(word, result, next_word):
+            if self.forcedForwardMergeCheck(word, result, next_word) or \
+                    self.forcedHyphenMergeCheck(word, result, previous_word, next_word):
                 i = i + 2
                 continue
-            if self.forcedSplitCheck(word, result) or self.forcedShortcutCheck(word, result):
+            if self.forcedSplitCheck(word, result) or self.forcedShortcutCheck(word, result) or \
+                    self.forcedDeDaSplitCheck(word, result) or self.forcedQuestionSuffixSplitCheck(word, result):
                 i = i + 1
                 continue
             fsm_parse_list = self.fsm.morphologicalAnalysis(word.getName())
-            if fsm_parse_list.size() == 0:
-                candidates = self.candidateList(word)
+            upper_case_fsm_parse_list = self.fsm.morphologicalAnalysis(Word.toCapital(word.getName()))
+            if fsm_parse_list.size() == 0 and upper_case_fsm_parse_list.size() == 0:
+                candidates = self.mergedCandidatesList(previous_word, word, next_word)
                 if len(candidates) < 1:
-                    candidates.extend(self.mergedCandidatesList(previous_word, word, next_word))
+                    candidates.extend(self.candidateList(word))
                 if len(candidates) < 1:
                     candidates.extend(self.splitCandidatesList(word))
                 if len(candidates) > 0:
@@ -182,30 +200,41 @@ class SimpleSpellChecker(SpellChecker):
             return True
         return False
 
-    def forcedBackwardMergeCheck(self, word: Word, result: Sentence, previousWord: Word) -> bool:
+    def forcedBackwardMergeCheck(self,
+                                 word: Word,
+                                 result: Sentence,
+                                 previousWord: Word) -> bool:
         if previousWord is not None:
-            forced_replacement = self.getCorrectForm(result.getWord(result.wordCount() - 1).getName() + " " + word.getName(),
-                                                    self.__merged_words)
+            forced_replacement = self.getCorrectForm(
+                result.getWord(result.wordCount() - 1).getName() + " " + word.getName(),
+                self.__merged_words)
             if forced_replacement != "":
                 result.replaceWord(result.wordCount() - 1, Word(forced_replacement))
                 return True
         return False
 
-    def forcedForwardMergeCheck(self, word: Word, result: Sentence, nextWord: Word) -> bool:
+    def forcedForwardMergeCheck(self,
+                                word: Word,
+                                result: Sentence,
+                                nextWord: Word) -> bool:
         if nextWord is not None:
             forced_replacement = self.getCorrectForm(word.getName() + " " + nextWord.getName(),
-                                                    self.__merged_words)
+                                                     self.__merged_words)
             if forced_replacement != "":
                 result.addWord(Word(forced_replacement))
                 return True
         return False
 
-    def addSplitWords(self, multiWord: str, result: Sentence):
+    def addSplitWords(self,
+                      multiWord: str,
+                      result: Sentence):
         words = multiWord.split(" ")
         result.addWord(Word(words[0]))
         result.addWord(Word(words[1]))
 
-    def forcedSplitCheck(self, word: Word, result: Sentence) -> bool:
+    def forcedSplitCheck(self,
+                         word: Word,
+                         result: Sentence) -> bool:
         forced_replacement = self.getCorrectForm(word.getName(), self.__split_words)
         if forced_replacement != "":
             self.addSplitWords(forced_replacement, result)
@@ -213,16 +242,111 @@ class SimpleSpellChecker(SpellChecker):
         return False
 
     def forcedShortcutCheck(self, word: Word, result: Sentence) -> bool:
-        shortcut_regex = "[0-9]+(" + self.__shortcuts[0]
+        shortcut_regex = "(([1-9][0-9]*)|[0])(([.]|[,])[0-9]*)?(" + self.__shortcuts[0]
         for i in range(1, len(self.__shortcuts)):
             shortcut_regex = shortcut_regex + "|" + self.__shortcuts[i]
         shortcut_regex = shortcut_regex + ")"
-        compiled_expression = re.compile(shortcut_regex)
-        if compiled_expression.fullmatch(word.getName()):
+        conditional_shortcut_regex = "(([1-9][0-9]{0,2})|[0])(([.]|[,])[0-9]*)?(" + self.__conditionalShortcuts[0]
+        for i in range(1, len(self.__conditionalShortcuts)):
+            conditional_shortcut_regex = conditional_shortcut_regex + "|" + self.__conditionalShortcuts[i]
+        conditional_shortcut_regex = conditional_shortcut_regex + ")"
+        compiled_expression1 = re.compile(shortcut_regex)
+        compiled_expression2 = re.compile(conditional_shortcut_regex)
+        if compiled_expression1.fullmatch(word.getName()) or compiled_expression2.fullmatch(word.getName()):
             pair = self.getSplitPair(word)
             forced_replacement = pair[0] + " " + pair[1]
             result.addWord(Word(forced_replacement))
             return True
+        return False
+
+    def forcedDeDaSplitCheck(self,
+                             word: Word,
+                             result: Sentence) -> bool:
+        word_name = word.getName()
+        capitalized_word_name = Word.toCapital(word_name)
+        txt_word = None
+        if word_name.endswith("da") or word_name.endswith("de"):
+            if self.fsm.morphologicalAnalysis(word_name).size() == 0 and \
+                    self.fsm.morphologicalAnalysis(capitalized_word_name).size() == 0:
+                new_word_name = word_name[0:len(word_name) - 2]
+                fsm_parse_list = self.fsm.morphologicalAnalysis(new_word_name)
+                txt_new_word = self.fsm.getDictionary().getWord(Word.toLower(new_word_name))
+                if txt_new_word is not None and isinstance(txt_new_word, TxtWord) and txt_new_word.isProperNoun():
+                    if self.fsm.morphologicalAnalysis(new_word_name + "'" + "da").size() > 0:
+                        result.addWord(Word(new_word_name + "'" + "da"))
+                    else:
+                        result.addWord(Word(new_word_name + "'" + "de"))
+                    return True
+                if fsm_parse_list.size() > 0:
+                    txt_word = self.fsm.getDictionary().getWord(
+                        fsm_parse_list.getParseWithLongestRootWord().getWord().getName())
+                if txt_word is not None and isinstance(txt_word, TxtWord) and not txt_word.isCode():
+                    result.addWord(Word(new_word_name))
+                    if TurkishLanguage.isBackVowel(Word.lastVowel(new_word_name)):
+                        if txt_word.notObeysVowelHarmonyDuringAgglutination():
+                            result.addWord(Word("de"))
+                        else:
+                            result.addWord(Word("da"))
+                    else:
+                        if txt_word.notObeysVowelHarmonyDuringAgglutination():
+                            result.addWord(Word("da"))
+                        else:
+                            result.addWord(Word("de"))
+                    return True
+        return False
+
+    def forcedSuffixMergeCheck(self,
+                               word: Word,
+                               result: Sentence,
+                               previousWord: Word) -> bool:
+        li_list = ["li", "lı", "lu", "lü"]
+        lik_list = ["lik", "lık", "luk", "lük"]
+        compiled_expression = re.compile("[0-9]+")
+        if word.getName() in li_list or word.getName() in lik_list:
+            if previousWord is not None and compiled_expression.fullmatch(previousWord.getName()):
+                for suffix in li_list:
+                    if len(word.getName()) == 2 and self.fsm.morphologicalAnalysis(
+                            previousWord.getName() + "'" + suffix).size() > 0:
+                        result.replaceWord(result.wordCount() - 1, Word(previousWord.getName() + "'" + suffix))
+                        return True
+                for suffix in lik_list:
+                    if len(word.getName()) == 3 and self.fsm.morphologicalAnalysis(
+                            previousWord.getName() + "'" + suffix).size() > 0:
+                        result.replaceWord(result.wordCount() - 1, Word(previousWord.getName() + "'" + suffix))
+                        return True
+        return False
+
+    def forcedHyphenMergeCheck(self,
+                               word: Word,
+                               result: Sentence,
+                               previousWord: Word,
+                               nextWord: Word) -> bool:
+        if word.getName() == "-" or word.getName() == "–" or word.getName() == "—":
+            compiled_expression = re.compile("[a-zA-ZçöğüşıÇÖĞÜŞİ]+")
+            if previousWord is not None and nextWord is not None and \
+                    compiled_expression.fullmatch(previousWord.getName()) and \
+                    compiled_expression.fullmatch(nextWord.getName()):
+                new_word_name = previousWord.getName() + "-" + nextWord.getName()
+                if self.fsm.morphologicalAnalysis(new_word_name).size() > 0:
+                    result.replaceWord(result.wordCount() - 1, Word(new_word_name))
+                    return True
+        return False
+
+    def forcedQuestionSuffixSplitCheck(self,
+                                       word: Word,
+                                       result: Sentence) -> bool:
+        word_name = word.getName()
+        if self.fsm.morphologicalAnalysis(word_name).size() > 0:
+            return False
+        for question_suffix in self.__questionSuffixList:
+            if word_name.endswith(question_suffix):
+                new_word_name = word_name[0:word_name.rindex(question_suffix)]
+                txt_word = self.fsm.getDictionary().getWord(new_word_name)
+                if self.fsm.morphologicalAnalysis(new_word_name).size() > 0 and txt_word is not None \
+                        and isinstance(txt_word, TxtWord) and not txt_word.isCode():
+                    result.addWord(Word(new_word_name))
+                    result.addWord(Word(question_suffix))
+                    return True
         return False
 
     def loadDictionaries(self):
@@ -254,7 +378,8 @@ class SimpleSpellChecker(SpellChecker):
                 merged_candidates.append(backward_merge_candidate)
         if nextWord is not None:
             forward_merge_candidate = Candidate(word.getName() + nextWord.getName(), Operator.FORWARD_MERGE)
-            if backward_merge_candidate is None or backward_merge_candidate.getName() != forward_merge_candidate.getName():
+            if backward_merge_candidate is None or \
+                    backward_merge_candidate.getName() != forward_merge_candidate.getName():
                 fsm_parse_list = self.fsm.morphologicalAnalysis(forward_merge_candidate.getName())
                 if fsm_parse_list.size() != 0:
                     merged_candidates.append(forward_merge_candidate)

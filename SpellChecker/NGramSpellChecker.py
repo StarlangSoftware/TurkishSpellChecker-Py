@@ -1,3 +1,5 @@
+import re
+
 from Corpus.Sentence import Sentence
 from Dictionary.Word import Word
 from MorphologicalAnalysis.FsmMorphologicalAnalyzer import FsmMorphologicalAnalyzer
@@ -5,17 +7,18 @@ from NGram.NGram import NGram
 from SpellChecker.Candidate import Candidate
 from SpellChecker.Operator import Operator
 from SpellChecker.SimpleSpellChecker import SimpleSpellChecker
+from SpellChecker.SpellCheckerParameter import SpellCheckerParameter
 
 
 class NGramSpellChecker(SimpleSpellChecker):
+
     __nGram: NGram
-    __root_n_gram: bool
-    __threshold: float
+    __parameter: SpellCheckerParameter
 
     def __init__(self,
                  fsm: FsmMorphologicalAnalyzer,
                  nGram: NGram,
-                 rootNGram: bool):
+                 parameter: SpellCheckerParameter):
         """
         A constructor of NGramSpellChecker class which takes a FsmMorphologicalAnalyzer and an NGram as inputs. Then,
         calls its super class SimpleSpellChecker with given FsmMorphologicalAnalyzer and assigns given NGram to the
@@ -30,8 +33,7 @@ class NGramSpellChecker(SimpleSpellChecker):
         """
         super().__init__(fsm)
         self.__nGram = nGram
-        self.__root_n_gram = rootNGram
-        self.__threshold = 0.0
+        self.__parameter = parameter
 
     def checkAnalysisAndSetRootForWordAtIndex(self,
                                               sentence: Sentence,
@@ -44,25 +46,36 @@ class NGramSpellChecker(SimpleSpellChecker):
         @return If the word is misspelled, null; otherwise the longest root word of the possible analyses.
         """
         if index < sentence.wordCount():
+            word_name = sentence.getWord(index).getName()
+            compiled_expression1 = re.compile(".*\d+.*")
+            compiled_expression2 = re.compile(".*[a-zA-ZçöğüşıÇÖĞÜŞİ]+.*")
+            if (compiled_expression1.fullmatch(word_name) and compiled_expression2.fullmatch(word_name) \
+                and "'" not in word_name) or len(word_name) <= 3:
+                return sentence.getWord(index)
             fsm_parses = self.fsm.morphologicalAnalysis(sentence.getWord(index).getName())
             if fsm_parses.size() != 0:
-                if self.__root_n_gram:
+                if self.__parameter.isRootNGram():
                     return fsm_parses.getParseWithLongestRootWord().getWord()
                 else:
                     return sentence.getWord(index)
+            else:
+                upper_case_word_name = Word.toCapital(word_name)
+                upper_case_fsm_parses = self.fsm.morphologicalAnalysis(upper_case_word_name)
+                if upper_case_fsm_parses.size() != 0:
+                    if self.__parameter.isRootNGram():
+                        return upper_case_fsm_parses.getParseWithLongestRootWord().getWord()
+                    else:
+                        return sentence.getWord(index)
         return None
 
     def checkAnalysisAndSetRoot(self, word: str) -> Word:
         fsm_parses = self.fsm.morphologicalAnalysis(word)
         if fsm_parses.size() != 0:
-            if self.__root_n_gram:
+            if self.__parameter.isRootNGram():
                 return fsm_parses.getParseWithLongestRootWord().getWord()
             else:
                 return Word(word)
         return None
-
-    def setThreshold(self, threshold: float):
-        self.__threshold = threshold
 
     def getProbability(self,
                        word1: str,
@@ -120,13 +133,15 @@ class NGramSpellChecker(SimpleSpellChecker):
                 next_root = self.checkAnalysisAndSetRootForWordAtIndex(sentence, i + 2)
                 i = i + 1
                 continue
-            if self.forcedBackwardMergeCheck(word, result, previous_word):
+            if self.forcedBackwardMergeCheck(word, result, previous_word) or \
+                    self.forcedSuffixMergeCheck(word, result, previous_word):
                 previous_root = self.checkAnalysisAndSetRootForWordAtIndex(result, result.wordCount() - 1)
                 root = self.checkAnalysisAndSetRootForWordAtIndex(sentence, i + 1)
                 next_root = self.checkAnalysisAndSetRootForWordAtIndex(sentence, i + 2)
                 i = i + 1
                 continue
-            if self.forcedForwardMergeCheck(word, result, next_word):
+            if self.forcedForwardMergeCheck(word, result, next_word) or \
+                    self.forcedHyphenMergeCheck(word, result, previous_word, next_word):
                 i = i + 1
                 previous_root = self.checkAnalysisAndSetRootForWordAtIndex(result, result.wordCount() - 1)
                 root = self.checkAnalysisAndSetRootForWordAtIndex(sentence, i + 1)
@@ -139,13 +154,23 @@ class NGramSpellChecker(SimpleSpellChecker):
                 next_root = self.checkAnalysisAndSetRootForWordAtIndex(sentence, i + 2)
                 i = i + 1
                 continue
-            if root is None:
-                candidates = self.candidateList(word)
+            if self.__parameter.isDeMiCheck():
+                if self.forcedDeDaSplitCheck(word, result) or self.forcedQuestionSuffixSplitCheck(word, result):
+                    previous_root = self.checkAnalysisAndSetRootForWordAtIndex(result, result.wordCount() - 1)
+                    root = next_root
+                    next_root = self.checkAnalysisAndSetRootForWordAtIndex(sentence, i + 2)
+                    i = i + 1
+                    continue
+            if root is None or \
+                    (len(word.getName()) <= 3 and self.fsm.morphologicalAnalysis(word.getName()).size() == 0):
+                candidates = []
+                if root is None:
+                    candidates.extend(self.candidateList(word))
+                    candidates.extend(self.splitCandidatesList(word))
                 candidates.extend(self.mergedCandidatesList(previous_word, word, next_word))
-                candidates.extend(self.splitCandidatesList(word))
                 best_candidate = Candidate(word.getName(), Operator.NO_CHANGE)
                 best_root = word
-                best_probability = self.__threshold
+                best_probability = self.__parameter.getThreshold()
                 for candidate in candidates:
                     if candidate.getOperator() == Operator.SPELL_CHECK or \
                             candidate.getOperator() == Operator.MISSPELLED_REPLACE:
