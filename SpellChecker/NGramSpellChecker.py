@@ -41,16 +41,16 @@ class NGramSpellChecker(SimpleSpellChecker):
         """
         Checks the morphological analysis of the given word in the given index. If there is no misspelling, it returns
         the longest root word of the possible analyses.
-        @param sentence Sentence to be analyzed.
-        @param index Index of the word
-        @return If the word is misspelled, null; otherwise the longest root word of the possible analyses.
+        :param sentence Sentence to be analyzed.
+        :param index Index of the word
+        :return If the word is misspelled, null; otherwise the longest root word of the possible analyses.
         """
         if index < sentence.wordCount():
             word_name = sentence.getWord(index).getName()
             compiled_expression1 = re.compile(".*\d+.*")
             compiled_expression2 = re.compile(".*[a-zA-ZçöğüşıÇÖĞÜŞİ]+.*")
             if (compiled_expression1.fullmatch(word_name) and compiled_expression2.fullmatch(word_name) \
-                and "'" not in word_name) or len(word_name) <= 3:
+                and "'" not in word_name) or len(word_name) < self.__parameter.getMinWordLength():
                 return sentence.getWord(index)
             fsm_parses = self.fsm.morphologicalAnalysis(sentence.getWord(index).getName())
             if fsm_parses.size() != 0:
@@ -69,10 +69,22 @@ class NGramSpellChecker(SimpleSpellChecker):
         return None
 
     def checkAnalysisAndSetRoot(self, word: str) -> Word:
-        fsm_parses = self.fsm.morphologicalAnalysis(word)
-        if fsm_parses.size() != 0:
+        """
+        Checks the morphological analysis of the given word. If there is no misspelling, it returns
+        the longest root word of the possible analysis.
+        :param word: Word to be analyzed.
+        :return: If the word is misspelled, null; otherwise the longest root word of the possible analysis.
+        """
+        fsm_parses_of_word = self.fsm.morphologicalAnalysis(word)
+        if fsm_parses_of_word.size() != 0:
             if self.__parameter.isRootNGram():
-                return fsm_parses.getParseWithLongestRootWord().getWord()
+                return fsm_parses_of_word.getParseWithLongestRootWord().getWord()
+            else:
+                return Word(word)
+        fsm_parses_of_capitalized_word = self.fsm.morphologicalAnalysis(word)
+        if fsm_parses_of_capitalized_word.size() != 0:
+            if self.__parameter.isRootNGram():
+                return fsm_parses_of_capitalized_word.getParseWithLongestRootWord().getWord()
             else:
                 return Word(word)
         return None
@@ -162,10 +174,10 @@ class NGramSpellChecker(SimpleSpellChecker):
                     i = i + 1
                     continue
             if root is None or \
-                    (len(word.getName()) <= 3 and self.fsm.morphologicalAnalysis(word.getName()).size() == 0):
+                    (len(word.getName()) <= self.__parameter.getMinWordLength() and self.fsm.morphologicalAnalysis(word.getName()).size() == 0):
                 candidates = []
                 if root is None:
-                    candidates.extend(self.candidateList(word))
+                    candidates.extend(self.candidateList(word, sentence))
                     candidates.extend(self.splitCandidatesList(word))
                 candidates.extend(self.mergedCandidatesList(previous_word, word, next_word))
                 best_candidate = Candidate(word.getName(), Operator.NO_CHANGE)
@@ -173,7 +185,9 @@ class NGramSpellChecker(SimpleSpellChecker):
                 best_probability = self.__parameter.getThreshold()
                 for candidate in candidates:
                     if candidate.getOperator() == Operator.SPELL_CHECK or \
-                            candidate.getOperator() == Operator.MISSPELLED_REPLACE:
+                            candidate.getOperator() == Operator.MISSPELLED_REPLACE or \
+                            candidate.getOperator() == Operator.TRIE_BASED or \
+                            candidate.getOperator() == Operator.CONTEXT_BASED:
                         root = self.checkAnalysisAndSetRoot(candidate.getName())
                     if candidate.getOperator() == Operator.BACKWARD_MERGE and previous_word is not None:
                         root = self.checkAnalysisAndSetRoot(previous_word.getName() + word.getName())
@@ -195,7 +209,7 @@ class NGramSpellChecker(SimpleSpellChecker):
                         next_probability = self.getProbability(root.getName(), next_root.getName())
                     else:
                         next_probability = 0.0
-                    if max(previous_probability, next_probability) > best_probability:
+                    if max(previous_probability, next_probability) > best_probability or len(candidates) == 1:
                         best_candidate = candidate
                         best_root = root
                         best_probability = max(previous_probability, next_probability)

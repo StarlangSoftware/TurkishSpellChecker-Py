@@ -89,7 +89,7 @@ class SimpleSpellChecker(SpellChecker):
                     candidates.append(Candidate(added, Operator.SPELL_CHECK))
         return candidates
 
-    def candidateList(self, word: Word) -> list:
+    def candidateList(self, word: Word, sentence: Sentence) -> list:
         """
         The candidateList method takes a Word as an input and creates a candidates list by calling generateCandidateList
         method with given word. Then, it loop i times where i ranges from 0 to size of candidates list and creates a
@@ -100,6 +100,8 @@ class SimpleSpellChecker(SpellChecker):
         ----------
         word : Word
             Word input.
+        sentence: Sentence
+            Sentence input.
 
         RETURNS
         -------
@@ -167,7 +169,7 @@ class SimpleSpellChecker(SpellChecker):
             if fsm_parse_list.size() == 0 and upper_case_fsm_parse_list.size() == 0:
                 candidates = self.mergedCandidatesList(previous_word, word, next_word)
                 if len(candidates) < 1:
-                    candidates.extend(self.candidateList(word))
+                    candidates.extend(self.candidateList(word, sentence))
                 if len(candidates) < 1:
                     candidates.extend(self.splitCandidatesList(word))
                 if len(candidates) > 0:
