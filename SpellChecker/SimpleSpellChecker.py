@@ -231,8 +231,8 @@ class SimpleSpellChecker(SpellChecker):
                       multiWord: str,
                       result: Sentence):
         words = multiWord.split(" ")
-        result.addWord(Word(words[0]))
-        result.addWord(Word(words[1]))
+        for word in words:
+            result.addWord(Word(word))
 
     def forcedSplitCheck(self,
                          word: Word,
@@ -361,8 +361,10 @@ class SimpleSpellChecker(SpellChecker):
         input_file = open(pkg_resources.resource_filename(__name__, 'data/split.txt'), "r", encoding="utf8")
         lines = input_file.readlines()
         for line in lines:
-            items = line.strip().split(" ")
-            self.__split_words[items[0]] = items[1] + " " + items[2]
+            index = line.strip().index(' ')
+            word = line.strip()[:index]
+            splitWord = line.strip()[index + 1:]
+            self.__split_words[word] = splitWord
         input_file.close()
 
     def getCorrectForm(self, wordName: str, dictionary: dict) -> str:
