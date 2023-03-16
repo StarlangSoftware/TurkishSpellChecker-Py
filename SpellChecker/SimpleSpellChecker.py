@@ -363,8 +363,8 @@ class SimpleSpellChecker(SpellChecker):
         for line in lines:
             index = line.strip().index(' ')
             word = line.strip()[:index]
-            splitWord = line.strip()[index + 1:]
-            self.__split_words[word] = splitWord
+            split_word = line.strip()[index + 1:]
+            self.__split_words[word] = split_word
         input_file.close()
 
     def getCorrectForm(self, wordName: str, dictionary: dict) -> str:
