@@ -1,4 +1,3 @@
-import pkg_resources
 from Corpus.Sentence import Sentence
 from Dictionary.Word import Word
 from MorphologicalAnalysis.FsmMorphologicalAnalyzer import FsmMorphologicalAnalyzer
@@ -35,7 +34,7 @@ class ContextBasedSpellChecker(NGramSpellChecker):
         This method also loads context information from a file.
         """
         self.__context_list = {}
-        input_file = open(pkg_resources.resource_filename(__name__, 'data/context_list.txt'), "r", encoding="utf8")
+        input_file = self.getFile('context_list.txt')
         lines = input_file.readlines()
         for line in lines:
             items = line.strip().split("\t")

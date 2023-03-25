@@ -4,6 +4,7 @@ class SpellCheckerParameter:
     __deMiCheck: bool
     __rootNGram: bool
     __minWordLength: int
+    __domain: str
 
     def __init__(self):
         """
@@ -15,6 +16,7 @@ class SpellCheckerParameter:
         self.__deMiCheck = True
         self.__rootNGram = True
         self.__minWordLength = 4
+        self.__domain = ""
 
     def setThreshold(self, threshold: float):
         """
@@ -44,6 +46,13 @@ class SpellCheckerParameter:
         """
         self.__minWordLength = minWordLength
 
+    def setDomain(self, domain: str):
+        """
+        Sets the _domain name to the specified value.
+        :param domain: the new domain name to set for this object
+        """
+        self.__domain = domain
+
     def getThreshold(self) -> float:
         """
         Returns the threshold value used in calculating the n-gram probabilities.
@@ -71,3 +80,10 @@ class SpellCheckerParameter:
         :return: the minimum word length for the spell checker
         """
         return self.__minWordLength
+
+    def getDomain(self) -> str:
+        """
+        Returns the domain name
+        :return: the domain name
+        """
+        return self.__domain

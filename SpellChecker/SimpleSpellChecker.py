@@ -1,5 +1,6 @@
 import re
 from random import randrange
+from typing import IO
 
 import pkg_resources
 from Corpus.Sentence import Sentence
@@ -11,12 +12,14 @@ from SpellChecker.Candidate import Candidate
 from SpellChecker.Operator import Operator
 
 from SpellChecker.SpellChecker import SpellChecker
+from SpellChecker.SpellCheckerParameter import SpellCheckerParameter
 
 
 class SimpleSpellChecker(SpellChecker):
     fsm: FsmMorphologicalAnalyzer
     __merged_words: dict
     __split_words: dict
+    parameter: SpellCheckerParameter
     __shortcuts: list = ["cc", "cm2", "cm", "gb", "ghz", "gr", "gram", "hz", "inc", "inch", "inç", "kg", "kw", "kva",
                          "litre", "lt", "m2", "m3", "mah", "mb", "metre", "mg", "mhz", "ml", "mm", "mp", "ms",
                          "mt", "mv", "tb", "tl", "va", "volt", "watt", "ah", "hp", "oz", "rpm", "dpi", "ppm", "ohm",
@@ -35,7 +38,7 @@ class SimpleSpellChecker(SpellChecker):
                                   "miymişler", "mıymışsın", "mıymışlar", "muymuşsun", "muymuşlar", "müymüşsün",
                                   "müymüşler", "misinizdir", "mısınızdır", "musunuzdur", "müsünüzdür"]
 
-    def __init__(self, fsm: FsmMorphologicalAnalyzer):
+    def __init__(self, fsm: FsmMorphologicalAnalyzer, parameter: SpellCheckerParameter = None):
         """
         A constructor of SimpleSpellChecker class which takes a FsmMorphologicalAnalyzer as an input and
         assigns it to the fsm variable.
@@ -48,7 +51,17 @@ class SimpleSpellChecker(SpellChecker):
         self.fsm = fsm
         self.__merged_words = {}
         self.__split_words = {}
+        if parameter is None:
+            self.parameter = SpellCheckerParameter()
+        else:
+            self.parameter = parameter
         self.loadDictionaries()
+
+    def getFile(self, file_name: str) -> IO:
+        if len(self.parameter.getDomain()) == 0:
+            return open(pkg_resources.resource_filename(__name__, 'data/' + file_name), "r", encoding="utf8")
+        else:
+            return open(pkg_resources.resource_filename(__name__, 'data/' + self.parameter.getDomain() + "_" + file_name), "r", encoding="utf8")
 
     def __generateCandidateList(self, word: str) -> list:
         """
@@ -352,13 +365,13 @@ class SimpleSpellChecker(SpellChecker):
         return False
 
     def loadDictionaries(self):
-        input_file = open(pkg_resources.resource_filename(__name__, 'data/merged.txt'), "r", encoding="utf8")
+        input_file = self.getFile('merged.txt')
         lines = input_file.readlines()
         for line in lines:
             items = line.strip().split(" ")
             self.__merged_words[items[0] + " " + items[1]] = items[2]
         input_file.close()
-        input_file = open(pkg_resources.resource_filename(__name__, 'data/split.txt'), "r", encoding="utf8")
+        input_file = self.getFile('split.txt')
         lines = input_file.readlines()
         for line in lines:
             index = line.strip().index(' ')
