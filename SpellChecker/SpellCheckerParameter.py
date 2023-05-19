@@ -1,7 +1,7 @@
 class SpellCheckerParameter:
 
     __threshold: float
-    __deMiCheck: bool
+    __suffixCheck: bool
     __rootNGram: bool
     __minWordLength: int
     __domain: str
@@ -13,7 +13,7 @@ class SpellCheckerParameter:
         the minimum word length is 4.
         """
         self.__threshold = 0.0
-        self.__deMiCheck = True
+        self.__suffixCheck = True
         self.__rootNGram = True
         self.__minWordLength = 4
         self.__domain = ""
@@ -25,12 +25,12 @@ class SpellCheckerParameter:
         """
         self.__threshold = threshold
 
-    def setDeMiCheck(self, deMiCheck: bool):
+    def setSuffixCheck(self, suffixCheck: bool):
         """
         Enables or disables De-Mi check for the spell checker.
-        :param deMiCheck: a boolean indicating whether the De-Mi check should be enabled (true) or disabled (false)
+        :param suffixCheck: a boolean indicating whether the De-Mi check should be enabled (true) or disabled (false)
         """
-        self.__deMiCheck = deMiCheck
+        self.__suffixCheck = suffixCheck
 
     def setRootNGram(self, rootNGram: bool):
         """
@@ -60,12 +60,12 @@ class SpellCheckerParameter:
         """
         return self.__threshold
 
-    def isDeMiCheck(self) -> bool:
+    def isSuffixCheck(self) -> bool:
         """
         Returns whether De-Mi check is enabled for the spell checker.
         :return: a boolean indicating whether De-Mi check is enabled for the spell checker
         """
-        return self.__deMiCheck
+        return self.__suffixCheck
 
     def isRootNGram(self) -> bool:
         """

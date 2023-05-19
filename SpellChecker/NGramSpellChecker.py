@@ -164,8 +164,9 @@ class NGramSpellChecker(SimpleSpellChecker):
                 next_root = self.checkAnalysisAndSetRootForWordAtIndex(sentence, i + 2)
                 i = i + 1
                 continue
-            if self.parameter.isDeMiCheck():
-                if self.forcedDeDaSplitCheck(word, result) or self.forcedQuestionSuffixSplitCheck(word, result):
+            if self.parameter.isSuffixCheck():
+                if self.forcedDeDaSplitCheck(word, result) or self.forcedSuffixSplitCheck(word, result) or \
+                        self.forcedQuestionSuffixSplitCheck(word, result):
                     previous_root = self.checkAnalysisAndSetRootForWordAtIndex(result, result.wordCount() - 1)
                     root = next_root
                     next_root = self.checkAnalysisAndSetRootForWordAtIndex(sentence, i + 2)

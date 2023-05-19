@@ -83,6 +83,38 @@ class NGramSpellCheckerTest(unittest.TestCase):
         for i in range(len(modified)):
             self.assertEqual(original[i].toString(), nGramSpellChecker.spellCheck(modified[i]).toString())
 
+    def test_ForcedChecks(self):
+        original = [Sentence("yardımcı olur musunuz ?"),
+                Sentence("buraya daha önce gelmemiş miydik ?"),
+                Sentence("kutunun boyutları 0.2 m x 0.3 m x 0.5 m olacak"),
+                Sentence("2 tb depolama alanına sahip 7200 rpm bir disk"),
+                Sentence("anahtarlarımı Kadıköy'de bir lokantada unutmuşum"),
+                Sentence("bütün suç Selma'da değil"),
+                Sentence("Fransa'nın başkenti Paris'tir"),
+                Sentence("Nişantaşı'ndan Kadıköy'e gitmek için metroya binip Üsküdar'da inmek gerekiyor"),
+                Sentence("90'lı yıllarda ülkede çok büyük değişimler oldu"),
+                Sentence("100'lük parçaları bir araya getirerek 100'lük bir resim oluşturduk"),
+                Sentence("size konuyla ilgili bir e-posta gönderdim"),
+                Sentence("meyve-sebze reyonundan bir kilo elma aldım")]
+        modified = [Sentence("yardımcı olurmusunuz ?"),
+                Sentence("buraya daha önce gelmemişmiydik ?"),
+                Sentence("kutunun boyutları 0.2m x 0.3m x 0.5m olacak"),
+                Sentence("2tb depolama alanına sahip 7200rpm bir disk"),
+                Sentence("anahtarlarımı Kadıköyda bir lokantada unutmuşum"),
+                Sentence("bütün suç Selmada değil"),
+                Sentence("Fransanın başkenti Paristir"),
+                Sentence("Nişantaşından Kadıköye gitmek için metroya binip Üsküdarda inmek gerekiyor"),
+                Sentence("90 lü yıllarda ülkede çok büyük değişimler oldu"),
+                Sentence("100 lık parçaları bir araya getirerek 100 lük bir resim oluşturduk"),
+                Sentence("size konuyla ilgili bir e - posta gönderdim"),
+                Sentence("meyve — sebze reyonundan bir kilo elma aldım")]
+        fsm = FsmMorphologicalAnalyzer()
+        nGram = NGram("../ngram.txt")
+        nGram.calculateNGramProbabilitiesSimple(NoSmoothing())
+        nGramSpellChecker = NGramSpellChecker(fsm, nGram, SpellCheckerParameter())
+        for i in range(len(modified)):
+            self.assertEqual(original[i].toString(), nGramSpellChecker.spellCheck(modified[i]).toString())
+
     def test_SpellCheckSurfaceForm(self):
         fsm = FsmMorphologicalAnalyzer()
         nGram = NGram("../ngram.txt")
