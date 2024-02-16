@@ -188,7 +188,7 @@ class SimpleSpellChecker(SpellChecker):
                     candidates.extend(self.splitCandidatesList(word))
                 if len(candidates) > 0:
                     random_candidate = randrange(len(candidates))
-                    new_word = Word(candidates[random_candidate])
+                    new_word = Word(candidates[random_candidate].getName())
                     if candidates[random_candidate].getOperator() == Operator.BACKWARD_MERGE:
                         result.replaceWord(i - 1, new_word)
                         i = i + 1

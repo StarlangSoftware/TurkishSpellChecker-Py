@@ -18,6 +18,7 @@ class SimpleSpellCheckerTest(unittest.TestCase):
             misspelled = items[0]
             corrected = items[1]
             self.assertEqual(corrected, simpleSpellChecker.spellCheck(Sentence(misspelled)).toString())
+        input.close()
 
 
 if __name__ == '__main__':
