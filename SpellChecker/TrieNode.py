@@ -21,9 +21,18 @@ class TrieNode:
         return self.__children.get(ch)
 
     def addChild(self, ch: str, child: TrieNode):
+        """
+        Adds a child TrieNode to the current TrieNode instance.
+        :param ch: the character key of the child node to be added.
+        :param child: the TrieNode object to be added as a child.
+        """
         self.__children[ch] = child
 
     def childrenToString(self) -> str:
+        """
+        Returns a string representation of the keys of all child TrieNodes of the current TrieNode instance.
+        :return: a string of characters representing the keys of all child TrieNodes.
+        """
         result = ""
         for ch in self.__children:
             result = result + ch

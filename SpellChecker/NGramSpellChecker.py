@@ -90,6 +90,12 @@ class NGramSpellChecker(SimpleSpellChecker):
     def getProbability(self,
                        word1: str,
                        word2: str) -> float:
+        """
+        Returns the bi-gram probability P(word2 | word1) for the given bigram consisting of two words.
+        :param word1: First word in bi-gram
+        :param word2: Second word in bi-gram
+        :return: Bi-gram probability P(word2 | word1)
+        """
         return self.__nGram.getProbability(word1, word2)
 
     def spellCheck(self, sentence: Sentence) -> Sentence:
