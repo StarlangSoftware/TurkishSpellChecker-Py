@@ -3,6 +3,11 @@ Turkish Spell Checker
 
 This tool is a spelling checker for Modern Turkish. It detects spelling errors and corrects them appropriately, through its list of misspellings and matching to the Turkish dictionary.
 
+Simple Web Interface
+============
+
+[Link 1](http://104.247.163.162/nlptoolkit/turkish-spell-checker.html) [Link 2](https://starlangsoftware.github.io/nlptoolkit-web-simple/turkish-spell-checker.html)
+
 Video Lectures
 ============
 
