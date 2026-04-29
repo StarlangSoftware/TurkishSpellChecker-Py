@@ -5,8 +5,8 @@ this_directory = Path(__file__).parent
 long_description = (this_directory / "README.md").read_text(encoding="utf-8")
 
 setup(
-    name='NlpToolkit-SpellChecker',
-    version='1.0.27',
+    name='nlptoolkit_spellchecker',
+    version='1.0.28',
     packages=['SpellChecker'],
     package_data={'SpellChecker.data': ['*.txt']},
     url='https://github.com/StarlangSoftware/TurkishSpellChecker-Py',
