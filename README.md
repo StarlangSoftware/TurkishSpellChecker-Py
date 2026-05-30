@@ -20,7 +20,7 @@ You can also see [Cython](https://github.com/starlangsoftware/TurkishSpellChecke
 
 ## Requirements
 
-* [Python 3.7 or higher](#python)
+* [Python 3.13 or higher](#python)
 * [Git](#git)
 
 ### Python 
